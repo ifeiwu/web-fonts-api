@@ -5,6 +5,7 @@ from starlette.responses import FileResponse
 import random
 import time
 import os
+import helper
 
 app = FastAPI()
 
@@ -38,20 +39,55 @@ def build(item: Item):
     return file_list
 
 
-# 获取所有字体列表
-@app.get("/fonts/")
-def fonts():
-    items = {}
+# 生成字体标题样式
+@app.get("/build-title/")
+def build_title():
+
+    filename2 = ""
+    css_file_name = ""
+    timestamp = str(int(time.time()))
+
     dirs = os.listdir("fonts/")
 
     for dirname in dirs:
+        csscode = ""
+        css_file_name = "css/" + dirname + "/title/" + dirname + ".css"
+
+        if os.path.exists(css_file_name):
+            continue
+
         files = os.listdir("fonts/" + dirname)
+
         for filename in files:
             ext = os.path.splitext(filename)[1]
-            if ext == '.txt':
-                items[dirname] = os.path.splitext(filename)[0]
 
-    return items
+            if ext == '.ttf' or ext == '.otf':
+                font_title = helper.font_title(dirname)
+                font = Font("fonts/" + dirname + "/" + filename)
+                font.subset(text=font_title)
+                filename2 = filename.replace(".ttf", "").replace(".otf", "")
+                font.save_as_woff2(filepath="css/" + dirname + "/title/" + filename2 + ".woff2", overwrite=True)
+
+                weight = filename2.split('-')
+                if len(weight) > 1:
+                    weight = weight[1].lower()
+                else:
+                    weight = "regular"
+
+                weight = helper.font_weight(weight)
+
+                csscode += "@font-face{font-family:'" + dirname + "';src:url('" + filename2 + ".woff2') format('woff2');font-weight:" + weight + ";font-style:normal;font-display:swap;}"
+
+        cssfile = open(css_file_name, 'w')
+        cssfile.write(csscode)
+        cssfile.close()
+
+
+# 获取所有字体列表
+@app.get("/fonts/")
+def fonts():
+
+    return helper.font_list()
 
 
 # 响应下载字体
