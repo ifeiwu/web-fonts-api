@@ -4,7 +4,7 @@
 docker build -t web-fonts-api .
 
 ## window
-docker run -d --restart=always --name web-fonts-api -p 8000:80 -v /d/www/web-fonts-api/app:/app web-fonts-api
+docker run -d --restart=always --name web-fonts-api -p 8000:80 -v /d/www/web-fonts-api:/app web-fonts-api
 
 ## linux
 docker run -d --restart=always --name web-fonts-api -p 8000:80 -v /home/docker/web-fonts-api/app:/app web-fonts-api
