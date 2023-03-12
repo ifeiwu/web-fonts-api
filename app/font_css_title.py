@@ -8,7 +8,7 @@ def font_css_title():
     for dirname in dirs:
         csscode = ""
 
-        save_path = "css/" + dirname + "/title/"
+        save_path = "css/title/" + dirname + "/"
 
         css_file_name = save_path + dirname + ".css"
 

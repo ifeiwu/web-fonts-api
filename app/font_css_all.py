@@ -8,7 +8,7 @@ def font_css_all():
     for dirname in dirs:
         csscode = ""
 
-        save_path = "css/" + dirname + "/all/"
+        save_path = "css/all/" + dirname + "/"
 
         css_file_name = save_path + dirname + ".css"
 
