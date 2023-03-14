@@ -6,13 +6,14 @@ def font_css_all():
     dirs = os.listdir("fonts/")
 
     for dirname in dirs:
-        csscode = ""
+        filenames = []
+        fontfamily = dirname
 
         save_path = "css/all/" + dirname + "/"
 
-        css_file_name = save_path + dirname + ".css"
+        filecss = save_path + dirname + ".css"
 
-        if os.path.exists(css_file_name):
+        if os.path.exists(filecss):
             continue
 
         files = os.listdir("fonts/" + dirname)
@@ -21,19 +22,11 @@ def font_css_all():
             ext = os.path.splitext(filename)[1]
 
             if ext == '.ttf' or ext == '.otf':
-                filename2 = filename.replace(".ttf", "").replace(".otf", "")
-
+                # 没有扩展名
+                filename2 = os.path.splitext(filename)[0]
+                # 生成web字体
                 helper.font_to_woff2(None, "fonts/" + dirname + "/" + filename, save_path + filename2 + ".woff2")
 
-                weight = filename2.split('-')
-
-                if len(weight) > 1:
-                    weight = weight[1].lower()
-                else:
-                    weight = "regular"
-
-                weight = helper.font_weight(weight)
-
-                csscode += "@font-face{font-family:'" + dirname + "';src:url('" + filename2 + ".woff2') format('woff2');font-weight:" + weight + ";font-style:normal;font-display:swap;}"
-
-        helper.write_file(csscode, css_file_name)
+                filenames.append(filename2)
+        # 生成字体样式
+        helper.font_to_css(fontfamily, filenames, filecss)
