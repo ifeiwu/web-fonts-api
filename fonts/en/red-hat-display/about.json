@@ -1,0 +1,80 @@
+{
+    "copyright": "Copyright 2021 The Red Hat Project Authors (https://github.com/RedHatOfficial/RedHatFont)",
+    "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "designer": "Pentagram, MCKL",
+    "designer_url": "https://pentagram.com/",
+    "family": "Red Hat Display Black",
+    "file_list": [
+        {
+            "file_name": "RedHatDisplay-Black.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Black",
+            "font_weight_value": "900"
+        },
+        {
+            "file_name": "RedHatDisplay-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "RedHatDisplay-ExtraBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraBold",
+            "font_weight_value": "800"
+        },
+        {
+            "file_name": "RedHatDisplay-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "RedHatDisplay-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "RedHatDisplay-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "RedHatDisplay-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "SemiBold",
+            "font_weight_value": "600"
+        }
+    ],
+    "file_path": "fonts/en/red-hat-display",
+    "id": "red-hat-display-black",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2021 The Red Hat Project Authors (https://github.com/RedHatOfficial/RedHatFont)",
+        "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "designer": "Pentagram, MCKL",
+        "designer_url": "https://pentagram.com/",
+        "family_name": "Red Hat Display Black",
+        "full_name": "Red Hat Display Black",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Pentagram, MCKL",
+        "postscript_name": "RedHatDisplay-Black",
+        "subfamily_name": "Regular",
+        "trademark": "Copyright 2021 The Red Hat Project Authors (https://github.com/RedHatOfficial/RedHatFont)",
+        "typographic_family_name": "Red Hat Display",
+        "typographic_subfamily_name": "Black",
+        "unique_identifier": "1.023;MCKL;RedHatDisplay-Black",
+        "variations_postscript_name_prefix": "RedHatDisplayRoman",
+        "vendor_url": "https://www.mckltype.com",
+        "version": "Version 1.023"
+    },
+    "source_url": "",
+    "title": "Red Hat Display Black",
+    "vendor_url": "https://www.mckltype.com",
+    "version": "Version 1.023"
+}

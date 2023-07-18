@@ -1,0 +1,63 @@
+{
+    "copyright": "Copyright 2018 The Solway Project Authors (https://github.com/mashavp/Solway)",
+    "description": "",
+    "designer": "Mariya V. Pigoulevskaya",
+    "designer_url": "https://mariyavp.com",
+    "family": "Solway",
+    "file_list": [
+        {
+            "file_name": "Solway-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Solway-ExtraBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraBold",
+            "font_weight_value": "800"
+        },
+        {
+            "file_name": "Solway-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "Solway-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "Solway-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/solway",
+    "id": "solway",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2018 The Solway Project Authors (https://github.com/mashavp/Solway)",
+        "designer": "Mariya V. Pigoulevskaya",
+        "designer_url": "https://mariyavp.com",
+        "family_name": "Solway",
+        "full_name": "Solway Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "The Northern Block Ltd.",
+        "postscript_name": "Solway-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "1.000;UKWN;Solway-Bold",
+        "vendor_url": "http://www.thenorthernblock.co.uk",
+        "version": "Version 1.000"
+    },
+    "source_url": "",
+    "title": "Solway",
+    "vendor_url": "http://www.thenorthernblock.co.uk",
+    "version": "Version 1.000"
+}

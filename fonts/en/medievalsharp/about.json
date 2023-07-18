@@ -1,0 +1,35 @@
+{
+    "copyright": "wmk69\nSIL Open Font License v.1.1",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "MedievalSharp",
+    "file_list": [
+        {
+            "file_name": "MedievalSharp-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/medievalsharp",
+    "id": "medievalsharp",
+    "language": "en",
+    "license_description": "Copyright (c) 2011, wmk69, (wmk69@o2.pl),\nwith Reserved Font Name NovaRound.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "wmk69\nSIL Open Font License v.1.1",
+        "family_name": "MedievalSharp",
+        "full_name": "MedievalSharp",
+        "license_description": "Copyright (c) 2011, wmk69, (wmk69@o2.pl),\nwith Reserved Font Name NovaRound.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "postscript_name": "MedievalSharp",
+        "subfamily_name": "Regular",
+        "unique_identifier": "FontForge : MedievalSharp : 27-2-2011",
+        "version": "Version 1.0"
+    },
+    "source_url": "",
+    "title": "MedievalSharp",
+    "vendor_url": "",
+    "version": "Version 1.0"
+}

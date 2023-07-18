@@ -1,0 +1,42 @@
+{
+    "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Trykker\".",
+    "description": "Trykker is a high contrast serifed text face. Trykker has a pleasant old fashioned elegance derived from on 16th century text faces. Trykker can be used from small sizes to larger display settings.",
+    "designer": "Magnus Gaarde",
+    "designer_url": "www.skriftklog.dk",
+    "family": "Trykker",
+    "file_list": [
+        {
+            "file_name": "Trykker-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/trykker",
+    "id": "trykker",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "compatible_full": "Trykker",
+        "copyright_notice": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Trykker\".",
+        "description": "Trykker is a high contrast serifed text face. Trykker has a pleasant old fashioned elegance derived from on 16th century text faces. Trykker can be used from small sizes to larger display settings.",
+        "designer": "Magnus Gaarde",
+        "designer_url": "www.skriftklog.dk",
+        "family_name": "Trykker",
+        "full_name": "Trykker Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Magnus Gaarde",
+        "postscript_name": "Trykker-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Trykker is a trademark of Sorkin Type Co.",
+        "unique_identifier": "MagnusGaarde: Trykker Regular: 2011",
+        "vendor_url": "www.sorkintype.com",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Trykker",
+    "vendor_url": "www.sorkintype.com",
+    "version": "Version 1.001"
+}

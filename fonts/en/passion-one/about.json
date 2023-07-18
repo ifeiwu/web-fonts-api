@@ -1,0 +1,54 @@
+{
+    "copyright": "Copyright (c) 2011 Fontstage (info@fontstage.com), with Reserved Font Name \"Passion\"",
+    "description": "",
+    "designer": "Alejandro Lo Celso",
+    "designer_url": "www.fontstage.com",
+    "family": "Passion One Black",
+    "file_list": [
+        {
+            "file_name": "PassionOne-Black.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Black",
+            "font_weight_value": "900"
+        },
+        {
+            "file_name": "PassionOne-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "PassionOne-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/passion-one",
+    "id": "passion-one-black",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 Fontstage (info@fontstage.com), with Reserved Font Name \"Passion\"",
+        "designer": "Alejandro Lo Celso",
+        "designer_url": "www.fontstage.com",
+        "family_name": "Passion One Black",
+        "full_name": "Passion One Black",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Fontstage",
+        "postscript_name": "PassionOne-Black",
+        "subfamily_name": "Regular",
+        "trademark": "Passion is a trademark of Fontstage.",
+        "typographic_family_name": "Passion One",
+        "typographic_subfamily_name": "Black",
+        "unique_identifier": "1.002;PYRS;PassionOne-Black",
+        "vendor_url": "www.fontstage.com",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Passion One Black",
+    "vendor_url": "www.fontstage.com",
+    "version": "Version 1.002"
+}

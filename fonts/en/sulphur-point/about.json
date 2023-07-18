@@ -1,0 +1,51 @@
+{
+    "copyright": "Copyright 2019 The Sulphur Point Project Authors (https://github.com/noponies)",
+    "description": "",
+    "designer": "Noponies / Dale Sattler",
+    "designer_url": "http://noponies.com",
+    "family": "Sulphur Point",
+    "file_list": [
+        {
+            "file_name": "SulphurPoint-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "SulphurPoint-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "SulphurPoint-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/sulphur-point",
+    "id": "sulphur-point",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2019 The Sulphur Point Project Authors (https://github.com/noponies)",
+        "designer": "Noponies / Dale Sattler",
+        "designer_url": "http://noponies.com",
+        "family_name": "Sulphur Point",
+        "full_name": "Sulphur Point Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Noponies",
+        "postscript_name": "SulphurPoint-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "1.000;NOPN;SulphurPoint-Bold",
+        "vendor_url": "http://noponies.com",
+        "version": "Version 1.000; ttfautohint (v1.8)"
+    },
+    "source_url": "",
+    "title": "Sulphur Point",
+    "vendor_url": "http://noponies.com",
+    "version": "Version 1.000; ttfautohint (v1.8)"
+}

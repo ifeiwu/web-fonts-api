@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2010 by Font Diner, Inc. All rights reserved.",
+    "description": "",
+    "designer": "Font Diner, Inc",
+    "designer_url": "http://www.fontdiner.com",
+    "family": "Homemade Apple",
+    "file_list": [
+        {
+            "file_name": "HomemadeApple-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/homemade-apple",
+    "id": "homemade-apple",
+    "language": "en",
+    "license_description": "Licensed under the Apache License, Version 2.0",
+    "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+    "names": {
+        "copyright_notice": "Copyright (c) 2010 by Font Diner, Inc. All rights reserved.",
+        "designer": "Font Diner, Inc",
+        "designer_url": "http://www.fontdiner.com",
+        "family_name": "Homemade Apple",
+        "full_name": "Homemade Apple Regular",
+        "license_description": "Licensed under the Apache License, Version 2.0",
+        "license_info_url": "http://www.apache.org/licenses/LICENSE-2.0",
+        "manufacturer_name": "Font Diner, Inc",
+        "postscript_name": "HomemadeApple-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Homemade Apple is a trademark of Font Diner, Inc.",
+        "unique_identifier": "1.001;DINR;HomemadeApple-Regular",
+        "vendor_url": "http://www.fontdiner.com",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Homemade Apple",
+    "vendor_url": "http://www.fontdiner.com",
+    "version": "Version 1.001"
+}

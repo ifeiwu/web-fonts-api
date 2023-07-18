@@ -1,0 +1,41 @@
+{
+    "copyright": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Kavoon'",
+    "description": "Kavoon is a display face based on experiments with brush and ink. Kavoon's expressive features make words vivid and powerfully draw the reader in. Kavoon may be used from medium to large sizes.",
+    "designer": "Viktoriya Grabowska",
+    "designer_url": "www.vikaniesiada.blogspot.com",
+    "family": "Kavoon",
+    "file_list": [
+        {
+            "file_name": "Kavoon-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/kavoon",
+    "id": "kavoon",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Kavoon'",
+        "description": "Kavoon is a display face based on experiments with brush and ink. Kavoon's expressive features make words vivid and powerfully draw the reader in. Kavoon may be used from medium to large sizes.",
+        "designer": "Viktoriya Grabowska",
+        "designer_url": "www.vikaniesiada.blogspot.com",
+        "family_name": "Kavoon",
+        "full_name": "Kavoon",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Viktoriya Grabowska",
+        "postscript_name": "Kavoon-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Kavoon is a trademark of Sorkin Type Co.",
+        "unique_identifier": "1.004;STC ;Kavoon-Regular",
+        "vendor_url": "www.sorkintype.com",
+        "version": "Version 1.004; ttfautohint (v1.4.1)"
+    },
+    "source_url": "",
+    "title": "Kavoon",
+    "vendor_url": "www.sorkintype.com",
+    "version": "Version 1.004; ttfautohint (v1.4.1)"
+}

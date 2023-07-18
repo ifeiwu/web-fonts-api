@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2004 Alejandro Paul (sudtipos@sudtipos.com),\rwith Reserved Font Name \"MissFajardose\"",
+    "description": "",
+    "designer": "Alejandro Paul",
+    "designer_url": "http://www.sudtipos.com",
+    "family": "Miss Fajardose",
+    "file_list": [
+        {
+            "file_name": "MissFajardose-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/miss-fajardose",
+    "id": "miss-fajardose",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2004 Alejandro Paul (sudtipos@sudtipos.com),\rwith Reserved Font Name \"MissFajardose\"",
+        "designer": "Alejandro Paul",
+        "designer_url": "http://www.sudtipos.com",
+        "family_name": "Miss Fajardose",
+        "full_name": "Miss Fajardose Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Alejandro Paul",
+        "postscript_name": "MissFajardose-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "MissFajardose is a trademark of Alejandro Paul.",
+        "unique_identifier": "AlejandroPaul: Miss Fajardose Regular: 2004",
+        "vendor_url": "http://www.sudtipos.com",
+        "version": "Version 1.000"
+    },
+    "source_url": "",
+    "title": "Miss Fajardose",
+    "vendor_url": "http://www.sudtipos.com",
+    "version": "Version 1.000"
+}

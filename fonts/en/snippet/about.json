@@ -1,0 +1,42 @@
+{
+    "copyright": "Copyright (c) 2011 Gesine Todt Ê(www.gesine-todt.de), with Reserved Font Name \"Snippet\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "description": "Copyright (c) 2011 by Gesine Todt. All rights reserved.",
+    "designer": "Gesine Todt",
+    "designer_url": "http://www.gesine-todt.de",
+    "family": "Snippet",
+    "file_list": [
+        {
+            "file_name": "Snippet-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/snippet",
+    "id": "snippet",
+    "language": "en",
+    "license_description": "Copyright (c) 2011 Gesine Todt Ê(www.gesine-todt.de), with Reserved Font Name \"Snippet\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "compatible_full": "Snippet",
+        "copyright_notice": "Copyright (c) 2011 Gesine Todt Ê(www.gesine-todt.de), with Reserved Font Name \"Snippet\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "description": "Copyright (c) 2011 by Gesine Todt. All rights reserved.",
+        "designer": "Gesine Todt",
+        "designer_url": "http://www.gesine-todt.de",
+        "family_name": "Snippet",
+        "full_name": "Snippet",
+        "license_description": "Copyright (c) 2011 Gesine Todt Ê(www.gesine-todt.de), with Reserved Font Name \"Snippet\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Gesine Todt",
+        "postscript_name": "Snippet",
+        "subfamily_name": "Regular",
+        "trademark": "Snippet is a trademark of Gesine Todt.",
+        "unique_identifier": "GesineTodt: Snippet: 2011",
+        "vendor_url": "http://www.gesine-todt.de",
+        "version": "Version 1.000"
+    },
+    "source_url": "",
+    "title": "Snippet",
+    "vendor_url": "http://www.gesine-todt.de",
+    "version": "Version 1.000"
+}

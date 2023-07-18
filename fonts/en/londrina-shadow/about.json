@@ -1,0 +1,39 @@
+{
+    "copyright": "Copyright 2011 The Londrina Shadow Authors (https://github.com/marcelommp/Londrina-Typeface), with Reserved Font Name \"Londrina Shadow\"",
+    "description": "",
+    "designer": "Marcelo Magalhaes",
+    "designer_url": "http://www.marcelomagalhaes.net",
+    "family": "Londrina Shadow",
+    "file_list": [
+        {
+            "file_name": "LondrinaShadow-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/londrina-shadow",
+    "id": "londrina-shadow",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2011 The Londrina Shadow Authors (https://github.com/marcelommp/Londrina-Typeface), with Reserved Font Name \"Londrina Shadow\"",
+        "designer": "Marcelo Magalhaes",
+        "designer_url": "http://www.marcelomagalhaes.net",
+        "family_name": "Londrina Shadow",
+        "full_name": "Londrina Shadow Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Marcelo Magalhães",
+        "postscript_name": "LondrinaShadow-Regular",
+        "subfamily_name": "Regular",
+        "unique_identifier": "1.002;PYRS;LondrinaShadow-Regular",
+        "vendor_url": "http://www.tipospereira.com",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Londrina Shadow",
+    "vendor_url": "http://www.tipospereira.com",
+    "version": "Version 1.002"
+}

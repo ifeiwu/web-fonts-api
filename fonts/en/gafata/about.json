@@ -1,0 +1,38 @@
+{
+    "copyright": "Copyright (c) 2010-2012, Lautaro Hourcade (lautaro.uy@gmail.com), with Reserved Font Name 'Gafata'",
+    "description": "",
+    "designer": "Lautaro Hourcade",
+    "designer_url": "",
+    "family": "Gafata",
+    "file_list": [
+        {
+            "file_name": "Gafata-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/gafata",
+    "id": "gafata",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2010-2012, Lautaro Hourcade (lautaro.uy@gmail.com), with Reserved Font Name 'Gafata'",
+        "designer": "Lautaro Hourcade",
+        "family_name": "Gafata",
+        "full_name": "Gafata",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Lautaro Hourcade",
+        "postscript_name": "Gafata-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Gafata is a trademark of Lautaro Hourcade.",
+        "unique_identifier": "LautaroHourcade: Gafata: 2010",
+        "version": "Version 4.002"
+    },
+    "source_url": "",
+    "title": "Gafata",
+    "vendor_url": "",
+    "version": "Version 4.002"
+}

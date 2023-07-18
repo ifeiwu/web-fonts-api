@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2010 by Font Diner, Inc DBA Sideshow. All rights reserved. Available under the Apache 2.0 licence.\nhttp://www.apache.org/licenses/LICENSE-2.0.html",
+    "description": "",
+    "designer": "Gillian Fisher",
+    "designer_url": "http://gillographic.com/",
+    "family": "Rochester",
+    "file_list": [
+        {
+            "file_name": "Rochester-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/rochester",
+    "id": "rochester",
+    "language": "en",
+    "license_description": "Licensed under the Apache License, Version 2.0",
+    "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+    "names": {
+        "copyright_notice": "Copyright (c) 2010 by Font Diner, Inc DBA Sideshow. All rights reserved. Available under the Apache 2.0 licence.\nhttp://www.apache.org/licenses/LICENSE-2.0.html",
+        "designer": "Gillian Fisher",
+        "designer_url": "http://gillographic.com/",
+        "family_name": "Rochester",
+        "full_name": "Rochester Regular",
+        "license_description": "Licensed under the Apache License, Version 2.0",
+        "license_info_url": "http://www.apache.org/licenses/LICENSE-2.0",
+        "manufacturer_name": "Font Diner, Inc DBA Sideshow",
+        "postscript_name": "Rochester-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Rochester is a trademark of Font Diner, Inc DBA Sideshow",
+        "unique_identifier": "1.006;DINR;Rochester-Regular",
+        "vendor_url": "http://www.fontbros.com/sideshow.php",
+        "version": "Version 1.006"
+    },
+    "source_url": "",
+    "title": "Rochester",
+    "vendor_url": "http://www.fontbros.com/sideshow.php",
+    "version": "Version 1.006"
+}

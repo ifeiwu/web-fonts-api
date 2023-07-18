@@ -1,0 +1,49 @@
+{
+    "copyright": "Copyright 2019 The Gupter Project Authors (https://github.com/octaviopardo/GUPTER)",
+    "description": "",
+    "designer": "Octavio Pardo",
+    "designer_url": "www.octaviopardo.com",
+    "family": "Gupter",
+    "file_list": [
+        {
+            "file_name": "Gupter-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Gupter-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "Gupter-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/gupter",
+    "id": "gupter",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2019 The Gupter Project Authors (https://github.com/octaviopardo/GUPTER)",
+        "designer": "Octavio Pardo",
+        "designer_url": "www.octaviopardo.com",
+        "family_name": "Gupter",
+        "full_name": "Gupter Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "postscript_name": "Gupter-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "1.000;MODI;Gupter-Bold",
+        "version": "Version 1.000"
+    },
+    "source_url": "",
+    "title": "Gupter",
+    "vendor_url": "",
+    "version": "Version 1.000"
+}

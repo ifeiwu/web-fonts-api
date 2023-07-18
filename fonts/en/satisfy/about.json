@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2011 by Font Diner, Inc. All rights reserved.",
+    "description": "",
+    "designer": "Font Diner, Inc",
+    "designer_url": "http://www.fontdiner.com",
+    "family": "Satisfy",
+    "file_list": [
+        {
+            "file_name": "Satisfy-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/satisfy",
+    "id": "satisfy",
+    "language": "en",
+    "license_description": "Licensed under the Apache License, Version 2.0",
+    "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 by Font Diner, Inc. All rights reserved.",
+        "designer": "Font Diner, Inc",
+        "designer_url": "http://www.fontdiner.com",
+        "family_name": "Satisfy",
+        "full_name": "Satisfy Regular",
+        "license_description": "Licensed under the Apache License, Version 2.0",
+        "license_info_url": "http://www.apache.org/licenses/LICENSE-2.0",
+        "manufacturer_name": "Font Diner, Inc",
+        "postscript_name": "Satisfy-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Satisfy is a trademark of Font Diner, Inc.",
+        "unique_identifier": "1.001;DINR;Satisfy-Regular",
+        "vendor_url": "http://www.fontdiner.com",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Satisfy",
+    "vendor_url": "http://www.fontdiner.com",
+    "version": "Version 1.001"
+}

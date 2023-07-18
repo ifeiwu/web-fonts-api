@@ -1,0 +1,39 @@
+{
+    "copyright": "Copyright 2013 The Ropa Sans Project Authors (nikoltchev@lettersoup.de), with Reserved Font Name \"Ropa Sans\".",
+    "description": "",
+    "designer": "Botio Nikoltchev",
+    "designer_url": "http://www.lettersoup.de",
+    "family": "Ropa Sans",
+    "file_list": [
+        {
+            "file_name": "RopaSans-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/ropa-sans",
+    "id": "ropa-sans",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2013 The Ropa Sans Project Authors (nikoltchev@lettersoup.de), with Reserved Font Name \"Ropa Sans\".",
+        "designer": "Botio Nikoltchev",
+        "designer_url": "http://www.lettersoup.de",
+        "family_name": "Ropa Sans",
+        "full_name": "Ropa Sans Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Botio Nikoltchev",
+        "postscript_name": "RopaSans-Regular",
+        "subfamily_name": "Regular",
+        "unique_identifier": "1.100;UKWN;RopaSans-Regular",
+        "vendor_url": "http://www.lettersoup.de",
+        "version": "Version 1.100"
+    },
+    "source_url": "",
+    "title": "Ropa Sans",
+    "vendor_url": "http://www.lettersoup.de",
+    "version": "Version 1.100"
+}

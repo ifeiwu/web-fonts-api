@@ -1,0 +1,41 @@
+{
+    "copyright": "Copyright (c) 2010-2011, Nathan Willis (nwillis@glyphography.com), with Reserved Font Name \"News Cycle.\"",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "News Cycle",
+    "file_list": [
+        {
+            "file_name": "NewsCycle-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "NewsCycle-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/news-cycle",
+    "id": "news-cycle",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2010-2011, Nathan Willis (nwillis@glyphography.com), with Reserved Font Name \"News Cycle.\"",
+        "family_name": "News Cycle",
+        "full_name": "News Cycle Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "postscript_name": "NewsCycle-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "FontForge : News Cycle : 13-4-2015",
+        "version": "Version 0.5.1"
+    },
+    "source_url": "",
+    "title": "News Cycle",
+    "vendor_url": "",
+    "version": "Version 0.5.1"
+}

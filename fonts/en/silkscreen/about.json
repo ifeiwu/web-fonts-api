@@ -1,0 +1,45 @@
+{
+    "copyright": "Copyright 2001 The Silkscreen Project Authors (https://github.com/googlefonts/silkscreen)",
+    "description": "",
+    "designer": "Jason Kottke",
+    "designer_url": "https://kottke.org/",
+    "family": "Silkscreen",
+    "file_list": [
+        {
+            "file_name": "Silkscreen-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Silkscreen-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/silkscreen",
+    "id": "silkscreen",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2001 The Silkscreen Project Authors (https://github.com/googlefonts/silkscreen)",
+        "designer": "Jason Kottke",
+        "designer_url": "https://kottke.org/",
+        "family_name": "Silkscreen",
+        "full_name": "Silkscreen Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Jason Kottke",
+        "postscript_name": "Silkscreen-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "1.001;UNKN;Silkscreen-Bold",
+        "vendor_url": "https://kottke.org/",
+        "version": "Version 1.001; ttfautohint (v1.8.4.7-5d5b)"
+    },
+    "source_url": "",
+    "title": "Silkscreen",
+    "vendor_url": "https://kottke.org/",
+    "version": "Version 1.001; ttfautohint (v1.8.4.7-5d5b)"
+}

@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2011 by Tyler Finck. All rights reserved.",
+    "description": "",
+    "designer": "Tyler Finck",
+    "designer_url": "www.sursly.com",
+    "family": "Knewave",
+    "file_list": [
+        {
+            "file_name": "Knewave-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/knewave",
+    "id": "knewave",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "compatible_full": "Knewave",
+        "copyright_notice": "Copyright (c) 2011 by Tyler Finck. All rights reserved.",
+        "designer": "Tyler Finck",
+        "designer_url": "www.sursly.com",
+        "family_name": "Knewave",
+        "full_name": "Knewave",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Tyler Finck",
+        "postscript_name": "Knewave-Regular",
+        "subfamily_name": "Regular",
+        "unique_identifier": "FontForge 2.0 : Knewave : 19-11-2011",
+        "vendor_url": "www.sursly.com",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Knewave",
+    "vendor_url": "www.sursly.com",
+    "version": "Version 1.001"
+}

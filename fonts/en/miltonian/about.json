@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2011 by Pablo Impallari (www.impallari.com impallari@gmail.com). Igino Marini (www.ikern.com)",
+    "description": "",
+    "designer": "Pablo Impallari",
+    "designer_url": "www.impallari.com",
+    "family": "Miltonian",
+    "file_list": [
+        {
+            "file_name": "Miltonian-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/miltonian",
+    "id": "miltonian",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 by Pablo Impallari (www.impallari.com impallari@gmail.com). Igino Marini (www.ikern.com)",
+        "designer": "Pablo Impallari",
+        "designer_url": "www.impallari.com",
+        "family_name": "Miltonian",
+        "full_name": "Miltonian",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Pablo Impallari",
+        "postscript_name": "Miltonian-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Miltonian is a trademark of Pablo Impallari",
+        "unique_identifier": "PabloImpallari.www.impallari.comIginoMarini.www.ikern.com: Miltonian: 2011",
+        "vendor_url": "www.impallari.com",
+        "version": "Version 1.008"
+    },
+    "source_url": "",
+    "title": "Miltonian",
+    "vendor_url": "www.impallari.com",
+    "version": "Version 1.008"
+}

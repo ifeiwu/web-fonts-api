@@ -1,0 +1,52 @@
+{
+    "copyright": "Copyright (c) 2011 by vernon adams. All rights reserved. with\nReserved Font Names \"Tienne\" and \"Tienne Regular\". This\nFont Software is licensed under the SIL Open Font License, Version\n1.1. This license is available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+    "description": "",
+    "designer": "vernon adams",
+    "designer_url": "newtypography.co.uk",
+    "family": "Tienne Black",
+    "file_list": [
+        {
+            "file_name": "Tienne-Black.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Black",
+            "font_weight_value": "900"
+        },
+        {
+            "file_name": "Tienne-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Tienne-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/tienne",
+    "id": "tienne-black",
+    "language": "en",
+    "license_description": "",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 by vernon adams. All rights reserved. with\nReserved Font Names \"Tienne\" and \"Tienne Regular\". This\nFont Software is licensed under the SIL Open Font License, Version\n1.1. This license is available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+        "designer": "vernon adams",
+        "designer_url": "newtypography.co.uk",
+        "family_name": "Tienne Black",
+        "full_name": "Tienne Black",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "vernon adams",
+        "postscript_name": "Tienne-Black",
+        "subfamily_name": "Regular",
+        "trademark": "Tienne Heavy is a trademark of vernon adams.",
+        "typographic_family_name": "Tienne",
+        "typographic_subfamily_name": "Black",
+        "unique_identifier": "001.001;UKWN;Tienne-Black",
+        "version": "Version 001.001"
+    },
+    "source_url": "",
+    "title": "Tienne Black",
+    "vendor_url": "",
+    "version": "Version 001.001"
+}

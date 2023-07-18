@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2012 by Font Diner, Inc DBA Neapolitan (diner@fontdiner.com) with Reseved Font Name \"Griffy\"",
+    "description": "",
+    "designer": "Squid",
+    "designer_url": "http://www.squidart.com",
+    "family": "Griffy",
+    "file_list": [
+        {
+            "file_name": "Griffy-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/griffy",
+    "id": "griffy",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2012 by Font Diner, Inc DBA Neapolitan (diner@fontdiner.com) with Reseved Font Name \"Griffy\"",
+        "designer": "Squid",
+        "designer_url": "http://www.squidart.com",
+        "family_name": "Griffy",
+        "full_name": "Griffy",
+        "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Font Diner, Inc DBA Neapolitan",
+        "postscript_name": "Griffy-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Griffy is a trademark of Font Diner, Inc DBA Neapolitan.",
+        "unique_identifier": "FontDiner,IncDBANeapolitan: Griffy: 2012",
+        "vendor_url": "http://www.fontbros.com/foundries/neapolitan",
+        "version": "Version 1.000"
+    },
+    "source_url": "",
+    "title": "Griffy",
+    "vendor_url": "http://www.fontbros.com/foundries/neapolitan",
+    "version": "Version 1.000"
+}

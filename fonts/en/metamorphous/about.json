@@ -1,0 +1,42 @@
+{
+    "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Metamorphous\".",
+    "description": "Metamorphous is a medium contrast design taking style cues from a wide variety of sources. It draws on and mixes together Romanesque, Gothic and the more familiar Remaissance letter shapes. Originally inspired by display fonts including the free font Morpheous designed by Kiwi Media as well as the work of Jonathan Barnbrook; Metamorphous is designed to be useful in a broad range of applications and sizes. Metamorphous also covers most languages that use Latin letters.",
+    "designer": "James Grieshaber",
+    "designer_url": "www.typeco.com",
+    "family": "Metamorphous",
+    "file_list": [
+        {
+            "file_name": "Metamorphous-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/metamorphous",
+    "id": "metamorphous",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "compatible_full": "Metamorphous",
+        "copyright_notice": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Metamorphous\".",
+        "description": "Metamorphous is a medium contrast design taking style cues from a wide variety of sources. It draws on and mixes together Romanesque, Gothic and the more familiar Remaissance letter shapes. Originally inspired by display fonts including the free font Morpheous designed by Kiwi Media as well as the work of Jonathan Barnbrook; Metamorphous is designed to be useful in a broad range of applications and sizes. Metamorphous also covers most languages that use Latin letters.",
+        "designer": "James Grieshaber",
+        "designer_url": "www.typeco.com",
+        "family_name": "Metamorphous",
+        "full_name": "Metamorphous",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "James Grieshaber",
+        "postscript_name": "Metamorphous",
+        "subfamily_name": "Regular",
+        "trademark": "Metamorphous is a trademark of Sorkin Type Co.",
+        "unique_identifier": "JamesGrieshaber: Metamorphous: 2011",
+        "vendor_url": "www.sorkintype.com",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Metamorphous",
+    "vendor_url": "www.sorkintype.com",
+    "version": "Version 1.001"
+}

@@ -1,0 +1,48 @@
+{
+    "copyright": "Copyright (c) 2010 by Sorkin Type Co with Reserved Font Name Stoke.",
+    "description": "Stoke is a semi-wide high contrast serifed text typeface. Stoke is inspired by letters found on 20th century UK posters showing an odd combination of seriousness of form and whimsical proportions and details. Stoke's low x height make it most suitable for use at medium to large sizes.",
+    "designer": "Nicole Fally",
+    "designer_url": "sorkintype.com",
+    "family": "Stoke",
+    "file_list": [
+        {
+            "file_name": "Stoke-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "Stoke-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/stoke",
+    "id": "stoke",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "compatible_full": "Stoke",
+        "copyright_notice": "Copyright (c) 2010 by Sorkin Type Co with Reserved Font Name Stoke.",
+        "description": "Stoke is a semi-wide high contrast serifed text typeface. Stoke is inspired by letters found on 20th century UK posters showing an odd combination of seriousness of form and whimsical proportions and details. Stoke's low x height make it most suitable for use at medium to large sizes.",
+        "designer": "Nicole Fally",
+        "designer_url": "sorkintype.com",
+        "family_name": "Stoke",
+        "full_name": "Stoke Light",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Nicole Fally",
+        "postscript_name": "Stoke-Light",
+        "subfamily_name": "Light",
+        "trademark": "Stoke is a trademark of Sorkin Type Co.",
+        "unique_identifier": "NicoleFally: Stoke Light: 2011",
+        "vendor_url": "sorkintype.com",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Stoke",
+    "vendor_url": "sorkintype.com",
+    "version": "Version 1.001"
+}

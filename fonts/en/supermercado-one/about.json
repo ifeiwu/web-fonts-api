@@ -1,0 +1,42 @@
+{
+    "copyright": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Supermercado\".",
+    "description": "Supermercado One is a low contrast semi geometric typeface inspired by naive industrial letters. Supermercado One is not a typical mechanical sans because it incorporates unexpected swashes, especially in its capitals. Supermercado One is surprisingly versatile: it is certainly quite distinctive when set at larges sizes but it can also work at fairly small sizes and in blocks of text.",
+    "designer": "James Grieshaber",
+    "designer_url": "www.typeco.com",
+    "family": "Supermercado",
+    "file_list": [
+        {
+            "file_name": "SupermercadoOne-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/supermercado-one",
+    "id": "supermercado",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "compatible_full": "Supermercado Regular",
+        "copyright_notice": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Supermercado\".",
+        "description": "Supermercado One is a low contrast semi geometric typeface inspired by naive industrial letters. Supermercado One is not a typical mechanical sans because it incorporates unexpected swashes, especially in its capitals. Supermercado One is surprisingly versatile: it is certainly quite distinctive when set at larges sizes but it can also work at fairly small sizes and in blocks of text.",
+        "designer": "James Grieshaber",
+        "designer_url": "www.typeco.com",
+        "family_name": "Supermercado",
+        "full_name": "Supermercado Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "James Grieshaber",
+        "postscript_name": "Supermercado-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Supermercado is a trademark of Sorkin Type Co.",
+        "unique_identifier": "JamesGrieshaber: Supermercado Regular: 2011",
+        "vendor_url": "www.sorkintype.com",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Supermercado",
+    "vendor_url": "www.sorkintype.com",
+    "version": "Version 1.002"
+}

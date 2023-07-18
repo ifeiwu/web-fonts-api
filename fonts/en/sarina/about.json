@@ -1,0 +1,42 @@
+{
+    "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Sarina\".",
+    "description": "Sarina is a display typeface with brush style letterforms. Sarina's medium contrast and wide setting offers a casual breezy feeling. Sarina is appropriate for medium to larger sizes.",
+    "designer": "James Grieshaber",
+    "designer_url": "www.typeco.com",
+    "family": "Sarina",
+    "file_list": [
+        {
+            "file_name": "Sarina-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/sarina",
+    "id": "sarina",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "compatible_full": "Sarina",
+        "copyright_notice": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Sarina\".",
+        "description": "Sarina is a display typeface with brush style letterforms. Sarina's medium contrast and wide setting offers a casual breezy feeling. Sarina is appropriate for medium to larger sizes.",
+        "designer": "James Grieshaber",
+        "designer_url": "www.typeco.com",
+        "family_name": "Sarina",
+        "full_name": "Sarina",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "James Grieshaber",
+        "postscript_name": "Sarina-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Sarina is a trademark of Sorkin Type Co.",
+        "unique_identifier": "JamesGrieshaber: Sarina: 2011",
+        "vendor_url": "www.sorkintype.com",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Sarina",
+    "vendor_url": "www.sorkintype.com",
+    "version": "Version 1.001"
+}

@@ -1,0 +1,39 @@
+{
+    "copyright": "Copyright 2013 The Redacted Project Authors (https://github.com/christiannaths/redacted-font)",
+    "description": "",
+    "designer": "Christian Naths",
+    "designer_url": "https://christiannaths.com",
+    "family": "Redacted",
+    "file_list": [
+        {
+            "file_name": "Redacted-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/redacted",
+    "id": "redacted",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2013 The Redacted Project Authors (https://github.com/christiannaths/redacted-font)",
+        "designer": "Christian Naths",
+        "designer_url": "https://christiannaths.com",
+        "family_name": "Redacted",
+        "full_name": "Redacted Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Christian Naths",
+        "postscript_name": "Redacted-Regular",
+        "subfamily_name": "Regular",
+        "unique_identifier": "1.002;NONE;Redacted-Regular",
+        "vendor_url": "https://github.com/christiannaths/Redacted-Font",
+        "version": "Version 1.002; ttfautohint (v1.8.3)"
+    },
+    "source_url": "",
+    "title": "Redacted",
+    "vendor_url": "https://github.com/christiannaths/Redacted-Font",
+    "version": "Version 1.002; ttfautohint (v1.8.3)"
+}

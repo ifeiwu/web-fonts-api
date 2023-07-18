@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2011 by John Vargas Beltrn (john.vargasbeltran@gmail.com), with Reserved Font Name Salsa.",
+    "description": "",
+    "designer": "John Vargas Beltrn",
+    "designer_url": "www.johnvargasbeltran.com",
+    "family": "Salsa",
+    "file_list": [
+        {
+            "file_name": "Salsa-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/salsa",
+    "id": "salsa",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 by John Vargas Beltrn (john.vargasbeltran@gmail.com), with Reserved Font Name Salsa.",
+        "designer": "John Vargas Beltrn",
+        "designer_url": "www.johnvargasbeltran.com",
+        "family_name": "Salsa",
+        "full_name": "Salsa-Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "John Vargas Beltran",
+        "postscript_name": "Salsa-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Salsa Regular is a trademark of John Vargas Beltran.",
+        "unique_identifier": "JohnVargasBeltran: Salsa Regular: 2011",
+        "vendor_url": "www.johnvargasbeltran.com",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Salsa",
+    "vendor_url": "www.johnvargasbeltran.com",
+    "version": "Version 1.002"
+}

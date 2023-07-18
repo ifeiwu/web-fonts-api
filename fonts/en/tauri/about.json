@@ -1,0 +1,41 @@
+{
+    "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name 'Tauri'.",
+    "description": "Tauri is a semi condense sans typeface with a sense of restraint, clarity and rigor. Tauri's unique qualities do not shout and instead emerge slowly and organically as it is used. Tauri is useful from small to medium sizes but has enough subtle detail to be used at large sizes as well if it is more tightly spaced.",
+    "designer": "Yvonne Schüttler",
+    "designer_url": "www.ysch.de",
+    "family": "Tauri",
+    "file_list": [
+        {
+            "file_name": "Tauri-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/tauri",
+    "id": "tauri",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name 'Tauri'.",
+        "description": "Tauri is a semi condense sans typeface with a sense of restraint, clarity and rigor. Tauri's unique qualities do not shout and instead emerge slowly and organically as it is used. Tauri is useful from small to medium sizes but has enough subtle detail to be used at large sizes as well if it is more tightly spaced.",
+        "designer": "Yvonne Schüttler",
+        "designer_url": "www.ysch.de",
+        "family_name": "Tauri",
+        "full_name": "Tauri-Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Yvonne Schüttler",
+        "postscript_name": "TauriRegular",
+        "subfamily_name": "Regular",
+        "trademark": "Tauri is a trademark of Sorkin Type Co.",
+        "unique_identifier": "YvonneSchttler: Tauri-Regular: 2013",
+        "vendor_url": "www.sorkintype.com",
+        "version": "Version 1.003; ttfautohint (v0.93.8-669f) -l 13 -r 13 -G 200 -x 13 -w \"gG\" -W -c"
+    },
+    "source_url": "",
+    "title": "Tauri",
+    "vendor_url": "www.sorkintype.com",
+    "version": "Version 1.003; ttfautohint (v0.93.8-669f) -l 13 -r 13 -G 200 -x 13 -w \"gG\" -W -c"
+}

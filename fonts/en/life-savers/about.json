@@ -1,0 +1,52 @@
+{
+    "copyright": "Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com),\rCopyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello@rfuenzalida.com), \rCopyright (c) 2012, Igino Marini. (www.ikern.com|mail@iginomarini.com),\rwith Reserved Font Name Life Savers.",
+    "description": "",
+    "designer": "Pablo Impallari, Rodrigo Fuenzalida, Brenda Gallo",
+    "designer_url": "www.impallari.com",
+    "family": "Life Savers",
+    "file_list": [
+        {
+            "file_name": "LifeSavers-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "LifeSavers-ExtraBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraBold",
+            "font_weight_value": "800"
+        },
+        {
+            "file_name": "LifeSavers-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/life-savers",
+    "id": "life-savers",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com),\rCopyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello@rfuenzalida.com), \rCopyright (c) 2012, Igino Marini. (www.ikern.com|mail@iginomarini.com),\rwith Reserved Font Name Life Savers.",
+        "designer": "Pablo Impallari, Rodrigo Fuenzalida, Brenda Gallo",
+        "designer_url": "www.impallari.com",
+        "family_name": "Life Savers",
+        "full_name": "Life Savers Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Pablo Impallari, Rodrigo Fuenzalida, Brenda Gallo",
+        "postscript_name": "LifeSavers-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Life Savers is a trademark of Pablo Impallari.",
+        "unique_identifier": "3.001;PYRS;LifeSavers-Bold",
+        "vendor_url": "www.impallari.com",
+        "version": "Version 3.001; ttfautohint (v0.95) -l 8 -r 50 -G 200 -x 14 -w \"G\""
+    },
+    "source_url": "",
+    "title": "Life Savers",
+    "vendor_url": "www.impallari.com",
+    "version": "Version 3.001; ttfautohint (v0.95) -l 8 -r 50 -G 200 -x 14 -w \"G\""
+}

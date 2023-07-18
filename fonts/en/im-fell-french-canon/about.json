@@ -1,0 +1,41 @@
+{
+    "copyright": "© 2007 Igino Marini (www.iginomarini.com) With Reserved Font Name IM FELL French Canon Roman",
+    "description": "Fell Types - French Canon size - Roman. Typeface from the  types bequeathed in 1686 to the University of Oxford by John Fell. Originally cut by Peter De Walpergen. Acquisition in 1686. To be printed at 39 points to match the original size. Autospaced and autokerned using iKern© developed by Igino Marini.",
+    "designer": "Igino Marini",
+    "designer_url": "www.iginomarini.com",
+    "family": "IM FELL French Canon",
+    "file_list": [
+        {
+            "file_name": "IMFellFrenchCanon-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/im-fell-french-canon",
+    "id": "im-fell-french-canon",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "© 2007 Igino Marini (www.iginomarini.com) With Reserved Font Name IM FELL French Canon Roman",
+        "description": "Fell Types - French Canon size - Roman. Typeface from the  types bequeathed in 1686 to the University of Oxford by John Fell. Originally cut by Peter De Walpergen. Acquisition in 1686. To be printed at 39 points to match the original size. Autospaced and autokerned using iKern© developed by Igino Marini.",
+        "designer": "Igino Marini",
+        "designer_url": "www.iginomarini.com",
+        "family_name": "IM FELL French Canon",
+        "full_name": "IM FELL French Canon Roman",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Igino Marini,",
+        "postscript_name": "IM_FELL_French_Canon_Roman",
+        "subfamily_name": "Regular",
+        "typographic_family_name": "IM FELL French Canon",
+        "unique_identifier": "Igino Marini's FELL French Canon Roman",
+        "vendor_url": "www.iginomarini.com",
+        "version": "3.00"
+    },
+    "source_url": "",
+    "title": "IM FELL French Canon",
+    "vendor_url": "www.iginomarini.com",
+    "version": "3.00"
+}

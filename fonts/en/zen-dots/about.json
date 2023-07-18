@@ -1,0 +1,39 @@
+{
+    "copyright": "Copyright 2021 The Dots Project Authors (https://github.com/googlefonts/zen-dots)",
+    "description": "",
+    "designer": "Yoshimichi Ohira",
+    "designer_url": "https://www.zenfont.jp/",
+    "family": "Zen Dots",
+    "file_list": [
+        {
+            "file_name": "ZenDots-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/zen-dots",
+    "id": "zen-dots",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2021 The Dots Project Authors (https://github.com/googlefonts/zen-dots)",
+        "designer": "Yoshimichi Ohira",
+        "designer_url": "https://www.zenfont.jp/",
+        "family_name": "Zen Dots",
+        "full_name": "Zen Dots Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "A-1 Corp ZenFonts",
+        "postscript_name": "ZenDots-Regular",
+        "subfamily_name": "Regular",
+        "unique_identifier": "1.000;NONE;ZenDots-Regular",
+        "vendor_url": "https://www.zenfont.jp/",
+        "version": "Version 1.000; ttfautohint (v1.8.3)"
+    },
+    "source_url": "",
+    "title": "Zen Dots",
+    "vendor_url": "https://www.zenfont.jp/",
+    "version": "Version 1.000; ttfautohint (v1.8.3)"
+}

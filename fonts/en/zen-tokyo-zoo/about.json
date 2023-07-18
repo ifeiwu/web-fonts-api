@@ -1,0 +1,39 @@
+{
+    "copyright": "Copyright 2021 The Zen Tokyo Zoo Project Authors (https://github.com/googlefonts/zen-tokyo-zoo)",
+    "description": "",
+    "designer": "Yoshimichi Ohira",
+    "designer_url": "https://www.zenfont.jp/",
+    "family": "Zen Tokyo Zoo",
+    "file_list": [
+        {
+            "file_name": "ZenTokyoZoo-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/zen-tokyo-zoo",
+    "id": "zen-tokyo-zoo",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2021 The Zen Tokyo Zoo Project Authors (https://github.com/googlefonts/zen-tokyo-zoo)",
+        "designer": "Yoshimichi Ohira",
+        "designer_url": "https://www.zenfont.jp/",
+        "family_name": "Zen Tokyo Zoo",
+        "full_name": "Zen Tokyo Zoo Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "A-1 Corp ZenFonts",
+        "postscript_name": "ZenTokyoZoo-Regular",
+        "subfamily_name": "Regular",
+        "unique_identifier": "1.002;NONE;ZenTokyoZoo-Regular",
+        "vendor_url": "https://www.zenfont.jp/",
+        "version": "Version 1.002; ttfautohint (v1.8.3)"
+    },
+    "source_url": "",
+    "title": "Zen Tokyo Zoo",
+    "vendor_url": "https://www.zenfont.jp/",
+    "version": "Version 1.002; ttfautohint (v1.8.3)"
+}

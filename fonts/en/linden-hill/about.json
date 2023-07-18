@@ -1,0 +1,35 @@
+{
+    "copyright": "Copyright (c) 2010, Barry Schwartz (chemoelectric@chemoelectric.org)\n",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "Linden Hill",
+    "file_list": [
+        {
+            "file_name": "LindenHill-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/linden-hill",
+    "id": "linden-hill",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2010, Barry Schwartz (chemoelectric@chemoelectric.org)\n",
+        "family_name": "Linden Hill",
+        "full_name": "Linden Hill Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "postscript_name": "LindenHill-Regular",
+        "subfamily_name": "Regular",
+        "unique_identifier": "FontForge 2.0 : Linden Hill Regular : 28-10-2011",
+        "version": "Version 1.202 "
+    },
+    "source_url": "",
+    "title": "Linden Hill",
+    "vendor_url": "",
+    "version": "Version 1.202 "
+}

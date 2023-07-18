@@ -1,0 +1,39 @@
+{
+    "copyright": "Copyright (c) 2012, Brownfox (gayaneh.b@gmail.com), with Reserved Font Name \"Henny Penny\"",
+    "description": "",
+    "designer": "Olga Umpeleva",
+    "designer_url": "",
+    "family": "Henny Penny",
+    "file_list": [
+        {
+            "file_name": "HennyPenny-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/henny-penny",
+    "id": "henny-penny",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2012, Brownfox (gayaneh.b@gmail.com), with Reserved Font Name \"Henny Penny\"",
+        "designer": "Olga Umpeleva",
+        "family_name": "Henny Penny",
+        "full_name": "Henny Penny",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Brownfox",
+        "postscript_name": "HennyPenny-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Henny Penny is a trademark of Brownfox",
+        "unique_identifier": "Brownfox: Henny Penny: 2012",
+        "vendor_url": "http://www.brownfox.org",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Henny Penny",
+    "vendor_url": "http://www.brownfox.org",
+    "version": "Version 1.001"
+}

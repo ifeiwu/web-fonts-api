@@ -1,0 +1,64 @@
+{
+    "copyright": "Copyright (c) 2015 by Jasper de Waard. All rights reserved.",
+    "description": "Copyright (c) 2015 by Jasper de Waard. All rights reserved.",
+    "designer": "Jasper de Waard",
+    "designer_url": "BureauRoffa.com",
+    "family": "Proza Libre",
+    "file_list": [
+        {
+            "file_name": "ProzaLibre-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "ProzaLibre-ExtraBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraBold",
+            "font_weight_value": "800"
+        },
+        {
+            "file_name": "ProzaLibre-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "ProzaLibre-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "ProzaLibre-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "SemiBold",
+            "font_weight_value": "600"
+        }
+    ],
+    "file_path": "fonts/en/proza-libre",
+    "id": "proza-libre",
+    "language": "en",
+    "license_description": "SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2015 by Jasper de Waard. All rights reserved.",
+        "description": "Copyright (c) 2015 by Jasper de Waard. All rights reserved.",
+        "designer": "Jasper de Waard",
+        "designer_url": "BureauRoffa.com",
+        "family_name": "Proza Libre",
+        "full_name": "Proza Libre Bold",
+        "license_description": "SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Jasper de Waard",
+        "postscript_name": "ProzaLibre-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Proza Libre Bold is a trademark of Jasper de Waard.",
+        "unique_identifier": "JasperdeWaard: Proza Libre Bold: 2015",
+        "version": "Version 1.000; ttfautohint (v1.4.1.8-43bc)"
+    },
+    "source_url": "",
+    "title": "Proza Libre",
+    "vendor_url": "",
+    "version": "Version 1.000; ttfautohint (v1.4.1.8-43bc)"
+}

@@ -1,0 +1,62 @@
+{
+    "copyright": "Copyright 2021 The Spline Sans Project Authors (https://github.com/SorkinType/SplineSans)",
+    "description": "",
+    "designer": "Eben Sorkin, Mirko Velimirovic",
+    "designer_url": "",
+    "family": "Spline Sans",
+    "file_list": [
+        {
+            "file_name": "SplineSans-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "SplineSans-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "SplineSans-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "SplineSans-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "SplineSans-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "SemiBold",
+            "font_weight_value": "600"
+        }
+    ],
+    "file_path": "fonts/en/spline-sans",
+    "id": "spline-sans",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2021 The Spline Sans Project Authors (https://github.com/SorkinType/SplineSans)",
+        "designer": "Eben Sorkin, Mirko Velimirovic",
+        "family_name": "Spline Sans",
+        "full_name": "Spline Sans Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Sorkin Type",
+        "postscript_name": "SplineSans-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "1.001;NONE;SplineSans-Bold",
+        "variations_postscript_name_prefix": "SplineSans",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Spline Sans",
+    "vendor_url": "",
+    "version": "Version 1.001"
+}

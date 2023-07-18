@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2011 by Font Diner, Inc. All rights reserved.",
+    "description": "",
+    "designer": "Font Diner, Inc",
+    "designer_url": "http://www.fontdiner.com",
+    "family": "Rancho",
+    "file_list": [
+        {
+            "file_name": "Rancho-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/rancho",
+    "id": "rancho",
+    "language": "en",
+    "license_description": "Licensed under the Apache License, Version 2.0",
+    "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 by Font Diner, Inc. All rights reserved.",
+        "designer": "Font Diner, Inc",
+        "designer_url": "http://www.fontdiner.com",
+        "family_name": "Rancho",
+        "full_name": "Rancho Regular",
+        "license_description": "Licensed under the Apache License, Version 2.0",
+        "license_info_url": "http://www.apache.org/licenses/LICENSE-2.0",
+        "manufacturer_name": "Font Diner, Inc",
+        "postscript_name": "Rancho-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Rancho is a trademark of Font Diner, Inc.",
+        "unique_identifier": "1.001;DINR;Rancho-Regular",
+        "vendor_url": "http://www.fontdiner.com",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Rancho",
+    "vendor_url": "http://www.fontdiner.com",
+    "version": "Version 1.001"
+}

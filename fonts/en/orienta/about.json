@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright 2012 The Orienta Project Authors (https://github.com/etunni/orienta) with Reserved Font Name 'Orienta'",
+    "description": "",
+    "designer": "Eduardo Rodriguez Tunni",
+    "designer_url": "www.fontime.com.ar",
+    "family": "Orienta",
+    "file_list": [
+        {
+            "file_name": "Orienta-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/orienta",
+    "id": "orienta",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2012 The Orienta Project Authors (https://github.com/etunni/orienta) with Reserved Font Name 'Orienta'",
+        "designer": "Eduardo Rodriguez Tunni",
+        "designer_url": "www.fontime.com.ar",
+        "family_name": "Orienta",
+        "full_name": "Orienta Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Eduardo Rodriguez Tunni",
+        "postscript_name": "Orienta-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Orienta is a trademark of Eduardo Rodriguez Tunni.",
+        "unique_identifier": "1.002;TIPO;Orienta-Regular",
+        "vendor_url": "www.tipo.net.ar",
+        "version": "Version 1.002; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.23]"
+    },
+    "source_url": "",
+    "title": "Orienta",
+    "vendor_url": "www.tipo.net.ar",
+    "version": "Version 1.002; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.23]"
+}

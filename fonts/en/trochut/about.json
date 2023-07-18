@@ -1,0 +1,46 @@
+{
+    "copyright": "Copyright (c) 2011, Andreu Balius (www.andreubalius.com|mail@andreubalius.com), with Reserved Font Name Trochut",
+    "description": "",
+    "designer": "Andreu Balius",
+    "designer_url": "www.andreubalius.com",
+    "family": "Trochut",
+    "file_list": [
+        {
+            "file_name": "Trochut-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Trochut-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/trochut",
+    "id": "trochut",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, Andreu Balius (www.andreubalius.com|mail@andreubalius.com), with Reserved Font Name Trochut",
+        "designer": "Andreu Balius",
+        "designer_url": "www.andreubalius.com",
+        "family_name": "Trochut",
+        "full_name": "Trochut Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Andreu Balius",
+        "postscript_name": "Trochut-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Trochut is a trademark of Andreu Balius.",
+        "unique_identifier": "AndreuBalius: Trochut Bold: 2011",
+        "vendor_url": "www.typerepublic.com",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Trochut",
+    "vendor_url": "www.typerepublic.com",
+    "version": "Version 1.001"
+}

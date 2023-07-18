@@ -1,0 +1,35 @@
+{
+    "copyright": "Copyright (c) 2011, Typomondo, with Reserved Font Name \"Nosifer\"",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "Nosifer",
+    "file_list": [
+        {
+            "file_name": "Nosifer-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/nosifer",
+    "id": "nosifer",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, Typomondo, with Reserved Font Name \"Nosifer\"",
+        "family_name": "Nosifer",
+        "full_name": "Nosifer",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "postscript_name": "Nosifer-Regular",
+        "subfamily_name": "Regular",
+        "unique_identifier": "FontForge 2.0 : Nosifer : 19-12-2011",
+        "version": "Version 001.002 "
+    },
+    "source_url": "",
+    "title": "Nosifer",
+    "vendor_url": "",
+    "version": "Version 001.002 "
+}

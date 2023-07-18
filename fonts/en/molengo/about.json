@@ -1,0 +1,41 @@
+{
+    "copyright": "Copyright (c) 2007, Denis Moyogo Jacquerye <moyogo@gmail.com>, with Reserved Font Name Molengo",
+    "description": "",
+    "designer": "moyogo",
+    "designer_url": "",
+    "family": "Molengo",
+    "file_list": [
+        {
+            "file_name": "Molengo-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/molengo",
+    "id": "molengo",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/ofl",
+    "names": {
+        "compatible_full": "Molengo",
+        "copyright_notice": "Copyright (c) 2007, Denis Moyogo Jacquerye <moyogo@gmail.com>, with Reserved Font Name Molengo",
+        "designer": "moyogo",
+        "family_name": "Molengo",
+        "full_name": "Molengo",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/ofl",
+        "manufacturer_name": "moyogo",
+        "postscript_name": "Molengo-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Molengo",
+        "typographic_family_name": "Molengo",
+        "typographic_subfamily_name": "Regular",
+        "unique_identifier": "FontForge 2.0 : Molengo : 18-5-2010",
+        "version": "Version 0.11; ttfautohint (v0.8) -G 32 -r 16 -x"
+    },
+    "source_url": "",
+    "title": "Molengo",
+    "vendor_url": "",
+    "version": "Version 0.11; ttfautohint (v0.8) -G 32 -r 16 -x"
+}

@@ -1,0 +1,46 @@
+{
+    "copyright": "Copyright (c) 2010 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\rhttp://www.apache.org/licenses/LICENSE-2.0.html",
+    "description": "",
+    "designer": "Astigmatic (AOETI)",
+    "designer_url": "http://www.astigmatic.com/",
+    "family": "Syncopate",
+    "file_list": [
+        {
+            "file_name": "Syncopate-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Syncopate-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/syncopate",
+    "id": "syncopate",
+    "language": "en",
+    "license_description": "Licensed under the Apache License, Version 2.0",
+    "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+    "names": {
+        "copyright_notice": "Copyright (c) 2010 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\rhttp://www.apache.org/licenses/LICENSE-2.0.html",
+        "designer": "Astigmatic (AOETI)",
+        "designer_url": "http://www.astigmatic.com/",
+        "family_name": "Syncopate",
+        "full_name": "Syncopate Bold",
+        "license_description": "Licensed under the Apache License, Version 2.0",
+        "license_info_url": "http://www.apache.org/licenses/LICENSE-2.0",
+        "manufacturer_name": "Astigmatic (AOETI)",
+        "postscript_name": "Syncopate-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Syncopate is a trademark of Astigmatic (AOETI).",
+        "unique_identifier": "1.001;AOEF;Syncopate-Bold",
+        "vendor_url": "http://www.astigmatic.com/",
+        "version": "Version 1.001 2011"
+    },
+    "source_url": "",
+    "title": "Syncopate",
+    "vendor_url": "http://www.astigmatic.com/",
+    "version": "Version 1.001 2011"
+}

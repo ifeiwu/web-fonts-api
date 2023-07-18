@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2011, Admix Designs (http://www.admixdesigns.com/) with Reserved Font Name Handlee.",
+    "description": "",
+    "designer": "Joe Prince",
+    "designer_url": "http://www.admixdesigns.com/",
+    "family": "Handlee",
+    "file_list": [
+        {
+            "file_name": "Handlee-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/handlee",
+    "id": "handlee",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, Admix Designs (http://www.admixdesigns.com/) with Reserved Font Name Handlee.",
+        "designer": "Joe Prince",
+        "designer_url": "http://www.admixdesigns.com/",
+        "family_name": "Handlee",
+        "full_name": "Handlee Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Joe Prince",
+        "postscript_name": "Handlee-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Handlee is a trademark of Admix Designs (www.admixdesigns.com)",
+        "unique_identifier": "JoePrince: Handlee Regular: 2011",
+        "vendor_url": "http://www.admixdesigns.com/",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Handlee",
+    "vendor_url": "http://www.admixdesigns.com/",
+    "version": "Version 1.001"
+}

@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Grand Hotel\"",
+    "description": "",
+    "designer": "Brian J. Bonislawsky & Jim Lyles for Astigmatic (AOETI)",
+    "designer_url": "http://www.astigmatic.com/",
+    "family": "Grand Hotel",
+    "file_list": [
+        {
+            "file_name": "GrandHotel-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/grand-hotel",
+    "id": "grand-hotel",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Grand Hotel\"",
+        "designer": "Brian J. Bonislawsky & Jim Lyles for Astigmatic (AOETI)",
+        "designer_url": "http://www.astigmatic.com/",
+        "family_name": "Grand Hotel",
+        "full_name": "Grand Hotel",
+        "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Astigmatic (AOETI)",
+        "postscript_name": "GrandHotel-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Grand Hotel is a trademark of Astigmatic (AOETI).",
+        "unique_identifier": "Astigmatic(AOETI): Grand Hotel: 2012",
+        "vendor_url": "http://www.astigmatic.com/",
+        "version": "Version 001.000"
+    },
+    "source_url": "",
+    "title": "Grand Hotel",
+    "vendor_url": "http://www.astigmatic.com/",
+    "version": "Version 001.000"
+}

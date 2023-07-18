@@ -1,0 +1,34 @@
+{
+    "copyright": "Copyright (c) 2010, Birgit Pulk (birgitpulk@gmail.com). All rights reserved. Licenced under SIL OFL v1.1",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "Kristi",
+    "file_list": [
+        {
+            "file_name": "Kristi-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/kristi",
+    "id": "kristi",
+    "language": "en",
+    "license_description": "http://scripts.sil.org/OFL",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "Copyright (c) 2010, Birgit Pulk (birgitpulk@gmail.com). All rights reserved. Licenced under SIL OFL v1.1",
+        "family_name": "Kristi",
+        "full_name": "Kristi Regular",
+        "license_description": "http://scripts.sil.org/OFL",
+        "postscript_name": "Kristi-Regular",
+        "subfamily_name": "Regular",
+        "unique_identifier": "1.004;UKWN;Kristi-Regular",
+        "version": "Version 1.004 "
+    },
+    "source_url": "",
+    "title": "Kristi",
+    "vendor_url": "",
+    "version": "Version 1.004 "
+}

@@ -1,0 +1,35 @@
+{
+    "copyright": "Copyright (c) 2010, 2011 by Daniel Johnson. Released under the terms of the SIL Open Font License.",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "Megrim",
+    "file_list": [
+        {
+            "file_name": "Megrim-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/megrim",
+    "id": "megrim",
+    "language": "en",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "Copyright (c) 2010, 2011 by Daniel Johnson. Released under the terms of the SIL Open Font License.",
+        "family_name": "Megrim",
+        "full_name": "Megrim",
+        "postscript_name": "Megrim",
+        "subfamily_name": "Medium",
+        "typographic_family_name": "Megrim",
+        "typographic_subfamily_name": "Medium",
+        "unique_identifier": "FontForge 2.0 : Megrim : 11-5-2010",
+        "version": "Version 20110427 "
+    },
+    "source_url": "",
+    "title": "Megrim",
+    "vendor_url": "",
+    "version": "Version 20110427 "
+}

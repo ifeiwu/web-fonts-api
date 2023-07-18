@@ -1,0 +1,59 @@
+{
+    "copyright": "Copyright 2011 The Londrina Solid Authors (https://github.com/marcelommp/Londrina-Typeface), with Reserved Font Name \"Londrina Solid\"",
+    "description": "",
+    "designer": "Marcelo Magalhaes",
+    "designer_url": "http://www.marcelomagalhaes.net",
+    "family": "Londrina Solid Black",
+    "file_list": [
+        {
+            "file_name": "LondrinaSolid-Black.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Black",
+            "font_weight_value": "900"
+        },
+        {
+            "file_name": "LondrinaSolid-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "LondrinaSolid-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "LondrinaSolid-Thin.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Thin",
+            "font_weight_value": "100"
+        }
+    ],
+    "file_path": "fonts/en/londrina-solid",
+    "id": "londrina-solid-black",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2011 The Londrina Solid Authors (https://github.com/marcelommp/Londrina-Typeface), with Reserved Font Name \"Londrina Solid\"",
+        "designer": "Marcelo Magalhaes",
+        "designer_url": "http://www.marcelomagalhaes.net",
+        "family_name": "Londrina Solid Black",
+        "full_name": "Londrina Solid Black",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Marcelo Magalhães",
+        "postscript_name": "LondrinaSolid-Black",
+        "subfamily_name": "Regular",
+        "typographic_family_name": "Londrina Solid",
+        "typographic_subfamily_name": "Black",
+        "unique_identifier": "1.002;PYRS;LondrinaSolid-Black",
+        "vendor_url": "http://www.tipospereira.com",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Londrina Solid Black",
+    "vendor_url": "http://www.tipospereira.com",
+    "version": "Version 1.002"
+}

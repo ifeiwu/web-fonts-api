@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2011, Huerta Tipografica (www.huertatipografica.com.ar),  with Reserved Font Names \"Gochi\" and \"Gochi Hand\"",
+    "description": "",
+    "designer": "Juan Pablo del Peral",
+    "designer_url": "www.huertatipografica.com.ar",
+    "family": "Gochi Hand",
+    "file_list": [
+        {
+            "file_name": "GochiHand-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/gochi-hand",
+    "id": "gochi-hand",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "compatible_full": "Gochi Hand",
+        "copyright_notice": "Copyright (c) 2011, Huerta Tipografica (www.huertatipografica.com.ar),  with Reserved Font Names \"Gochi\" and \"Gochi Hand\"",
+        "designer": "Juan Pablo del Peral",
+        "designer_url": "www.huertatipografica.com.ar",
+        "family_name": "Gochi Hand",
+        "full_name": "Gochi Hand",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Juan Pablo del Peral",
+        "postscript_name": "GochiHand-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Gochi Hand is a trademark of Juan Pablo del Peral.",
+        "unique_identifier": "FontForge 2.0 : Gochi Hand : 30-9-2011",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Gochi Hand",
+    "vendor_url": "",
+    "version": "Version 1.001"
+}

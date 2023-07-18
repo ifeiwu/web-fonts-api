@@ -1,0 +1,35 @@
+{
+    "copyright": "Copyright (c) 2011, wmk69 (wmk69@o2.pl)\nwith Reserved Font Names 'NovaOval' and 'Nova Oval'.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "Nova Oval",
+    "file_list": [
+        {
+            "file_name": "NovaOval-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/nova-oval",
+    "id": "nova-oval",
+    "language": "en",
+    "license_description": "Copyright (c) 2011, wmk69, (wmk69@o2.pl)\nwith Reserved Font Name 'NovaOval' and 'Nova Oval'.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at: http://scripts.sil.org/OFL\n",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, wmk69 (wmk69@o2.pl)\nwith Reserved Font Names 'NovaOval' and 'Nova Oval'.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+        "family_name": "Nova Oval",
+        "full_name": "Nova Oval",
+        "license_description": "Copyright (c) 2011, wmk69, (wmk69@o2.pl)\nwith Reserved Font Name 'NovaOval' and 'Nova Oval'.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at: http://scripts.sil.org/OFL\n",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "postscript_name": "NovaOval",
+        "subfamily_name": "Book",
+        "unique_identifier": "FontForge : Nova Oval : 21-8-2011",
+        "version": "Version 2.000"
+    },
+    "source_url": "",
+    "title": "Nova Oval",
+    "vendor_url": "",
+    "version": "Version 2.000"
+}

@@ -1,0 +1,45 @@
+{
+    "copyright": "Copyright (c) 2011 by Constanza Artigas Preller. All rights reserved.",
+    "description": "Copyright (c) 2011 by Constanza Artigas Preller. All rights reserved.",
+    "designer": "Constanza Artigas Preller",
+    "designer_url": "",
+    "family": "Inika",
+    "file_list": [
+        {
+            "file_name": "Inika-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Inika-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/inika",
+    "id": "inika",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 by Constanza Artigas Preller. All rights reserved.",
+        "description": "Copyright (c) 2011 by Constanza Artigas Preller. All rights reserved.",
+        "designer": "Constanza Artigas Preller",
+        "family_name": "Inika",
+        "full_name": "Inika Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Constanza Artigas Preller",
+        "postscript_name": "Inika-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Inika-Bold is a trademark of Constanza Artigas Preller.",
+        "unique_identifier": "ConstanzaArtigas: inika Bold: 2011",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Inika",
+    "vendor_url": "",
+    "version": "Version 1.001"
+}

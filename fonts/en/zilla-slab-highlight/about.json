@@ -1,0 +1,46 @@
+{
+    "copyright": "Copyright 2017, The Mozilla Foundation",
+    "description": "",
+    "designer": "Typotheque Type Foundry",
+    "designer_url": "http://www.typotheque.com",
+    "family": "Zilla Slab Highlight",
+    "file_list": [
+        {
+            "file_name": "ZillaSlabHighlight-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "ZillaSlabHighlight-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/zilla-slab-highlight",
+    "id": "zilla-slab-highlight",
+    "language": "en",
+    "license_description": "Licensed under the Open Font License, version 1.1 or later.",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2017, The Mozilla Foundation",
+        "designer": "Typotheque Type Foundry",
+        "designer_url": "http://www.typotheque.com",
+        "family_name": "Zilla Slab Highlight",
+        "full_name": "Zilla Slab Highlight Bold",
+        "license_description": "Licensed under the Open Font License, version 1.1 or later.",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Typotheque type foundry",
+        "postscript_name": "ZillaSlabHighlight-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Zilla is a trademark of The Mozilla Corporation",
+        "unique_identifier": "Typotheque.com: ZillaSlab-BoldHighlight 2017",
+        "vendor_url": "http://www.typotheque.com",
+        "version": "Version 1.1; 2017; ttfautohint (v1.6)"
+    },
+    "source_url": "",
+    "title": "Zilla Slab Highlight",
+    "vendor_url": "http://www.typotheque.com",
+    "version": "Version 1.1; 2017; ttfautohint (v1.6)"
+}

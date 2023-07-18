@@ -1,0 +1,39 @@
+{
+    "copyright": "Copyright (c) 2011, UGR Design (www.ugrdesign.com.ar),  with Reserved Font Names \"Rosarivo\", \"Rosarivo Pro\", \"Rosarivo UGR\"",
+    "description": "",
+    "designer": "Pablo Ugerman",
+    "designer_url": "http://www.ugrdesign.com.ar",
+    "family": "Rosarivo",
+    "file_list": [
+        {
+            "file_name": "Rosarivo-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/rosarivo",
+    "id": "rosarivo",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, UGR Design (www.ugrdesign.com.ar),  with Reserved Font Names \"Rosarivo\", \"Rosarivo Pro\", \"Rosarivo UGR\"",
+        "designer": "Pablo Ugerman",
+        "designer_url": "http://www.ugrdesign.com.ar",
+        "family_name": "Rosarivo",
+        "full_name": "Rosarivo",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Pablo Ugerman",
+        "postscript_name": "Rosarivo-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Rosarivo is a trademark of Pablo Ugerman.",
+        "unique_identifier": "PabloUgerman: Rosarivo: 2011",
+        "version": "Version 1.003"
+    },
+    "source_url": "",
+    "title": "Rosarivo",
+    "vendor_url": "",
+    "version": "Version 1.003"
+}

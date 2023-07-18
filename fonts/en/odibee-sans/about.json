@@ -1,0 +1,37 @@
+{
+    "copyright": "Copyright 2017 The Odibee Sans Project Authors (https://github.com/barnard555/odibeesans)",
+    "description": "",
+    "designer": "James Barnard - Barnard Co. Limited",
+    "designer_url": "http://barnard.co",
+    "family": "Odibee Sans",
+    "file_list": [
+        {
+            "file_name": "OdibeeSans-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/odibee-sans",
+    "id": "odibee-sans",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2017 The Odibee Sans Project Authors (https://github.com/barnard555/odibeesans)",
+        "designer": "James Barnard - Barnard Co. Limited",
+        "designer_url": "http://barnard.co",
+        "family_name": "Odibee Sans",
+        "full_name": "Odibee Sans Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "postscript_name": "OdibeeSans-Regular",
+        "subfamily_name": "Regular",
+        "unique_identifier": "2.001;NONE;OdibeeSans-Regular",
+        "version": "Version 2.001; ttfautohint (v1.8.3)"
+    },
+    "source_url": "",
+    "title": "Odibee Sans",
+    "vendor_url": "",
+    "version": "Version 2.001; ttfautohint (v1.8.3)"
+}

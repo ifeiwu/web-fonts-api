@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2010 by Sorkin Type Co with Reserved Font Name Limelight.\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1.\rThis license is copied below, and is also available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+    "description": "Limelight is a hight contrast semi geometric typeface with a 20's art deco feeling. It has adapted for use as a web type.",
+    "designer": "Nicole Fally",
+    "designer_url": "",
+    "family": "Limelight",
+    "file_list": [
+        {
+            "file_name": "Limelight-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/limelight",
+    "id": "limelight",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "compatible_full": "Limelight Regular",
+        "copyright_notice": "Copyright (c) 2010 by Sorkin Type Co with Reserved Font Name Limelight.\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1.\rThis license is copied below, and is also available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+        "description": "Limelight is a hight contrast semi geometric typeface with a 20's art deco feeling. It has adapted for use as a web type.",
+        "designer": "Nicole Fally",
+        "family_name": "Limelight",
+        "full_name": "Limelight Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Nicole Fally",
+        "postscript_name": "Limelight-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Limelight is a trademark of Sorkin Type Co.",
+        "unique_identifier": "NicoleFally: Limelight Regular: 2011",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Limelight",
+    "vendor_url": "",
+    "version": "Version 1.002"
+}

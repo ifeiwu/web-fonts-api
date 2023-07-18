@@ -1,0 +1,51 @@
+{
+    "copyright": "Copyright (c) 2010 by vernon adams. All rights reserved.",
+    "description": "Copyright (c) 2007-2010 by vernon adams. All rights reserved.",
+    "designer": "",
+    "designer_url": "",
+    "family": "Nobile",
+    "file_list": [
+        {
+            "file_name": "Nobile-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Nobile-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "Nobile-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/nobile",
+    "id": "nobile",
+    "language": "en",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "compatible_full": "Nobile Bold",
+        "copyright_notice": "Copyright (c) 2010 by vernon adams. All rights reserved.",
+        "description": "Copyright (c) 2007-2010 by vernon adams. All rights reserved.",
+        "family_name": "Nobile",
+        "full_name": "Nobile Bold",
+        "manufacturer_name": "vernon adams",
+        "postscript_name": "Nobile-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Nobile is a trademark of vernon adams.",
+        "typographic_family_name": "Nobile",
+        "typographic_subfamily_name": "Bold",
+        "unique_identifier": "vernonadams: Nobile: 2010",
+        "version": "Version 001.000"
+    },
+    "source_url": "",
+    "title": "Nobile",
+    "vendor_url": "",
+    "version": "Version 001.000"
+}

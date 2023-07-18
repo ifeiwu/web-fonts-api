@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2011 by Marion Kadi. All rights reserved. Licenced under SIL OFL v1.1",
+    "description": "Copyright (c) 2011 by Marion Kadi. All rights reserved under SIL openfont License 1.1",
+    "designer": "Marion Kadi",
+    "designer_url": "",
+    "family": "Lancelot",
+    "file_list": [
+        {
+            "file_name": "Lancelot-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/lancelot",
+    "id": "lancelot",
+    "language": "en",
+    "license_description": "",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 by Marion Kadi. All rights reserved. Licenced under SIL OFL v1.1",
+        "description": "Copyright (c) 2011 by Marion Kadi. All rights reserved under SIL openfont License 1.1",
+        "designer": "Marion Kadi",
+        "family_name": "Lancelot",
+        "full_name": "Lancelot",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Marion Kadi, Anton Koovit",
+        "postscript_name": "Lancelot",
+        "subfamily_name": "Regular",
+        "trademark": "Lancelot is a trademark of Marion Kadi, 2011.",
+        "typographic_family_name": "Lancelot",
+        "typographic_subfamily_name": "Regular",
+        "unique_identifier": "Lancelot beta: 1.004; 2011",
+        "version": "1.004"
+    },
+    "source_url": "",
+    "title": "Lancelot",
+    "vendor_url": "",
+    "version": "1.004"
+}

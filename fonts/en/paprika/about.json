@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright 2012 The Paprika Project Authors (https://github.com/etunni/paprika)",
+    "description": "",
+    "designer": "Eduardo Rodriguez Tunni",
+    "designer_url": "https://www.tipo.net.ar/",
+    "family": "Paprika",
+    "file_list": [
+        {
+            "file_name": "Paprika-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/paprika",
+    "id": "paprika",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2012 The Paprika Project Authors (https://github.com/etunni/paprika)",
+        "designer": "Eduardo Rodriguez Tunni",
+        "designer_url": "https://www.tipo.net.ar/",
+        "family_name": "Paprika",
+        "full_name": "Paprika Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Eduardo Rodriguez Tunni",
+        "postscript_name": "Paprika-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Paprika is a trademark of Eduardo Rodriguez Tunni.",
+        "unique_identifier": "1.010;TIPO;Paprika-Regular",
+        "vendor_url": "https://www.tipo.net.ar/",
+        "version": "Version 1.010; ttfautohint (v1.8.3)"
+    },
+    "source_url": "",
+    "title": "Paprika",
+    "vendor_url": "https://www.tipo.net.ar/",
+    "version": "Version 1.010; ttfautohint (v1.8.3)"
+}

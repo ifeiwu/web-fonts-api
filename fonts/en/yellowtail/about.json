@@ -1,0 +1,33 @@
+{
+    "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\nhttp://www.apache.org/licenses/LICENSE-2.0.html",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "Yellowtail",
+    "file_list": [
+        {
+            "file_name": "Yellowtail-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/yellowtail",
+    "id": "yellowtail",
+    "language": "en",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\nhttp://www.apache.org/licenses/LICENSE-2.0.html",
+        "family_name": "Yellowtail",
+        "full_name": "Yellowtail Regular",
+        "postscript_name": "Yellowtail-Regular",
+        "subfamily_name": "Regular",
+        "unique_identifier": "001.002;UKWN;Yellowtail-Regular",
+        "version": "Version 001.002 "
+    },
+    "source_url": "",
+    "title": "Yellowtail",
+    "vendor_url": "",
+    "version": "Version 001.002 "
+}

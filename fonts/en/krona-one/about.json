@@ -1,0 +1,41 @@
+{
+    "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Krona\".",
+    "description": "Krona is a low contrast semi-extended style sans serif. Krona is both readable and full of personality. Krona can be used from small sizes to larger display settings. Krona was inspired by hand lettering on early 20th century Swedish posters.",
+    "designer": "Yvonne Schuettler",
+    "designer_url": "www.ysch.de",
+    "family": "Krona One",
+    "file_list": [
+        {
+            "file_name": "KronaOne-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/krona-one",
+    "id": "krona-one",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Krona\".",
+        "description": "Krona is a low contrast semi-extended style sans serif. Krona is both readable and full of personality. Krona can be used from small sizes to larger display settings. Krona was inspired by hand lettering on early 20th century Swedish posters.",
+        "designer": "Yvonne Schuettler",
+        "designer_url": "www.ysch.de",
+        "family_name": "Krona One",
+        "full_name": "Krona One",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Yvonne Schuettler",
+        "postscript_name": "KronaOne-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Krona is a trademark of Sorkin Type Co.",
+        "unique_identifier": "YvonneSchuettler: Krona: 2011",
+        "vendor_url": "www.sorkintype.com",
+        "version": "Version 1.003"
+    },
+    "source_url": "",
+    "title": "Krona One",
+    "vendor_url": "www.sorkintype.com",
+    "version": "Version 1.003"
+}

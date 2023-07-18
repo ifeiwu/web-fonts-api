@@ -1,0 +1,69 @@
+{
+    "copyright": "Copyright 2018 The Turret Road Project Authors (https://github.com/noponies/turret-road)",
+    "description": "",
+    "designer": "Noponies",
+    "designer_url": "https://github.com/noponies/",
+    "family": "Turret Road",
+    "file_list": [
+        {
+            "file_name": "TurretRoad-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "TurretRoad-ExtraBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraBold",
+            "font_weight_value": "800"
+        },
+        {
+            "file_name": "TurretRoad-ExtraLight.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraLight",
+            "font_weight_value": "200"
+        },
+        {
+            "file_name": "TurretRoad-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "TurretRoad-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "TurretRoad-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/turret-road",
+    "id": "turret-road",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2018 The Turret Road Project Authors (https://github.com/noponies/turret-road)",
+        "designer": "Noponies",
+        "designer_url": "https://github.com/noponies/",
+        "family_name": "Turret Road",
+        "full_name": "Turret Road Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Noponies",
+        "postscript_name": "TurretRoad-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "1.001;NOPN;TurretRoad-Bold",
+        "vendor_url": "http://noponies.com",
+        "version": "Version 1.001; ttfautohint (v1.8)"
+    },
+    "source_url": "",
+    "title": "Turret Road",
+    "vendor_url": "http://noponies.com",
+    "version": "Version 1.001; ttfautohint (v1.8)"
+}

@@ -1,0 +1,63 @@
+{
+    "copyright": "Copyright 2018 The Kulim Park Project Authors (https://github.com/noponies/Kulim-Park)",
+    "description": "",
+    "designer": "Noponies / Dale Sattler",
+    "designer_url": "http://noponies.com",
+    "family": "Kulim Park",
+    "file_list": [
+        {
+            "file_name": "KulimPark-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "KulimPark-ExtraLight.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraLight",
+            "font_weight_value": "200"
+        },
+        {
+            "file_name": "KulimPark-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "KulimPark-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "KulimPark-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "SemiBold",
+            "font_weight_value": "600"
+        }
+    ],
+    "file_path": "fonts/en/kulim-park",
+    "id": "kulim-park",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2018 The Kulim Park Project Authors (https://github.com/noponies/Kulim-Park)",
+        "designer": "Noponies / Dale Sattler",
+        "designer_url": "http://noponies.com",
+        "family_name": "Kulim Park",
+        "full_name": "Kulim Park Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Noponies",
+        "postscript_name": "KulimPark-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "1.000;NOPN;KulimPark-Bold",
+        "vendor_url": "http://http:noponies.com",
+        "version": "Version 1.000; ttfautohint (v1.8.3)"
+    },
+    "source_url": "",
+    "title": "Kulim Park",
+    "vendor_url": "http://http:noponies.com",
+    "version": "Version 1.000; ttfautohint (v1.8.3)"
+}

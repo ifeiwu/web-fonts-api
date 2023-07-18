@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2010 by Font Diner, Inc DBA Sideshow. All rights reserved.",
+    "description": "",
+    "designer": "Squid",
+    "designer_url": "http://www.squidart.com",
+    "family": "Walter Turncoat",
+    "file_list": [
+        {
+            "file_name": "WalterTurncoat-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/walter-turncoat",
+    "id": "walter-turncoat",
+    "language": "en",
+    "license_description": "Licensed under the Apache License, Version 2.0",
+    "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+    "names": {
+        "copyright_notice": "Copyright (c) 2010 by Font Diner, Inc DBA Sideshow. All rights reserved.",
+        "designer": "Squid",
+        "designer_url": "http://www.squidart.com",
+        "family_name": "Walter Turncoat",
+        "full_name": "Walter Turncoat Regular",
+        "license_description": "Licensed under the Apache License, Version 2.0",
+        "license_info_url": "http://www.apache.org/licenses/LICENSE-2.0",
+        "manufacturer_name": "Font Diner, Inc DBA Sideshow",
+        "postscript_name": "WalterTurncoat-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Walter Turncoat is a trademark of Font Diner, Inc DBA Sideshow.",
+        "unique_identifier": "1.001;DINR;WalterTurncoat-Regular",
+        "vendor_url": "http://www.fontbros.com/sideshow.php",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Walter Turncoat",
+    "vendor_url": "http://www.fontbros.com/sideshow.php",
+    "version": "Version 1.001"
+}

@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright 2015 Dalton Maag Ltd (info@daltonmaag.com)",
+    "description": "",
+    "designer": "Dalton Maag Ltd",
+    "designer_url": "http://www.daltonmaag.com/",
+    "family": "Scope One",
+    "file_list": [
+        {
+            "file_name": "ScopeOne-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/scope-one",
+    "id": "scope-one",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2015 Dalton Maag Ltd (info@daltonmaag.com)",
+        "designer": "Dalton Maag Ltd",
+        "designer_url": "http://www.daltonmaag.com/",
+        "family_name": "Scope One",
+        "full_name": "Scope One",
+        "license_description": "This Font Software is licensed under the SIL Open Font License Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Dalton Maag Ltd",
+        "postscript_name": "ScopeOne-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Dalton Maag, and DaMa are registered trademarks of Dalton Maag Ltd.",
+        "unique_identifier": "Scope One Regular Version 1.001",
+        "vendor_url": "http://www.daltonmaag.com/",
+        "version": "Version 1.001; ttfautohint (v1.4.1) -l 11 -r 50 -G 50 -x 14 -D latn -f latn -m \"ttfautohint.ctrl\" -w G -X \"\""
+    },
+    "source_url": "",
+    "title": "Scope One",
+    "vendor_url": "http://www.daltonmaag.com/",
+    "version": "Version 1.001; ttfautohint (v1.4.1) -l 11 -r 50 -G 50 -x 14 -D latn -f latn -m \"ttfautohint.ctrl\" -w G -X \"\""
+}

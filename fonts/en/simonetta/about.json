@@ -1,0 +1,42 @@
+{
+    "copyright": "Copyright (c) 2011-2012, Brownfox (www.brownfox.org gayaneh.b@gmail.com), with Reserved Font Name \"Simonetta\"",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "Simonetta Black",
+    "file_list": [
+        {
+            "file_name": "Simonetta-Black.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Black",
+            "font_weight_value": "900"
+        },
+        {
+            "file_name": "Simonetta-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/simonetta",
+    "id": "simonetta-black",
+    "language": "en",
+    "license_description": "",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011-2012, Brownfox (www.brownfox.org gayaneh.b@gmail.com), with Reserved Font Name \"Simonetta\"",
+        "family_name": "Simonetta Black",
+        "full_name": "Simonetta Black",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "postscript_name": "Simonetta-Black",
+        "subfamily_name": "Regular",
+        "typographic_family_name": "Simonetta",
+        "typographic_subfamily_name": "Black",
+        "unique_identifier": "1.004;    ;Simonetta-Black",
+        "version": "Version 1.004"
+    },
+    "source_url": "",
+    "title": "Simonetta Black",
+    "vendor_url": "",
+    "version": "Version 1.004"
+}

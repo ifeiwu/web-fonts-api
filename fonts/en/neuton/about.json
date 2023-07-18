@@ -1,0 +1,63 @@
+{
+    "copyright": "Copyright 2010 The Neuton Project Authors (http://www.21326.info/), with Reserved Font Name \"Neuton\".",
+    "description": "",
+    "designer": "Brian M Zick",
+    "designer_url": "http://www.21326.info/",
+    "family": "Neuton",
+    "file_list": [
+        {
+            "file_name": "Neuton-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Neuton-ExtraBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraBold",
+            "font_weight_value": "800"
+        },
+        {
+            "file_name": "Neuton-ExtraLight.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraLight",
+            "font_weight_value": "200"
+        },
+        {
+            "file_name": "Neuton-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "Neuton-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/neuton",
+    "id": "neuton",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2010 The Neuton Project Authors (http://www.21326.info/), with Reserved Font Name \"Neuton\".",
+        "designer": "Brian M Zick",
+        "designer_url": "http://www.21326.info/",
+        "family_name": "Neuton",
+        "full_name": "Neuton Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Brian M Zick",
+        "postscript_name": "Neuton-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "1.560;PfEd;Neuton-Bold",
+        "vendor_url": "http://www.21326.info/",
+        "version": "Version 1.560"
+    },
+    "source_url": "",
+    "title": "Neuton",
+    "vendor_url": "http://www.21326.info/",
+    "version": "Version 1.560"
+}

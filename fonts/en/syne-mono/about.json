@@ -1,0 +1,39 @@
+{
+    "copyright": "Copyright 2019 The Syne Project Authors (https://gitlab.com/bonjour-monde/fonderie/syne-typeface)",
+    "description": "",
+    "designer": "Lucas Descroix",
+    "designer_url": "https://www.lucasdescroix.fr",
+    "family": "Syne Mono",
+    "file_list": [
+        {
+            "file_name": "SyneMono-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/syne-mono",
+    "id": "syne-mono",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2019 The Syne Project Authors (https://gitlab.com/bonjour-monde/fonderie/syne-typeface)",
+        "designer": "Lucas Descroix",
+        "designer_url": "https://www.lucasdescroix.fr",
+        "family_name": "Syne Mono",
+        "full_name": "Syne Mono Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Bonjour Monde",
+        "postscript_name": "SyneMono-Regular",
+        "subfamily_name": "Regular",
+        "unique_identifier": "2.000;NONE;SyneMono-Regular",
+        "vendor_url": "https://bonjourmonde.net",
+        "version": "Version 2.000; ttfautohint (v1.8.3)"
+    },
+    "source_url": "",
+    "title": "Syne Mono",
+    "vendor_url": "https://bonjourmonde.net",
+    "version": "Version 2.000; ttfautohint (v1.8.3)"
+}

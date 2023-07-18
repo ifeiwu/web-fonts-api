@@ -1,0 +1,39 @@
+{
+    "copyright": "Copyright (c) 1997 - 2011, John Vargas Beltran. (www.johnvargasbeltran.com|john.vargasbeltran@gmail.com), with Reserved Font Name \"Macondo\"",
+    "description": "",
+    "designer": "John Vargas Beltran",
+    "designer_url": "www.johnvargasbeltran.com",
+    "family": "Macondo",
+    "file_list": [
+        {
+            "file_name": "Macondo-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/macondo",
+    "id": "macondo",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 1997 - 2011, John Vargas Beltran. (www.johnvargasbeltran.com|john.vargasbeltran@gmail.com), with Reserved Font Name \"Macondo\"",
+        "designer": "John Vargas Beltran",
+        "designer_url": "www.johnvargasbeltran.com",
+        "family_name": "Macondo",
+        "full_name": "Macondo",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "John Vargas Beltran",
+        "postscript_name": "Macondo-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Macondo is a trademark of John Vargas Beltran.",
+        "unique_identifier": "JohnVargasBeltran: Macondo Regular: 1997",
+        "version": "Version 2.001"
+    },
+    "source_url": "",
+    "title": "Macondo",
+    "vendor_url": "",
+    "version": "Version 2.001"
+}

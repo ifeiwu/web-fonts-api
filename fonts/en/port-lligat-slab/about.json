@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2011, Tipo (http://www.tipo.net.ar), with Reserved Font Name \"Port Lligat Slab\"",
+    "description": "",
+    "designer": "Dario Muhafara, Eduardo Rodriguez Tunni",
+    "designer_url": "http://www.tipo.net.ar",
+    "family": "Port Lligat Slab",
+    "file_list": [
+        {
+            "file_name": "PortLligatSlab-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/port-lligat-slab",
+    "id": "port-lligat-slab",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, Tipo (http://www.tipo.net.ar), with Reserved Font Name \"Port Lligat Slab\"",
+        "designer": "Dario Muhafara, Eduardo Rodriguez Tunni",
+        "designer_url": "http://www.tipo.net.ar",
+        "family_name": "Port Lligat Slab",
+        "full_name": "Port Lligat Slab",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Tipo",
+        "postscript_name": "PortLligatSlab-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Port Lligat Slab is a trademark of Tipo.",
+        "unique_identifier": "Tipo: Port Lligat Slab: 2011",
+        "vendor_url": "http://www.tipo.net.ar",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Port Lligat Slab",
+    "vendor_url": "http://www.tipo.net.ar",
+    "version": "Version 1.002"
+}

@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright 2012 The Imprima Project Authors (https://github.com/etunni/imprima), with Reserved Font Name \"Imprima\"",
+    "description": "",
+    "designer": "Eduardo Tunni",
+    "designer_url": "http://www.tipo.net.ar",
+    "family": "Imprima",
+    "file_list": [
+        {
+            "file_name": "Imprima-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/imprima",
+    "id": "imprima",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2012 The Imprima Project Authors (https://github.com/etunni/imprima), with Reserved Font Name \"Imprima\"",
+        "designer": "Eduardo Tunni",
+        "designer_url": "http://www.tipo.net.ar",
+        "family_name": "Imprima",
+        "full_name": "Imprima Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Eduardo Tunni",
+        "postscript_name": "Imprima-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Imprima is a trademark of Eduardo Tunni.",
+        "unique_identifier": "1.002;TIPO;Imprima-Regular",
+        "vendor_url": "http://www.tipo.net.ar",
+        "version": "Version 1.002; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.23]"
+    },
+    "source_url": "",
+    "title": "Imprima",
+    "vendor_url": "http://www.tipo.net.ar",
+    "version": "Version 1.002; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.23]"
+}

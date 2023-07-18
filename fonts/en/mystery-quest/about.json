@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2012 by Font Diner, Inc DBA Sideshow (diner@fontdiner.com) with Reseved Font Name \"Mystery Quest\"",
+    "description": "",
+    "designer": "Squid",
+    "designer_url": "http://www.squidart.com",
+    "family": "Mystery Quest",
+    "file_list": [
+        {
+            "file_name": "MysteryQuest-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/mystery-quest",
+    "id": "mystery-quest",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2012 by Font Diner, Inc DBA Sideshow (diner@fontdiner.com) with Reseved Font Name \"Mystery Quest\"",
+        "designer": "Squid",
+        "designer_url": "http://www.squidart.com",
+        "family_name": "Mystery Quest",
+        "full_name": "Mystery Quest",
+        "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Font Diner, Inc DBA Sideshow",
+        "postscript_name": "MysteryQuest",
+        "subfamily_name": "Regular",
+        "trademark": "Mystery Quest is a trademark of Font Diner, Inc DBA Sideshow.",
+        "unique_identifier": "FontDiner,IncDBASideshow: Mystery Quest: 2012",
+        "vendor_url": "http://www.fontbros.com/sideshow.php",
+        "version": "Version 1.000"
+    },
+    "source_url": "",
+    "title": "Mystery Quest",
+    "vendor_url": "http://www.fontbros.com/sideshow.php",
+    "version": "Version 1.000"
+}

@@ -1,0 +1,35 @@
+{
+    "copyright": "Copyright 2017-2020 The Libre Barcode Project Authors (https://github.com/graphicore/librebarcode)",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "Libre Barcode 39 Extended",
+    "file_list": [
+        {
+            "file_name": "LibreBarcode39Extended-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/libre-barcode-39-extended",
+    "id": "libre-barcode-39-extended",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2017-2020 The Libre Barcode Project Authors (https://github.com/graphicore/librebarcode)",
+        "family_name": "Libre Barcode 39 Extended",
+        "full_name": "Libre Barcode 39 Extended Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "postscript_name": "LibreBarcode39Extended-Regular",
+        "subfamily_name": "Regular",
+        "unique_identifier": "1.005;GRCR;LibreBarcode39Extended-Regular",
+        "version": "Version 1.005; ttfautohint (v1.8.3)"
+    },
+    "source_url": "",
+    "title": "Libre Barcode 39 Extended",
+    "vendor_url": "",
+    "version": "Version 1.005; ttfautohint (v1.8.3)"
+}

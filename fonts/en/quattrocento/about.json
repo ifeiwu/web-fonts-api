@@ -1,0 +1,47 @@
+{
+    "copyright": "Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),\rCopyright (c) 2011, Igino Marini. (www.ikern.com|mail@iginomarini.com),\rCopyright (c) 2011, Brenda Gallo. (gbrenda1987@gmail.com),\rwith Reserved Font Name Quattrocento.",
+    "description": "Quattrocento Roman is a Classic, Elegant, Sober and Strong typeface.\rTheir wide and open letterforms, and great x-height, make it very legible for body text at small sizes.\rAnd their tiny details that only shows up at bigger sizes make it also great for display use.",
+    "designer": "Pablo Impallari",
+    "designer_url": "www.impallari.com",
+    "family": "Quattrocento",
+    "file_list": [
+        {
+            "file_name": "Quattrocento-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Quattrocento-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/quattrocento",
+    "id": "quattrocento",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),\rCopyright (c) 2011, Igino Marini. (www.ikern.com|mail@iginomarini.com),\rCopyright (c) 2011, Brenda Gallo. (gbrenda1987@gmail.com),\rwith Reserved Font Name Quattrocento.",
+        "description": "Quattrocento Roman is a Classic, Elegant, Sober and Strong typeface.\rTheir wide and open letterforms, and great x-height, make it very legible for body text at small sizes.\rAnd their tiny details that only shows up at bigger sizes make it also great for display use.",
+        "designer": "Pablo Impallari",
+        "designer_url": "www.impallari.com",
+        "family_name": "Quattrocento",
+        "full_name": "Quattrocento Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Pablo Impallari, Igino Marini, Branda Gallo",
+        "postscript_name": "Quattrocento-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Quattrocento Bold is a trademark of Pablo Impallari. www.impallari.com",
+        "unique_identifier": "PabloImpallari,IginoMarini,BrandaGallo: Quattrocento Bold: 2012",
+        "vendor_url": "www.impallari.com",
+        "version": "Version 2.000"
+    },
+    "source_url": "",
+    "title": "Quattrocento",
+    "vendor_url": "www.impallari.com",
+    "version": "Version 2.000"
+}

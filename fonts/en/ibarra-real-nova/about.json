@@ -1,0 +1,58 @@
+{
+    "copyright": "Copyright 2007 The Ibarra Real Nova Project Authors (https://github.com/googlefonts/ibarrareal)",
+    "description": "",
+    "designer": "Jose Maria Ribagorda & Octavio Pardo",
+    "designer_url": "http://www.ibarrareal.es",
+    "family": "Ibarra Real Nova",
+    "file_list": [
+        {
+            "file_name": "IbarraRealNova-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "IbarraRealNova-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "IbarraRealNova-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "IbarraRealNova-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "SemiBold",
+            "font_weight_value": "600"
+        }
+    ],
+    "file_path": "fonts/en/ibarra-real-nova",
+    "id": "ibarra-real-nova",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2007 The Ibarra Real Nova Project Authors (https://github.com/googlefonts/ibarrareal)",
+        "designer": "Jose Maria Ribagorda & Octavio Pardo",
+        "designer_url": "http://www.ibarrareal.es",
+        "family_name": "Ibarra Real Nova",
+        "full_name": "Ibarra Real Nova Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Jose Maria Ribagorda",
+        "postscript_name": "IbarraRealNova-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "2.000;NONE;IbarraRealNova-Bold",
+        "variations_postscript_name_prefix": "IbarraRealNovaRoman",
+        "vendor_url": "www.octaviopardo.com",
+        "version": "Version 2.000"
+    },
+    "source_url": "",
+    "title": "Ibarra Real Nova",
+    "vendor_url": "www.octaviopardo.com",
+    "version": "Version 2.000"
+}

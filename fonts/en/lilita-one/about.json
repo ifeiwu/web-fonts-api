@@ -1,0 +1,39 @@
+{
+    "copyright": "Copyright (c) 2011 Juan Montoreano (juan@remolacha.biz), with Reserved Font Names \"Lilita One\"",
+    "description": "",
+    "designer": "Juan Montoreano",
+    "designer_url": "www.remolacha.biz",
+    "family": "Lilita One",
+    "file_list": [
+        {
+            "file_name": "LilitaOne-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/lilita-one",
+    "id": "lilita-one",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 Juan Montoreano (juan@remolacha.biz), with Reserved Font Names \"Lilita One\"",
+        "designer": "Juan Montoreano",
+        "designer_url": "www.remolacha.biz",
+        "family_name": "Lilita One",
+        "full_name": "Lilita One",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Juan Montoreano",
+        "postscript_name": "LilitaOne",
+        "subfamily_name": "Regular",
+        "trademark": "Lilita is a trademark of Juan Montoreano.",
+        "unique_identifier": "JuanMontoreano: Lilita One: 2011",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Lilita One",
+    "vendor_url": "",
+    "version": "Version 1.002"
+}

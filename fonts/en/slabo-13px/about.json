@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2013, Tiro Typeworks Ltd (www.tiro.com).",
+    "description": "",
+    "designer": "John Hudson",
+    "designer_url": "http://www.tiro.com",
+    "family": "Slabo 13px",
+    "file_list": [
+        {
+            "file_name": "Slabo13px-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/slabo-13px",
+    "id": "slabo-13px",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2013, Tiro Typeworks Ltd (www.tiro.com).",
+        "designer": "John Hudson",
+        "designer_url": "http://www.tiro.com",
+        "family_name": "Slabo 13px",
+        "full_name": "Slabo 13px",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Tiro Typeworks Ltd.",
+        "postscript_name": "Slabo13px-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Slabo is a trademark of Tiro Typeworks Ltd..",
+        "unique_identifier": "Tiro Typeworks Ltd.: Slabo 13px: 2013",
+        "vendor_url": "http://www.tiro.com",
+        "version": "Version 1.02 Build 005a"
+    },
+    "source_url": "",
+    "title": "Slabo 13px",
+    "vendor_url": "http://www.tiro.com",
+    "version": "Version 1.02 Build 005a"
+}

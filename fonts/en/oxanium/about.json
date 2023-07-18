@@ -1,0 +1,74 @@
+{
+    "copyright": "Copyright 2019 The Oxanium Project Authors (https://github.com/sevmeyer/oxanium)",
+    "description": "",
+    "designer": "Severin Meyer",
+    "designer_url": "https://sev.dev",
+    "family": "Oxanium",
+    "file_list": [
+        {
+            "file_name": "Oxanium-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Oxanium-ExtraBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraBold",
+            "font_weight_value": "800"
+        },
+        {
+            "file_name": "Oxanium-ExtraLight.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraLight",
+            "font_weight_value": "200"
+        },
+        {
+            "file_name": "Oxanium-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "Oxanium-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "Oxanium-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "Oxanium-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "SemiBold",
+            "font_weight_value": "600"
+        }
+    ],
+    "file_path": "fonts/en/oxanium",
+    "id": "oxanium",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2019 The Oxanium Project Authors (https://github.com/sevmeyer/oxanium)",
+        "designer": "Severin Meyer",
+        "designer_url": "https://sev.dev",
+        "family_name": "Oxanium",
+        "full_name": "Oxanium Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "postscript_name": "Oxanium-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "2.000;Oxanium-Bold",
+        "variations_postscript_name_prefix": "OxaniumRoman",
+        "version": "Version 2.000"
+    },
+    "source_url": "",
+    "title": "Oxanium",
+    "vendor_url": "",
+    "version": "Version 2.000"
+}

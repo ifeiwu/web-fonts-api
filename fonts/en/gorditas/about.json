@@ -1,0 +1,44 @@
+{
+    "copyright": "Copyright (c) 2011, Gustavo Dipre (gbrenda1987@gmail.com), with Reserved Font Name \"Gorditas\".",
+    "description": "",
+    "designer": "Gustavo Dipre (gbrenda1987@gmail.com)",
+    "designer_url": "",
+    "family": "Gorditas",
+    "file_list": [
+        {
+            "file_name": "Gorditas-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Gorditas-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/gorditas",
+    "id": "gorditas",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, Gustavo Dipre (gbrenda1987@gmail.com), with Reserved Font Name \"Gorditas\".",
+        "designer": "Gustavo Dipre (gbrenda1987@gmail.com)",
+        "family_name": "Gorditas",
+        "full_name": "Gorditas Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Gustavo Dipre (gbrenda1987@gmail.com)",
+        "postscript_name": "Gorditas-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Gorditas Bold is a trademark of Gustavo Dipre (gbrenda1987@gmail.com).",
+        "unique_identifier": "GustavoDipre: Gorditas Bold: 2011",
+        "version": "Version 001.001"
+    },
+    "source_url": "",
+    "title": "Gorditas",
+    "vendor_url": "",
+    "version": "Version 001.001"
+}

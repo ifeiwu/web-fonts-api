@@ -1,0 +1,38 @@
+{
+    "copyright": "Copyright (c) 2011 by Brenda Gallo (gbrenda1987@gmail.com), with Reserved Font Name \"Happy Monkey\".",
+    "description": "",
+    "designer": "Brenda Gallo (gbrenda1987@gmail.com)",
+    "designer_url": "",
+    "family": "Happy Monkey",
+    "file_list": [
+        {
+            "file_name": "HappyMonkey-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/happy-monkey",
+    "id": "happy-monkey",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 by Brenda Gallo (gbrenda1987@gmail.com), with Reserved Font Name \"Happy Monkey\".",
+        "designer": "Brenda Gallo (gbrenda1987@gmail.com)",
+        "family_name": "Happy Monkey",
+        "full_name": "Happy Monkey",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Brenda Gallo (gbrenda1987@gmail.com)",
+        "postscript_name": "HappyMonkey-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Happy Monkey is a trademark of Brenda Gallo (gbrenda1987@gmail.com).",
+        "unique_identifier": "BrendaGallo: Happy Monkey: 2011",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Happy Monkey",
+    "vendor_url": "",
+    "version": "Version 1.001"
+}

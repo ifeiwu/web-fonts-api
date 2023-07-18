@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2004 Alejandro Paul (sudtipos@sudtipos.com),\rwith Reserved Font Name \"Herr Von Mullerhoff\"",
+    "description": "",
+    "designer": "Alejandro Paul",
+    "designer_url": "http://www.sudtipos.com",
+    "family": "Herr Von Muellerhoff",
+    "file_list": [
+        {
+            "file_name": "HerrVonMuellerhoff-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/herr-von-muellerhoff",
+    "id": "herr-von-muellerhoff",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2004 Alejandro Paul (sudtipos@sudtipos.com),\rwith Reserved Font Name \"Herr Von Mullerhoff\"",
+        "designer": "Alejandro Paul",
+        "designer_url": "http://www.sudtipos.com",
+        "family_name": "Herr Von Muellerhoff",
+        "full_name": "Herr Von Muellerhoff Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Alejandro Paul",
+        "postscript_name": "HerrVonMuellerhoff-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Herr Von Mullerhoff is a trademark of Alejandro Paul.",
+        "unique_identifier": "HerrVonMullerhoff",
+        "vendor_url": "http://www.sudtipos.com",
+        "version": "Version 1.000"
+    },
+    "source_url": "",
+    "title": "Herr Von Muellerhoff",
+    "vendor_url": "http://www.sudtipos.com",
+    "version": "Version 1.000"
+}

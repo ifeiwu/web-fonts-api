@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\rhttp://www.apache.org/licenses/LICENSE-2.0.html",
+    "description": "",
+    "designer": "Astigmatic (AOETI)",
+    "designer_url": "http://www.astigmatic.com/",
+    "family": "Montez",
+    "file_list": [
+        {
+            "file_name": "Montez-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/montez",
+    "id": "montez",
+    "language": "en",
+    "license_description": "Licensed under the Apache License, Version 2.0",
+    "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\rhttp://www.apache.org/licenses/LICENSE-2.0.html",
+        "designer": "Astigmatic (AOETI)",
+        "designer_url": "http://www.astigmatic.com/",
+        "family_name": "Montez",
+        "full_name": "Montez Regular",
+        "license_description": "Licensed under the Apache License, Version 2.0",
+        "license_info_url": "http://www.apache.org/licenses/LICENSE-2.0",
+        "manufacturer_name": "Astigmatic (AOETI)",
+        "postscript_name": "Montez-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Montez is a trademark of Astigmatic (AOETI).",
+        "unique_identifier": "1.001;AOEF;Montez-Regular",
+        "vendor_url": "http://www.astigmatic.com/",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Montez",
+    "vendor_url": "http://www.astigmatic.com/",
+    "version": "Version 1.001"
+}

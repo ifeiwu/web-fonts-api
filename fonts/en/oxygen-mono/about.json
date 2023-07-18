@@ -1,0 +1,43 @@
+{
+    "copyright": "Copyright (c) 2012, Vernon Adams (vern@newtypography.co.uk), with Reserved Font Names 'Oxygen'",
+    "description": "",
+    "designer": "Vernon Adams",
+    "designer_url": "newtypography.co.uk",
+    "family": "Oxygen Mono",
+    "file_list": [
+        {
+            "file_name": "OxygenMono-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/oxygen-mono",
+    "id": "oxygen-mono",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "compatible_full": "Oxygen Mono",
+        "copyright_notice": "Copyright (c) 2012, Vernon Adams (vern@newtypography.co.uk), with Reserved Font Names 'Oxygen'",
+        "designer": "Vernon Adams",
+        "designer_url": "newtypography.co.uk",
+        "family_name": "Oxygen Mono",
+        "full_name": "Oxygen Mono",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Vernon Adams",
+        "postscript_name": "OxygenMono-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Oxygen Mono is a trademark of Vernon Adams.",
+        "typographic_family_name": "Oxygen Mono",
+        "typographic_subfamily_name": "Regular",
+        "unique_identifier": "newtypography : Oxygen Mono",
+        "vendor_url": "newtypography.co.uk",
+        "version": "Version 0.201; ttfautohint (v0.8) -r 50 -G 200 -x"
+    },
+    "source_url": "",
+    "title": "Oxygen Mono",
+    "vendor_url": "newtypography.co.uk",
+    "version": "Version 0.201; ttfautohint (v0.8) -r 50 -G 200 -x"
+}

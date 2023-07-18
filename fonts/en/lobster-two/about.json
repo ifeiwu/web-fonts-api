@@ -1,0 +1,47 @@
+{
+    "copyright": "Copyright (c) 2011 by Pablo Impallari. www.impallari.com. All rights reserved.",
+    "description": "Copyright (c) 2011 by Pablo Impallari. All rights reserved.",
+    "designer": "Pablo Impallari",
+    "designer_url": "www.impallari.com",
+    "family": "Lobster Two",
+    "file_list": [
+        {
+            "file_name": "LobsterTwo-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "LobsterTwo-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/lobster-two",
+    "id": "lobster-two",
+    "language": "en",
+    "license_description": "Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),\r\nwith Reserved Font Name Lobster.\r\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\r\nThis license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 by Pablo Impallari. www.impallari.com. All rights reserved.",
+        "description": "Copyright (c) 2011 by Pablo Impallari. All rights reserved.",
+        "designer": "Pablo Impallari",
+        "designer_url": "www.impallari.com",
+        "family_name": "Lobster Two",
+        "full_name": "Lobster Two Bold",
+        "license_description": "Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),\r\nwith Reserved Font Name Lobster.\r\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\r\nThis license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Pablo Impallari. www.impallari.com",
+        "postscript_name": "LobsterTwo-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Lobster Two Bold is a trademark of Pablo Impallari. www.impallari.com.",
+        "unique_identifier": "PabloImpallari.www.impallari.com: Lobster Bold: 2011",
+        "vendor_url": "www.impallari.com",
+        "version": "Version 1.006"
+    },
+    "source_url": "",
+    "title": "Lobster Two",
+    "vendor_url": "www.impallari.com",
+    "version": "Version 1.006"
+}

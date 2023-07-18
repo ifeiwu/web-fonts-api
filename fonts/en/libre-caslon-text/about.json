@@ -1,0 +1,47 @@
+{
+    "copyright": "Copyright 2012 The Libre Caslon Text Project Authors (https://github.com/impallari/Libre-Caslon-Text)",
+    "description": "Libre Caslon in Text is optimized for web body text",
+    "designer": "Pablo Impallari, Rodrigo Fuenzalida",
+    "designer_url": "http://www.impallari.com",
+    "family": "Libre Caslon Text",
+    "file_list": [
+        {
+            "file_name": "LibreCaslonText-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "LibreCaslonText-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/libre-caslon-text",
+    "id": "libre-caslon-text",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2012 The Libre Caslon Text Project Authors (https://github.com/impallari/Libre-Caslon-Text)",
+        "description": "Libre Caslon in Text is optimized for web body text",
+        "designer": "Pablo Impallari, Rodrigo Fuenzalida",
+        "designer_url": "http://www.impallari.com",
+        "family_name": "Libre Caslon Text",
+        "full_name": "Libre Caslon Text Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Pablo Impallari, Rodrigo Fuenzalida",
+        "postscript_name": "LibreCaslonText-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Libre Caslon is a trademark of Pablo Impallari",
+        "unique_identifier": "1.100;IMPA;LibreCaslonText-Bold",
+        "vendor_url": "http://www.impallari.com",
+        "version": "Version 1.100; ttfautohint (v1.6) -l 8 -r 50 -G 200 -x 14 -D latn -f none -w G -X \"\""
+    },
+    "source_url": "",
+    "title": "Libre Caslon Text",
+    "vendor_url": "http://www.impallari.com",
+    "version": "Version 1.100; ttfautohint (v1.6) -l 8 -r 50 -G 200 -x 14 -D latn -f none -w G -X \"\""
+}

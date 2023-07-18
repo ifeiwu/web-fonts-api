@@ -1,0 +1,39 @@
+{
+    "copyright": "Copyright (c) 2010, Julia Petretta (julia.petretta@googlemail.com), with Reserved Font Name Kenia",
+    "description": "",
+    "designer": "Julia Petretta",
+    "designer_url": "www.juliapetretta.com",
+    "family": "Kenia",
+    "file_list": [
+        {
+            "file_name": "Kenia-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/kenia",
+    "id": "kenia",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2010, Julia Petretta (julia.petretta@googlemail.com), with Reserved Font Name Kenia",
+        "designer": "Julia Petretta",
+        "designer_url": "www.juliapetretta.com",
+        "family_name": "Kenia",
+        "full_name": "Kenia",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Julia Petretta",
+        "postscript_name": "Kenia-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Kenia is a trademark of Julia Petretta.",
+        "unique_identifier": "JuliaPetretta: Kenia: 2010",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Kenia",
+    "vendor_url": "",
+    "version": "Version 1.001"
+}

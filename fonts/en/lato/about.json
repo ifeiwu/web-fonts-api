@@ -1,0 +1,67 @@
+{
+    "copyright": "Copyright (c) 2010-2011 by tyPoland Lukasz Dziedzic with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1.",
+    "description": "Lato is a sanserif typeface family designed in the Summer 2010 by Warsaw-based designer Lukasz Dziedzic (\"Lato\" means \"Summer\" in Polish). It tries to carefully balance some potentially conflicting priorities: it should seem quite \"transparent\" when used in body text but would display some original traits when used in larger sizes. The classical proportions, particularly visible in the uppercase, give the letterforms familiar harmony and elegance. At the same time, its sleek sanserif look makes evident the fact that Lato was designed in 2010, even though it does not follow any current trend. The semi-rounded details of the letters give Lato a feeling of warmth, while the strong structure provides stability and seriousness.",
+    "designer": "Lukasz Dziedzic",
+    "designer_url": "http://www.typoland.com/designers/Lukasz_Dziedzic/",
+    "family": "Lato Black",
+    "file_list": [
+        {
+            "file_name": "Lato-Black.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Black",
+            "font_weight_value": "900"
+        },
+        {
+            "file_name": "Lato-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Lato-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "Lato-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "Lato-Thin.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Thin",
+            "font_weight_value": "100"
+        }
+    ],
+    "file_path": "fonts/en/lato",
+    "id": "lato-black",
+    "language": "en",
+    "license_description": "Copyright (c) 2010-2011 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL).",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2010-2011 by tyPoland Lukasz Dziedzic with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1.",
+        "description": "Lato is a sanserif typeface family designed in the Summer 2010 by Warsaw-based designer Lukasz Dziedzic (\"Lato\" means \"Summer\" in Polish). It tries to carefully balance some potentially conflicting priorities: it should seem quite \"transparent\" when used in body text but would display some original traits when used in larger sizes. The classical proportions, particularly visible in the uppercase, give the letterforms familiar harmony and elegance. At the same time, its sleek sanserif look makes evident the fact that Lato was designed in 2010, even though it does not follow any current trend. The semi-rounded details of the letters give Lato a feeling of warmth, while the strong structure provides stability and seriousness.",
+        "designer": "Lukasz Dziedzic",
+        "designer_url": "http://www.typoland.com/designers/Lukasz_Dziedzic/",
+        "family_name": "Lato Black",
+        "full_name": "Lato Black",
+        "license_description": "Copyright (c) 2010-2011 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL).",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "tyPoland Lukasz Dziedzic",
+        "postscript_name": "Lato-Black",
+        "subfamily_name": "Regular",
+        "trademark": "Lato is a trademark of tyPoland Lukasz Dziedzic.",
+        "typographic_family_name": "Lato",
+        "typographic_subfamily_name": "Black",
+        "unique_identifier": "tyPolandLukaszDziedzic: Lato Black: 2011",
+        "vendor_url": "http://www.typoland.com/",
+        "version": "Version 1.104; Western+Polish opensource"
+    },
+    "source_url": "",
+    "title": "Lato Black",
+    "vendor_url": "http://www.typoland.com/",
+    "version": "Version 1.104; Western+Polish opensource"
+}

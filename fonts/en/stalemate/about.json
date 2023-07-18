@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2012 by Jim Lyles for Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Stalemate\"",
+    "description": "",
+    "designer": "Astigmatic (AOETI)",
+    "designer_url": "http://www.astigmatic.com/",
+    "family": "Stalemate",
+    "file_list": [
+        {
+            "file_name": "Stalemate-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/stalemate",
+    "id": "stalemate",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2012 by Jim Lyles for Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Stalemate\"",
+        "designer": "Astigmatic (AOETI)",
+        "designer_url": "http://www.astigmatic.com/",
+        "family_name": "Stalemate",
+        "full_name": "Stalemate",
+        "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Astigmatic (AOETI)",
+        "postscript_name": "Stalemate-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Stalemate is a trademark of Astigmatic (AOETI).",
+        "unique_identifier": "Astigmatic(AOETI): Stalemate: 2012",
+        "vendor_url": "http://www.astigmatic.com/",
+        "version": "Version 001.000"
+    },
+    "source_url": "",
+    "title": "Stalemate",
+    "vendor_url": "http://www.astigmatic.com/",
+    "version": "Version 001.000"
+}

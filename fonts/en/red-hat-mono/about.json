@@ -1,0 +1,66 @@
+{
+    "copyright": "Copyright 2021 The Red Hat Project Authors (https://github.com/RedHatOfficial/RedHatFont)",
+    "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "designer": "Pentagram, MCKL",
+    "designer_url": "https://pentagram.com/",
+    "family": "Red Hat Mono",
+    "file_list": [
+        {
+            "file_name": "RedHatMono-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "RedHatMono-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "RedHatMono-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "RedHatMono-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "RedHatMono-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "SemiBold",
+            "font_weight_value": "600"
+        }
+    ],
+    "file_path": "fonts/en/red-hat-mono",
+    "id": "red-hat-mono",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2021 The Red Hat Project Authors (https://github.com/RedHatOfficial/RedHatFont)",
+        "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "designer": "Pentagram, MCKL",
+        "designer_url": "https://pentagram.com/",
+        "family_name": "Red Hat Mono",
+        "full_name": "Red Hat Mono Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Pentagram, MCKL",
+        "postscript_name": "RedHatMono-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Copyright 2021 The Red Hat Project Authors (https://github.com/RedHatOfficial/RedHatFont)",
+        "unique_identifier": "1.023;MCKL;RedHatMono-Bold",
+        "variations_postscript_name_prefix": "RedHatMonoRoman",
+        "vendor_url": "https://www.mckltype.com",
+        "version": "Version 1.023"
+    },
+    "source_url": "",
+    "title": "Red Hat Mono",
+    "vendor_url": "https://www.mckltype.com",
+    "version": "Version 1.023"
+}

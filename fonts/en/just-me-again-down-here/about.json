@@ -1,0 +1,41 @@
+{
+    "copyright": "Copyright (c) 2011 by Kimberly Geswein. All rights reserved.",
+    "description": "Copyright (c) 2011 by Kimberly Geswein. All rights reserved.",
+    "designer": "Kimberly Geswein",
+    "designer_url": "http://kimberlygeswein.com",
+    "family": "Just Me Again Down Here",
+    "file_list": [
+        {
+            "file_name": "JustMeAgainDownHere-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/just-me-again-down-here",
+    "id": "just-me-again-down-here",
+    "language": "en",
+    "license_description": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com)\r\n\rThis Font Software is licensed under the SIL Open Font License, Version 1.1.  This license is available with a FAQ at:  http://scripts.sil.org/OFL",
+    "license_url": " http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 by Kimberly Geswein. All rights reserved.",
+        "description": "Copyright (c) 2011 by Kimberly Geswein. All rights reserved.",
+        "designer": "Kimberly Geswein",
+        "designer_url": "http://kimberlygeswein.com",
+        "family_name": "Just Me Again Down Here",
+        "full_name": "Just Me Again Down Here",
+        "license_description": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com)\r\n\rThis Font Software is licensed under the SIL Open Font License, Version 1.1.  This license is available with a FAQ at:  http://scripts.sil.org/OFL",
+        "license_info_url": " http://scripts.sil.org/OFL",
+        "manufacturer_name": "Kimberly Geswein",
+        "postscript_name": "JustMeAgainDownHere",
+        "subfamily_name": "Regular",
+        "trademark": "Just Me Again Down Here is a trademark of Kimberly Geswein.",
+        "unique_identifier": "KimberlyGeswein: Just Me Again Down Here: 2011",
+        "vendor_url": "http://kimberlygeswein.com",
+        "version": "Version 1.002 2007"
+    },
+    "source_url": "",
+    "title": "Just Me Again Down Here",
+    "vendor_url": "http://kimberlygeswein.com",
+    "version": "Version 1.002 2007"
+}

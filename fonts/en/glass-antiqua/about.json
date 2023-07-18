@@ -1,0 +1,41 @@
+{
+    "copyright": "Copyright (c) 2011, Denis Masharov <denis.masharov@gmail.com>.",
+    "description": "Copyright (c) 2011 by Denis Masharov. All rights reserved.",
+    "designer": "Denis Masharov",
+    "designer_url": "denis.masharov@gmail.com",
+    "family": "Glass Antiqua",
+    "file_list": [
+        {
+            "file_name": "GlassAntiqua-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/glass-antiqua",
+    "id": "glass-antiqua",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, Denis Masharov <denis.masharov@gmail.com>.",
+        "description": "Copyright (c) 2011 by Denis Masharov. All rights reserved.",
+        "designer": "Denis Masharov",
+        "designer_url": "denis.masharov@gmail.com",
+        "family_name": "Glass Antiqua",
+        "full_name": "Glass Antiqua",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Denis Masharov",
+        "postscript_name": "GlassAntiqua-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Glass Antiqua is a trademark of Denis Masharov.",
+        "unique_identifier": "DenisMasharov: Glass Antiqua: 2011",
+        "vendor_url": "denis.masharov@gmail.com",
+        "version": "1.001"
+    },
+    "source_url": "",
+    "title": "Glass Antiqua",
+    "vendor_url": "denis.masharov@gmail.com",
+    "version": "1.001"
+}

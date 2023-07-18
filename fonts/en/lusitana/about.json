@@ -1,0 +1,45 @@
+{
+    "copyright": "Copyright (c) 2011 by Ana Paula Megda (www.anamegda.com|anapbm@gmail.com), with Reserved Font Name Lusitana.",
+    "description": "",
+    "designer": "Ana Paula Megda",
+    "designer_url": "www.anamegda.com",
+    "family": "Lusitana",
+    "file_list": [
+        {
+            "file_name": "Lusitana-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Lusitana-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/lusitana",
+    "id": "lusitana",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 by Ana Paula Megda (www.anamegda.com|anapbm@gmail.com), with Reserved Font Name Lusitana.",
+        "designer": "Ana Paula Megda",
+        "designer_url": "www.anamegda.com",
+        "family_name": "Lusitana",
+        "full_name": "Lusitana Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Ana Paula Megda",
+        "postscript_name": "Lusitana-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Lusitana is a trademark of Ana Paula Megda.",
+        "unique_identifier": "AnaPaulaMegda: Lusitana Bold: 2011",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Lusitana",
+    "vendor_url": "",
+    "version": "Version 1.001"
+}

@@ -1,0 +1,41 @@
+{
+    "copyright": "Copyright (c) 2010 - 2012, Matt McInerney (matt@pixelspread.com), Pablo Impallari(impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) and Brenda Gallo(gbrenda1987@gmail.com), with Reserved Font Name \"Raleway\"",
+    "description": "It is a display face that features both old style and lining numerals, standard and discretionary ligatures, a pretty complete set of diacritics, as well as a stylistic alternate inspired by more geometric sans-serif typefaces than it's neo-grotesque inspired default character set.",
+    "designer": "Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida, Brenda Gallo",
+    "designer_url": "http://pixelspread.com",
+    "family": "Raleway Dots",
+    "file_list": [
+        {
+            "file_name": "RalewayDots-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/raleway-dots",
+    "id": "raleway-dots",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2010 - 2012, Matt McInerney (matt@pixelspread.com), Pablo Impallari(impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) and Brenda Gallo(gbrenda1987@gmail.com), with Reserved Font Name \"Raleway\"",
+        "description": "It is a display face that features both old style and lining numerals, standard and discretionary ligatures, a pretty complete set of diacritics, as well as a stylistic alternate inspired by more geometric sans-serif typefaces than it's neo-grotesque inspired default character set.",
+        "designer": "Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida, Brenda Gallo",
+        "designer_url": "http://pixelspread.com",
+        "family_name": "Raleway Dots",
+        "full_name": "Raleway Dots",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida, Brenda Gallo",
+        "postscript_name": "RalewayDots-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Raleway is a trademark of Matt McInerney.",
+        "unique_identifier": "MattMcInerney,PabloImpallari,RodrigoFuenzalida,BrendaGallo: Raleway Dots : 2012",
+        "vendor_url": "http://theleagueofmoveabletype.com",
+        "version": "Version 1.000"
+    },
+    "source_url": "",
+    "title": "Raleway Dots",
+    "vendor_url": "http://theleagueofmoveabletype.com",
+    "version": "Version 1.000"
+}

@@ -1,0 +1,39 @@
+{
+    "copyright": "Copyright (c) 2012, Carrois Type Design, Ralph du Carrois (post@carrois.com www.carrois.com), with Reserved Font Name 'Share'",
+    "description": "",
+    "designer": "Ralph Oliver du Carrois",
+    "designer_url": "http://www.carrois.com",
+    "family": "Share Tech Mono",
+    "file_list": [
+        {
+            "file_name": "ShareTechMono-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/share-tech-mono",
+    "id": "share-tech-mono",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2012, Carrois Type Design, Ralph du Carrois (post@carrois.com www.carrois.com), with Reserved Font Name 'Share'",
+        "designer": "Ralph Oliver du Carrois",
+        "designer_url": "http://www.carrois.com",
+        "family_name": "Share Tech Mono",
+        "full_name": "Share Tech Mono",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Ralph Oliver du Carrois",
+        "postscript_name": "ShareTechMono-Regular",
+        "subfamily_name": "Regular",
+        "unique_identifier": "RalphOliverduCarrois: Share Tech Mono: 2014",
+        "vendor_url": "http://www.carrois.com",
+        "version": "Version 1.003"
+    },
+    "source_url": "",
+    "title": "Share Tech Mono",
+    "vendor_url": "http://www.carrois.com",
+    "version": "Version 1.003"
+}

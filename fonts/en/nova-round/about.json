@@ -1,0 +1,35 @@
+{
+    "copyright": "Copyright (c) 2011, wmk69 (wmk69@o2.pl)\nwith Reserved Font Names 'NovaRound' and 'Nova Round'.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "Nova Round",
+    "file_list": [
+        {
+            "file_name": "NovaRound-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/nova-round",
+    "id": "nova-round",
+    "language": "en",
+    "license_description": "Copyright (c) 2011, wmk69, (wmk69@o2.pl)\nwith Reserved Font Name 'NovaRound' and 'Nova Round'.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at: http://scripts.sil.org/OFL\n",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, wmk69 (wmk69@o2.pl)\nwith Reserved Font Names 'NovaRound' and 'Nova Round'.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+        "family_name": "Nova Round",
+        "full_name": "Nova Round",
+        "license_description": "Copyright (c) 2011, wmk69, (wmk69@o2.pl)\nwith Reserved Font Name 'NovaRound' and 'Nova Round'.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at: http://scripts.sil.org/OFL\n",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "postscript_name": "NovaRound",
+        "subfamily_name": "Book",
+        "unique_identifier": "FontForge : Nova Round : 13-8-2011",
+        "version": "Version 2.000"
+    },
+    "source_url": "",
+    "title": "Nova Round",
+    "vendor_url": "",
+    "version": "Version 2.000"
+}

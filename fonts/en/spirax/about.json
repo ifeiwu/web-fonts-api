@@ -1,0 +1,38 @@
+{
+    "copyright": "Copyright (c) 2011 by Brenda Gallo (gbrenda1987@gmail.com), with Reserved Font Name Spirax.",
+    "description": "",
+    "designer": "Brenda Gallo (gbrenda1987@gmail.com)",
+    "designer_url": "",
+    "family": "Spirax",
+    "file_list": [
+        {
+            "file_name": "Spirax-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/spirax",
+    "id": "spirax",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 by Brenda Gallo (gbrenda1987@gmail.com), with Reserved Font Name Spirax.",
+        "designer": "Brenda Gallo (gbrenda1987@gmail.com)",
+        "family_name": "Spirax",
+        "full_name": "Spirax-Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Brenda Gallo",
+        "postscript_name": "Spirax-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Spirax is a trademark of Brenda Gallo (gbrenda1987@gmail.com).",
+        "unique_identifier": "BrendaGallo: Spirax: 2011",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Spirax",
+    "vendor_url": "",
+    "version": "Version 1.002"
+}

@@ -1,0 +1,42 @@
+{
+    "copyright": "Copyright (c) 2010 by Sorkin Type Co with Reserved Font Name Oldenburgh.",
+    "description": "Oldenburg is inspired by nearly monoline handwritting seen on a series of German posters. It has been changed and adaped to be more broadly useful design than a more faithful interpretation would have been. Despite the increased ulity in Oldernburg it still presenst plenty of the whimsical feeling that made it's source so attractive. Oldenburg can be used a in a wide range of sizes.",
+    "designer": "Nicole Fally",
+    "designer_url": "sorkintype.com",
+    "family": "Oldenburg",
+    "file_list": [
+        {
+            "file_name": "Oldenburg-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/oldenburg",
+    "id": "oldenburg",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "compatible_full": "Oldenburg",
+        "copyright_notice": "Copyright (c) 2010 by Sorkin Type Co with Reserved Font Name Oldenburgh.",
+        "description": "Oldenburg is inspired by nearly monoline handwritting seen on a series of German posters. It has been changed and adaped to be more broadly useful design than a more faithful interpretation would have been. Despite the increased ulity in Oldernburg it still presenst plenty of the whimsical feeling that made it's source so attractive. Oldenburg can be used a in a wide range of sizes.",
+        "designer": "Nicole Fally",
+        "designer_url": "sorkintype.com",
+        "family_name": "Oldenburg",
+        "full_name": "Oldenburg",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Nicole Fally",
+        "postscript_name": "Oldenburg-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Oldenburg is a trademark of Sorkin Type Co.",
+        "unique_identifier": "NicoleFally: Oldenburg Regular: 2011",
+        "vendor_url": "sorkintype.com",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Oldenburg",
+    "vendor_url": "sorkintype.com",
+    "version": "Version 1.001"
+}

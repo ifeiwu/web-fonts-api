@@ -1,0 +1,41 @@
+{
+    "copyright": "Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),\rCopyright (c) 2011, Igino Marini. (www.ikern.com|mail@iginomarini.com),\rwith Reserved Font Name Kaushan Script.",
+    "description": "Kaushan Script feels like writing quickly with an inked brush.\r\rWhen making digital typefaces, the more you refine the shapes of the letters, the more energy you take away from them. Because of that, Kaushan is unrefined - and carries a lot of energy. \r\rBy avoiding typographical perfection, it stays more natural. The angles of the vertical strokes vary a little, and the positioning along the baseline jumps around, giving it a more rustic and natural feeling.\r\rMost script fonts have long ascenders and descenders, and this means they look too small when used at normal sizes on the web. This font it's optimized in the technical details to be very readable as a web font, even when used as small as at 16 pixels.\r\rIt was funded by people like you, via Kickstarter.\rSpecial thanks to the project backers! They are all listed on the website: http://www.impallari.com/kaushan",
+    "designer": "Pablo Impallari",
+    "designer_url": "www.impallari.com",
+    "family": "Kaushan Script",
+    "file_list": [
+        {
+            "file_name": "KaushanScript-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/kaushan-script",
+    "id": "kaushan-script",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),\rCopyright (c) 2011, Igino Marini. (www.ikern.com|mail@iginomarini.com),\rwith Reserved Font Name Kaushan Script.",
+        "description": "Kaushan Script feels like writing quickly with an inked brush.\r\rWhen making digital typefaces, the more you refine the shapes of the letters, the more energy you take away from them. Because of that, Kaushan is unrefined - and carries a lot of energy. \r\rBy avoiding typographical perfection, it stays more natural. The angles of the vertical strokes vary a little, and the positioning along the baseline jumps around, giving it a more rustic and natural feeling.\r\rMost script fonts have long ascenders and descenders, and this means they look too small when used at normal sizes on the web. This font it's optimized in the technical details to be very readable as a web font, even when used as small as at 16 pixels.\r\rIt was funded by people like you, via Kickstarter.\rSpecial thanks to the project backers! They are all listed on the website: http://www.impallari.com/kaushan",
+        "designer": "Pablo Impallari",
+        "designer_url": "www.impallari.com",
+        "family_name": "Kaushan Script",
+        "full_name": "Kaushan Script",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Pablo Impallari",
+        "postscript_name": "KaushanScript-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Kaushan Script is a trademark of Pablo Impallari.",
+        "unique_identifier": "PabloImpallari: Kaushan Script: 2011",
+        "vendor_url": "www.impallari.com",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Kaushan Script",
+    "vendor_url": "www.impallari.com",
+    "version": "Version 1.002"
+}

@@ -1,0 +1,45 @@
+{
+    "copyright": "Copyright 2016 The Unna Project Authors (omnibus.type@gmail.com)",
+    "description": "",
+    "designer": "Jorge de Buen Unna",
+    "designer_url": "http://www.omnibus-type.com",
+    "family": "Unna",
+    "file_list": [
+        {
+            "file_name": "Unna-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Unna-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/unna",
+    "id": "unna",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2016 The Unna Project Authors (omnibus.type@gmail.com)",
+        "designer": "Jorge de Buen Unna",
+        "designer_url": "http://www.omnibus-type.com",
+        "family_name": "Unna",
+        "full_name": "Unna Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Omnibus-Type ",
+        "postscript_name": "Unna-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "2.007;OMNI;Unna-Bold",
+        "vendor_url": "http://www.omnibus-type.com",
+        "version": "Version 2.007; ttfautohint (v1.5)"
+    },
+    "source_url": "",
+    "title": "Unna",
+    "vendor_url": "http://www.omnibus-type.com",
+    "version": "Version 2.007; ttfautohint (v1.5)"
+}

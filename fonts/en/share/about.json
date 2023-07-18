@@ -1,0 +1,43 @@
+{
+    "copyright": "Copyright (c) 2005-2011, Carrois Type Design (carrois.com), with Reserved Font Name \"Share\"",
+    "description": "",
+    "designer": "Ralph du Carrois",
+    "designer_url": "www.carrois.com",
+    "family": "Share",
+    "file_list": [
+        {
+            "file_name": "Share-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Share-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/share",
+    "id": "share",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2005-2011, Carrois Type Design (carrois.com), with Reserved Font Name \"Share\"",
+        "designer": "Ralph du Carrois",
+        "designer_url": "www.carrois.com",
+        "family_name": "Share",
+        "full_name": "Share Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "postscript_name": "Share-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "1.002;UKWN;Share-Bold",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Share",
+    "vendor_url": "",
+    "version": "Version 1.002"
+}

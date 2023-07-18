@@ -1,0 +1,52 @@
+{
+    "copyright": "Copyright 2017 The Inria Serif Project Authors (https://github.com/BlackFoundryCom/InriaFonts)",
+    "description": "",
+    "designer": "Black Foundry Team",
+    "designer_url": "http://www.black-foundry.com/company",
+    "family": "Inria Serif",
+    "file_list": [
+        {
+            "file_name": "InriaSerif-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "InriaSerif-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "InriaSerif-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/inria-serif",
+    "id": "inria-serif",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2017 The Inria Serif Project Authors (https://github.com/BlackFoundryCom/InriaFonts)",
+        "designer": "Black Foundry Team",
+        "designer_url": "http://www.black-foundry.com/company",
+        "family_name": "Inria Serif",
+        "full_name": "Inria Serif Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Black Foundry",
+        "postscript_name": "InriaSerif-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Inria Serif is a trademark of BlackFoundry",
+        "unique_identifier": "1.000;BLCK;InriaSerif-Bold",
+        "vendor_url": "http://www.black-foundry.com",
+        "version": "Version 1.000; ttfautohint (v1.8.3)"
+    },
+    "source_url": "",
+    "title": "Inria Serif",
+    "vendor_url": "http://www.black-foundry.com",
+    "version": "Version 1.000; ttfautohint (v1.8.3)"
+}

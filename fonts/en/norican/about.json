@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2011 by vernon adams (www.newtypography.co.uk), with Reserved Font Names \"Norican\"",
+    "description": "",
+    "designer": "vernon adams",
+    "designer_url": "www.newtypography.co.uk",
+    "family": "Norican",
+    "file_list": [
+        {
+            "file_name": "Norican-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/norican",
+    "id": "norican",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 by vernon adams (www.newtypography.co.uk), with Reserved Font Names \"Norican\"",
+        "designer": "vernon adams",
+        "designer_url": "www.newtypography.co.uk",
+        "family_name": "Norican",
+        "full_name": "Norican Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "vernon adams",
+        "postscript_name": "Norican-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Norican is a trademark of vernon adams.",
+        "unique_identifier": "vernonadams: Norican Regular: 2011",
+        "vendor_url": "www.newtypography.co.uk",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Norican",
+    "vendor_url": "www.newtypography.co.uk",
+    "version": "Version 1.001"
+}

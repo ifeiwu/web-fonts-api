@@ -1,0 +1,44 @@
+{
+    "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Headland\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+    "description": "Headland is a text typeface designed to be highly legible and comfortable when reading screens.ÊHeadland is useful from very small sizes to headlines. Headland's personality recalls the genialityÊof the UK private press movement types made at the turn of the 20th century. Headland's eccentric details contribute to the distinctive feeling of the type at smaller sizes but do not become obviousÊuntil the type becomes much larger.",
+    "designer": "Gary Lonergan",
+    "designer_url": "www.sorkintype.com",
+    "family": "HeadlandOne",
+    "file_list": [
+        {
+            "file_name": "HeadlandOne-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/headland-one",
+    "id": "headlandone",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "compatible_full": "HeadlandOneRegular",
+        "copyright_notice": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Headland\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+        "description": "Headland is a text typeface designed to be highly legible and comfortable when reading screens.ÊHeadland is useful from very small sizes to headlines. Headland's personality recalls the genialityÊof the UK private press movement types made at the turn of the 20th century. Headland's eccentric details contribute to the distinctive feeling of the type at smaller sizes but do not become obviousÊuntil the type becomes much larger.",
+        "designer": "Gary Lonergan",
+        "designer_url": "www.sorkintype.com",
+        "family_name": "HeadlandOne",
+        "full_name": "HeadlandOne-Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Sorkin Type Co.",
+        "postscript_name": "HeadlandOne-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Headland is a trademark of Sorkin Type Co.",
+        "typographic_family_name": "HeadlandOne",
+        "typographic_subfamily_name": "Regular",
+        "unique_identifier": "SorkinTypeCo.: HeadlandOneRegular: 2011",
+        "vendor_url": "www.sorkintype.com",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "HeadlandOne",
+    "vendor_url": "www.sorkintype.com",
+    "version": "Version 1.002"
+}

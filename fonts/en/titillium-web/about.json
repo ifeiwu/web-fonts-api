@@ -1,0 +1,67 @@
+{
+    "copyright": "Copyright (c) 2009-2011 by Accademia di Belle Arti di Urbino and students of MA course of Visual design. Some rights reserved.",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "Titillium Web Black",
+    "file_list": [
+        {
+            "file_name": "TitilliumWeb-Black.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Black",
+            "font_weight_value": "900"
+        },
+        {
+            "file_name": "TitilliumWeb-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "TitilliumWeb-ExtraLight.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraLight",
+            "font_weight_value": "200"
+        },
+        {
+            "file_name": "TitilliumWeb-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "TitilliumWeb-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "TitilliumWeb-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "SemiBold",
+            "font_weight_value": "600"
+        }
+    ],
+    "file_path": "fonts/en/titillium-web",
+    "id": "titillium-web-black",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2009-2011 by Accademia di Belle Arti di Urbino and students of MA course of Visual design. Some rights reserved.",
+        "family_name": "Titillium Web Black",
+        "full_name": "Titillium Web Black",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "postscript_name": "TitilliumWeb-Black",
+        "subfamily_name": "Regular",
+        "typographic_family_name": "Titillium Web",
+        "typographic_subfamily_name": "Black",
+        "unique_identifier": "1.002;UKWN;TitilliumWeb-Black",
+        "version": "Version 1.002;PS 35.000;hotconv 1.0.70;makeotf.lib2.5.55311"
+    },
+    "source_url": "",
+    "title": "Titillium Web Black",
+    "vendor_url": "",
+    "version": "Version 1.002;PS 35.000;hotconv 1.0.70;makeotf.lib2.5.55311"
+}

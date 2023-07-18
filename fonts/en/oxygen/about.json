@@ -1,0 +1,52 @@
+{
+    "copyright": "Copyright (c) 2012, Vernon Adams (vern@newtypography.co.uk), with Reserved Font Names 'Oxygen'",
+    "description": "",
+    "designer": "vernon adams",
+    "designer_url": "newtypography.co.uk",
+    "family": "Oxygen",
+    "file_list": [
+        {
+            "file_name": "Oxygen-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Oxygen-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "Oxygen-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/oxygen",
+    "id": "oxygen",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2012, Vernon Adams (vern@newtypography.co.uk), with Reserved Font Names 'Oxygen'",
+        "designer": "vernon adams",
+        "designer_url": "newtypography.co.uk",
+        "family_name": "Oxygen",
+        "full_name": "Oxygen Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Vernon Adams",
+        "postscript_name": "Oxygen-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Oxygen is a trademark of Vernon Adams.",
+        "unique_identifier": "0.2;UKWN;Oxygen-Bold",
+        "vendor_url": "newtypography.co.uk",
+        "version": "Version 0.2.3 webfont; ttfautohint (v0.93.3-1d66) -l 8 -r 50 -G 200 -x 0 -w \"gGD\" -c"
+    },
+    "source_url": "",
+    "title": "Oxygen",
+    "vendor_url": "newtypography.co.uk",
+    "version": "Version 0.2.3 webfont; ttfautohint (v0.93.3-1d66) -l 8 -r 50 -G 200 -x 0 -w \"gGD\" -c"
+}

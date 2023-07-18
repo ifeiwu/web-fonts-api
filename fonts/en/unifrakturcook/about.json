@@ -1,0 +1,37 @@
+{
+    "copyright": "Copyright (c) 2010 j. 'mach' wust with Reserved Font Name UnifrakturCook.\nCopyright (c) 2009 Peter Wiegel.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.",
+    "description": "",
+    "designer": "j. 'mach' wust",
+    "designer_url": "http://unifraktur.sourceforge.net/cook.html",
+    "family": "UnifrakturCook",
+    "file_list": [
+        {
+            "file_name": "UnifrakturCook-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        }
+    ],
+    "file_path": "fonts/en/unifrakturcook",
+    "id": "unifrakturcook",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2010 j. 'mach' wust with Reserved Font Name UnifrakturCook.\nCopyright (c) 2009 Peter Wiegel.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.",
+        "designer": "j. 'mach' wust",
+        "designer_url": "http://unifraktur.sourceforge.net/cook.html",
+        "family_name": "UnifrakturCook",
+        "full_name": "UnifrakturCook",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "postscript_name": "UnifrakturCook-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "FontForge 2.0 : UnifrakturCook : 1-9-2011",
+        "version": "Version 2011-09-01 "
+    },
+    "source_url": "",
+    "title": "UnifrakturCook",
+    "vendor_url": "",
+    "version": "Version 2011-09-01 "
+}

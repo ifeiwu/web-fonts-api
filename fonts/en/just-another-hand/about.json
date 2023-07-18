@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2010 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\rhttp://www.apache.org/licenses/LICENSE-2.0.html",
+    "description": "",
+    "designer": "Astigmatic (AOETI)",
+    "designer_url": "http://www.astigmatic.com/",
+    "family": "Just Another Hand",
+    "file_list": [
+        {
+            "file_name": "JustAnotherHand-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/just-another-hand",
+    "id": "just-another-hand",
+    "language": "en",
+    "license_description": "Licensed under the Apache License, Version 2.0",
+    "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+    "names": {
+        "copyright_notice": "Copyright (c) 2010 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\rhttp://www.apache.org/licenses/LICENSE-2.0.html",
+        "designer": "Astigmatic (AOETI)",
+        "designer_url": "http://www.astigmatic.com/",
+        "family_name": "Just Another Hand",
+        "full_name": "Just Another Hand Regular",
+        "license_description": "Licensed under the Apache License, Version 2.0",
+        "license_info_url": "http://www.apache.org/licenses/LICENSE-2.0",
+        "manufacturer_name": "Astigmatic (AOETI)",
+        "postscript_name": "JustAnotherHand-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Just Another Hand Regular is a trademark of Astigmatic (AOETI).",
+        "unique_identifier": "1.001;AOEF;JustAnotherHand-Regular",
+        "vendor_url": "http://www.astigmatic.com/",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Just Another Hand",
+    "vendor_url": "http://www.astigmatic.com/",
+    "version": "Version 1.001"
+}

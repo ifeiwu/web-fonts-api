@@ -1,0 +1,42 @@
+{
+    "copyright": "Copyright (c) 2010 by Toshi Omagari. All rights reserved.",
+    "description": "",
+    "designer": "Toshi Omagari",
+    "designer_url": "",
+    "family": "Tangerine",
+    "file_list": [
+        {
+            "file_name": "Tangerine-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Tangerine-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/tangerine",
+    "id": "tangerine",
+    "language": "en",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "Copyright (c) 2010 by Toshi Omagari. All rights reserved.",
+        "designer": "Toshi Omagari",
+        "family_name": "Tangerine",
+        "full_name": "Tangerine Bold",
+        "manufacturer_name": "Toshi Omagari",
+        "postscript_name": "Tangerine-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Tangerine is a trademark of Toshi Omagari.",
+        "unique_identifier": "1.3;UKWN;Tangerine-Bold",
+        "version": "Version 1.3"
+    },
+    "source_url": "",
+    "title": "Tangerine",
+    "vendor_url": "",
+    "version": "Version 1.3"
+}

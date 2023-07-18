@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2010 by Jos Nicols Silva Schwarzenberg.<info@nsilva.com>, with Reserved Font Names \"Poly\".",
+    "description": "",
+    "designer": "Jos Nicols Silva Schwarzenberg",
+    "designer_url": "http://nsilva.com/",
+    "family": "Poly",
+    "file_list": [
+        {
+            "file_name": "Poly-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/poly",
+    "id": "poly",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2010 by Jos Nicols Silva Schwarzenberg.<info@nsilva.com>, with Reserved Font Names \"Poly\".",
+        "designer": "Jos Nicols Silva Schwarzenberg",
+        "designer_url": "http://nsilva.com/",
+        "family_name": "Poly",
+        "full_name": "Poly-Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Jose Nicolas Silva Schwarzenberg",
+        "postscript_name": "Poly-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Poly is a trademark of Jose Nicolas Silva Schwarzenberg.",
+        "unique_identifier": "JoseNicolasSilvaSchwarzenberg: Poly: 2010",
+        "vendor_url": "http://nsilva.com/",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Poly",
+    "vendor_url": "http://nsilva.com/",
+    "version": "Version 1.001"
+}

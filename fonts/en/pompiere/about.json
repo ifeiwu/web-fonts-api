@@ -1,0 +1,42 @@
+{
+    "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\nwith Reserved Font Name \"Pompiere\".",
+    "description": "Pompiere is a low contrast condensed sans serif font. However unlike most sans it has very tall ascenders and and very small x height. Pompiere is playful and even a little sweet. This font was inspired by a handmade sign seen outside of NYC firefighters Squad Co. 18 in the West Village of Manhattan. Because of its small x height and modest weight it will work best at medium to large sizes.",
+    "designer": "Karolina Lach",
+    "designer_url": "www.thekarolina.com",
+    "family": "Pompiere ",
+    "file_list": [
+        {
+            "file_name": "Pompiere-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/pompiere",
+    "id": "pompiere-",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "compatible_full": "Pompiere ",
+        "copyright_notice": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\nwith Reserved Font Name \"Pompiere\".",
+        "description": "Pompiere is a low contrast condensed sans serif font. However unlike most sans it has very tall ascenders and and very small x height. Pompiere is playful and even a little sweet. This font was inspired by a handmade sign seen outside of NYC firefighters Squad Co. 18 in the West Village of Manhattan. Because of its small x height and modest weight it will work best at medium to large sizes.",
+        "designer": "Karolina Lach",
+        "designer_url": "www.thekarolina.com",
+        "family_name": "Pompiere ",
+        "full_name": "Pompiere ",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Sorkin Type Co.",
+        "postscript_name": "Pompiere-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Pompiere is a trademark of Sorkin Type Co.",
+        "unique_identifier": "FontForge 2.0 : Pompiere  : 18-7-2011",
+        "vendor_url": "www.sorkintype.com",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Pompiere ",
+    "vendor_url": "www.sorkintype.com",
+    "version": "Version 1.002"
+}

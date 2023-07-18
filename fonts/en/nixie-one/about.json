@@ -1,0 +1,41 @@
+{
+    "copyright": "Copyright (c) 2011, Jovanny Lemonad (lemonad@jovanny.ru), with Reserved Font Name \"Nixie\"",
+    "description": "",
+    "designer": "Jovanny Lemonad",
+    "designer_url": "http://jovanny.ru/",
+    "family": "Nixie One",
+    "file_list": [
+        {
+            "file_name": "NixieOne-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/nixie-one",
+    "id": "nixie-one",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "compatible_full": "Nixie One",
+        "copyright_notice": "Copyright (c) 2011, Jovanny Lemonad (lemonad@jovanny.ru), with Reserved Font Name \"Nixie\"",
+        "designer": "Jovanny Lemonad",
+        "designer_url": "http://jovanny.ru/",
+        "family_name": "Nixie One",
+        "full_name": "Nixie One",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Jovanny Lemonad",
+        "postscript_name": "NixieOne-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Nixie is a trademark of Jovanny Lemonad.",
+        "unique_identifier": "JovannyLemonad: Nixie One: 2011",
+        "vendor_url": "http://jovanny.ru/",
+        "version": "Version 1.004"
+    },
+    "source_url": "",
+    "title": "Nixie One",
+    "vendor_url": "http://jovanny.ru/",
+    "version": "Version 1.004"
+}

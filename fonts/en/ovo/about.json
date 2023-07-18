@@ -1,0 +1,42 @@
+{
+    "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\nwith Reserved Font Name \"Ovo\".",
+    "description": "Ovo was inspired by a set of hand lettered caps seen in a 1930's lettering guide. The capitals suggested the time in which they were made because of the soft serif treatment used. This detail and a subtle casual feeling creeping into the otherwise classical forms led to the soft genial lowercase and the whimsical numbers now seen in Ovo. Ovo is a medium contrast serif font. Because of the old style variable letter widths and subtle detail it will work best at medium to large sizes.",
+    "designer": "Nicole Fally",
+    "designer_url": "sorkintype.com",
+    "family": "Ovo",
+    "file_list": [
+        {
+            "file_name": "Ovo-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/ovo",
+    "id": "ovo",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "compatible_full": "Ovo",
+        "copyright_notice": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\nwith Reserved Font Name \"Ovo\".",
+        "description": "Ovo was inspired by a set of hand lettered caps seen in a 1930's lettering guide. The capitals suggested the time in which they were made because of the soft serif treatment used. This detail and a subtle casual feeling creeping into the otherwise classical forms led to the soft genial lowercase and the whimsical numbers now seen in Ovo. Ovo is a medium contrast serif font. Because of the old style variable letter widths and subtle detail it will work best at medium to large sizes.",
+        "designer": "Nicole Fally",
+        "designer_url": "sorkintype.com",
+        "family_name": "Ovo",
+        "full_name": "Ovo",
+        "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Sorkin Type Co.",
+        "postscript_name": "Ovo",
+        "subfamily_name": "Regular",
+        "trademark": "Ovo is a trademark of Sorkin Type Co.",
+        "unique_identifier": "SorkinTypeCo.: Ovo: 2011",
+        "vendor_url": "sorkintype.com",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Ovo",
+    "vendor_url": "sorkintype.com",
+    "version": "Version 1.001"
+}

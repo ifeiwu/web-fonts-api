@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2010 by vernon adams. All rights reserved.",
+    "description": "Copyright (c) 251 by vernon adams. All rights reserved.",
+    "designer": "vernon adams",
+    "designer_url": "newtypography.co.uk",
+    "family": "Six Caps",
+    "file_list": [
+        {
+            "file_name": "SixCaps-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/six-caps",
+    "id": "six-caps",
+    "language": "en",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "compatible_full": "Six Caps",
+        "copyright_notice": "Copyright (c) 2010 by vernon adams. All rights reserved.",
+        "description": "Copyright (c) 251 by vernon adams. All rights reserved.",
+        "designer": "vernon adams",
+        "designer_url": "newtypography.co.uk",
+        "family_name": "Six Caps",
+        "full_name": "Six Caps",
+        "manufacturer_name": "vernon adams",
+        "postscript_name": "SixCaps",
+        "subfamily_name": "Regular",
+        "trademark": "Six Caps is a trademark of vernon adams.",
+        "unique_identifier": "vernonadams: Six Caps: 2010",
+        "vendor_url": "newtypography.co.uk",
+        "version": "Version 001.000"
+    },
+    "source_url": "",
+    "title": "Six Caps",
+    "vendor_url": "newtypography.co.uk",
+    "version": "Version 001.000"
+}

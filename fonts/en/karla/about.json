@@ -1,0 +1,74 @@
+{
+    "copyright": "Copyright 2019 The Karla Project Authors (https://github.com/googlefonts/karla)",
+    "description": "",
+    "designer": "Jonathan Pinhorn",
+    "designer_url": "",
+    "family": "Karla",
+    "file_list": [
+        {
+            "file_name": "Karla-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Karla-ExtraBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraBold",
+            "font_weight_value": "800"
+        },
+        {
+            "file_name": "Karla-ExtraLight.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraLight",
+            "font_weight_value": "200"
+        },
+        {
+            "file_name": "Karla-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "Karla-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "Karla-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "Karla-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "SemiBold",
+            "font_weight_value": "600"
+        }
+    ],
+    "file_path": "fonts/en/karla",
+    "id": "karla",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2019 The Karla Project Authors (https://github.com/googlefonts/karla)",
+        "designer": "Jonathan Pinhorn",
+        "family_name": "Karla",
+        "full_name": "Karla Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "postscript_name": "Karla-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Karla is a trademark of Jonathan Pinhorn",
+        "unique_identifier": "2.003;GOOG;Karla-Bold",
+        "variations_postscript_name_prefix": "Karla",
+        "version": "Version 2.003;gftools[0.9.28]"
+    },
+    "source_url": "",
+    "title": "Karla",
+    "vendor_url": "",
+    "version": "Version 2.003;gftools[0.9.28]"
+}

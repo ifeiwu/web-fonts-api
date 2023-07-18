@@ -1,0 +1,42 @@
+{
+    "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Names \"Short Stack\" and \"Short Stack One\".",
+    "description": "Short Stack is a low contrast semi geometric typeface inspired by childish written letters. Short Stack is sturdy, and clear but also whimsical and fun. Short stack works well from medium text sizes to larger display sizes.",
+    "designer": "James Grieshaber",
+    "designer_url": "www.typeco.com",
+    "family": "Short Stack",
+    "file_list": [
+        {
+            "file_name": "ShortStack-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/short-stack",
+    "id": "short-stack",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "compatible_full": "Short Stack",
+        "copyright_notice": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Names \"Short Stack\" and \"Short Stack One\".",
+        "description": "Short Stack is a low contrast semi geometric typeface inspired by childish written letters. Short Stack is sturdy, and clear but also whimsical and fun. Short stack works well from medium text sizes to larger display sizes.",
+        "designer": "James Grieshaber",
+        "designer_url": "www.typeco.com",
+        "family_name": "Short Stack",
+        "full_name": "Short Stack",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "James Grieshaber",
+        "postscript_name": "ShortStack",
+        "subfamily_name": "Regular",
+        "trademark": "Short Stack is a trademark of Sorkin Type Co.",
+        "unique_identifier": "JamesGrieshaber: Short Stack: 2011",
+        "vendor_url": "www.sorkintype.com",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Short Stack",
+    "vendor_url": "www.sorkintype.com",
+    "version": "Version 1.002"
+}

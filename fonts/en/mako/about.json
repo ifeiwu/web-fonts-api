@@ -1,0 +1,41 @@
+{
+    "copyright": "Copyright (c) 2007 by vernon adams. All rights reserved.",
+    "description": "Copyright (c) 2007 by vernon adams. All rights reserved.",
+    "designer": "vernon adams",
+    "designer_url": "newtypography.co.uk",
+    "family": "Mako",
+    "file_list": [
+        {
+            "file_name": "Mako-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/mako",
+    "id": "mako",
+    "language": "en",
+    "license_description": "",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "compatible_full": "Mako",
+        "copyright_notice": "Copyright (c) 2007 by vernon adams. All rights reserved.",
+        "description": "Copyright (c) 2007 by vernon adams. All rights reserved.",
+        "designer": "vernon adams",
+        "designer_url": "newtypography.co.uk",
+        "family_name": "Mako",
+        "full_name": "Mako",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "vernon adams",
+        "postscript_name": "Mako",
+        "subfamily_name": "Regular",
+        "trademark": "Mako is a trademark of vernon adams.",
+        "unique_identifier": "vernonadams: Mako: 2007",
+        "vendor_url": "newtypography.co.uk",
+        "version": "Version 1.000"
+    },
+    "source_url": "",
+    "title": "Mako",
+    "vendor_url": "newtypography.co.uk",
+    "version": "Version 1.000"
+}

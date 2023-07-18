@@ -1,0 +1,46 @@
+{
+    "copyright": "Copyright (c) 2008, Haley Fiege (haley@kingdomofawesome.com), \rCopyright (c) 2012, Brenda Gallo (gbrenda1987@gmail.com)\rCopyright (c) 2013, Pablo Impallari (www.impallari.com|impallari@gmail.com), \rwith no Reserved Font Name.",
+    "description": "A rounded display face thatÕs great for headlines.\r\rOriginally designed in 2008 by Haley Fiege in Extra-bold.\rIn 2013 Brenda Gallo and Pablo Impallari added a Regular weight\r\rTo contribute to the project contact Haley Fiege (haley@kingdomofawesome.com) or Pablo Impallari (impallari@gmail.com)",
+    "designer": "Haley Fiege",
+    "designer_url": "kingdomofawesome.com",
+    "family": "Sniglet",
+    "file_list": [
+        {
+            "file_name": "Sniglet-ExtraBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraBold",
+            "font_weight_value": "800"
+        },
+        {
+            "file_name": "Sniglet-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/sniglet",
+    "id": "sniglet",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2008, Haley Fiege (haley@kingdomofawesome.com), \rCopyright (c) 2012, Brenda Gallo (gbrenda1987@gmail.com)\rCopyright (c) 2013, Pablo Impallari (www.impallari.com|impallari@gmail.com), \rwith no Reserved Font Name.",
+        "description": "A rounded display face thatÕs great for headlines.\r\rOriginally designed in 2008 by Haley Fiege in Extra-bold.\rIn 2013 Brenda Gallo and Pablo Impallari added a Regular weight\r\rTo contribute to the project contact Haley Fiege (haley@kingdomofawesome.com) or Pablo Impallari (impallari@gmail.com)",
+        "designer": "Haley Fiege",
+        "designer_url": "kingdomofawesome.com",
+        "family_name": "Sniglet",
+        "full_name": "Sniglet ExtraBold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Haley Fiege, Pablo Impallari, Brenda Gallo",
+        "postscript_name": "Sniglet-ExtraBold",
+        "subfamily_name": "ExtraBold",
+        "trademark": "Sniglet is a trademark of Haley Fiege",
+        "unique_identifier": "HaleyFiege,PabloImpallari,BrendaGallo: Sniglet ExtraBold: 2008",
+        "version": "Version 2.000; ttfautohint (v0.95) -l 8 -r 50 -G 200 -x 14 -w \"G\""
+    },
+    "source_url": "",
+    "title": "Sniglet",
+    "vendor_url": "",
+    "version": "Version 2.000; ttfautohint (v0.95) -l 8 -r 50 -G 200 -x 14 -w \"G\""
+}

@@ -1,0 +1,47 @@
+{
+    "copyright": "Copyright (c) 2011, Carolina Trebol <ca@fromzero.org>, with Reserved Font Name \"Marvel\".",
+    "description": "",
+    "designer": "Carolina Trebol",
+    "designer_url": "fromzero.org",
+    "family": "Marvel",
+    "file_list": [
+        {
+            "file_name": "Marvel-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Marvel-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/marvel",
+    "id": "marvel",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "compatible_full": "Marvel Bold",
+        "copyright_notice": "Copyright (c) 2011, Carolina Trebol <ca@fromzero.org>, with Reserved Font Name \"Marvel\".",
+        "designer": "Carolina Trebol",
+        "designer_url": "fromzero.org",
+        "family_name": "Marvel",
+        "full_name": "Marvel Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Carolina Trebol",
+        "postscript_name": "Marvel-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Marvel is a trademark of Carolina Trebol.",
+        "unique_identifier": "CarolinaTrebol: Marvel: 2011",
+        "vendor_url": "fromzero.org",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Marvel",
+    "vendor_url": "fromzero.org",
+    "version": "Version 1.001"
+}

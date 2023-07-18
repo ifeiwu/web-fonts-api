@@ -1,0 +1,42 @@
+{
+    "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\nwith Reserved Font Name \"Goblin\".\n\nThis Font Software is licensed under the SIL Open Font License,\nVersion 1.1. This license is available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+    "description": "Goblin belongs to the category of display types called \"Latin\". This is because of its sharp triangular serifs. Goblin was inspired by a hand painted sign above a pub in the town of Reading (UK). Goblin is a somewhat wide medium contrast design with a large x height. Goblin is both attention getting and fun. Goblin is suitable for use in medium to large sizes including headlines. This font was made specifically to be web type.",
+    "designer": "Riccardo De Franceschi",
+    "designer_url": "www.rdftype.it",
+    "family": "Goblin One",
+    "file_list": [
+        {
+            "file_name": "GoblinOne-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/goblin-one",
+    "id": "goblin-one",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "compatible_full": "Goblin",
+        "copyright_notice": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\nwith Reserved Font Name \"Goblin\".\n\nThis Font Software is licensed under the SIL Open Font License,\nVersion 1.1. This license is available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+        "description": "Goblin belongs to the category of display types called \"Latin\". This is because of its sharp triangular serifs. Goblin was inspired by a hand painted sign above a pub in the town of Reading (UK). Goblin is a somewhat wide medium contrast design with a large x height. Goblin is both attention getting and fun. Goblin is suitable for use in medium to large sizes including headlines. This font was made specifically to be web type.",
+        "designer": "Riccardo De Franceschi",
+        "designer_url": "www.rdftype.it",
+        "family_name": "Goblin One",
+        "full_name": "Goblin One",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Sorkin Type Co.",
+        "postscript_name": "GoblinOne",
+        "subfamily_name": "Regular",
+        "trademark": "Goblin is a trademark of Sorkin Type Co.",
+        "unique_identifier": "FontForge 2.0 : Goblin One : 20-6-2011",
+        "vendor_url": "www.sorkintype.com",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Goblin One",
+    "vendor_url": "www.sorkintype.com",
+    "version": "Version 1.001"
+}

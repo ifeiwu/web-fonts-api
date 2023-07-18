@@ -1,0 +1,42 @@
+{
+    "copyright": "Copyright (c) 2011 by Jovanny Lemonad. All rights reserved.",
+    "description": "Copyright (c) 2011 by Jovanny Lemonad. All rights reserved.",
+    "designer": "Jovanny Lemonad",
+    "designer_url": "http://www.jovanny.ru/",
+    "family": "Numans",
+    "file_list": [
+        {
+            "file_name": "Numans-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/numans",
+    "id": "numans",
+    "language": "en",
+    "license_description": "Copyright (c) August 1, 2011, Jovanny Lemonad (lemonad@jovanny.ru), with Reserved Font Name \"Numans\" and \"Numans\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "compatible_full": "Numans",
+        "copyright_notice": "Copyright (c) 2011 by Jovanny Lemonad. All rights reserved.",
+        "description": "Copyright (c) 2011 by Jovanny Lemonad. All rights reserved.",
+        "designer": "Jovanny Lemonad",
+        "designer_url": "http://www.jovanny.ru/",
+        "family_name": "Numans",
+        "full_name": "Numans",
+        "license_description": "Copyright (c) August 1, 2011, Jovanny Lemonad (lemonad@jovanny.ru), with Reserved Font Name \"Numans\" and \"Numans\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Jovanny Lemonad",
+        "postscript_name": "Numans-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Numans is a trademark of Jovanny Lemonad.",
+        "unique_identifier": "FontForge 2.0 : Numans : 12-8-2011",
+        "vendor_url": "http://www.jovanny.ru/",
+        "version": "Version 001.001"
+    },
+    "source_url": "",
+    "title": "Numans",
+    "vendor_url": "http://www.jovanny.ru/",
+    "version": "Version 001.001"
+}

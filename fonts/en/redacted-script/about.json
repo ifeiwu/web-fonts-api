@@ -1,0 +1,51 @@
+{
+    "copyright": "Copyright 2013 The Redacted Project Authors (https://github.com/christiannaths/redacted-font)",
+    "description": "",
+    "designer": "Christian Naths",
+    "designer_url": "https://christiannaths.com",
+    "family": "Redacted Script",
+    "file_list": [
+        {
+            "file_name": "RedactedScript-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "RedactedScript-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "RedactedScript-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/redacted-script",
+    "id": "redacted-script",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2013 The Redacted Project Authors (https://github.com/christiannaths/redacted-font)",
+        "designer": "Christian Naths",
+        "designer_url": "https://christiannaths.com",
+        "family_name": "Redacted Script",
+        "full_name": "Redacted Script Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Christian Naths",
+        "postscript_name": "RedactedScript-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "1.001;NONE;RedactedScript-Bold",
+        "vendor_url": "https://github.com/christiannaths/Redacted-Font",
+        "version": "Version 1.001; ttfautohint (v1.8.3)"
+    },
+    "source_url": "",
+    "title": "Redacted Script",
+    "vendor_url": "https://github.com/christiannaths/Redacted-Font",
+    "version": "Version 1.001; ttfautohint (v1.8.3)"
+}

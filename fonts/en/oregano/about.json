@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Oregano\"",
+    "description": "",
+    "designer": "Astigmatic (AOETI)",
+    "designer_url": "http://www.astigmatic.com/",
+    "family": "Oregano",
+    "file_list": [
+        {
+            "file_name": "Oregano-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/oregano",
+    "id": "oregano",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Oregano\"",
+        "designer": "Astigmatic (AOETI)",
+        "designer_url": "http://www.astigmatic.com/",
+        "family_name": "Oregano",
+        "full_name": "Oregano",
+        "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Astigmatic (AOETI)",
+        "postscript_name": "Oregano-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Oregano is a trademark of Astigmatic.",
+        "unique_identifier": "Astigmatic(AOETI): Oregano: 2012",
+        "vendor_url": "http://www.astigmatic.com/",
+        "version": "Version 1.000"
+    },
+    "source_url": "",
+    "title": "Oregano",
+    "vendor_url": "http://www.astigmatic.com/",
+    "version": "Version 1.000"
+}

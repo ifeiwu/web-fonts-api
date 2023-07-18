@@ -1,0 +1,38 @@
+{
+    "copyright": "Copyright (c) 2011, Johan Kallas (johankallas@gmail.com), Copyright (c) 2011, Mihkel Virkus (mihkelvirkus@gmail.com), with Reserved Font Name Revalia.",
+    "description": "",
+    "designer": "Johan Kallas, Mihkel Virkus",
+    "designer_url": "",
+    "family": "Revalia",
+    "file_list": [
+        {
+            "file_name": "Revalia-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/revalia",
+    "id": "revalia",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, Johan Kallas (johankallas@gmail.com), Copyright (c) 2011, Mihkel Virkus (mihkelvirkus@gmail.com), with Reserved Font Name Revalia.",
+        "designer": "Johan Kallas, Mihkel Virkus",
+        "family_name": "Revalia",
+        "full_name": "Revalia-Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Johan Kallas, Mihkel Virkus",
+        "postscript_name": "Revalia-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Revalia is a trademark of Johan Kallas, Mihkel Virkus.",
+        "unique_identifier": "JohanKallas,MihkelVirkus: Revalia: 2011",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Revalia",
+    "vendor_url": "",
+    "version": "Version 1.001"
+}

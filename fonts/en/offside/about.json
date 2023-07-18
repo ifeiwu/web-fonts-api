@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright 2012 The Offside Project Authors (https://github.com/etunni/offside) with Reserved Font Name 'Offside'",
+    "description": "",
+    "designer": "Eduardo Rodriguez Tunni",
+    "designer_url": "http://www.tipo.net.ar",
+    "family": "Offside",
+    "file_list": [
+        {
+            "file_name": "Offside-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/offside",
+    "id": "offside",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2012 The Offside Project Authors (https://github.com/etunni/offside) with Reserved Font Name 'Offside'",
+        "designer": "Eduardo Rodriguez Tunni",
+        "designer_url": "http://www.tipo.net.ar",
+        "family_name": "Offside",
+        "full_name": "Offside Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Eduardo Rodriguez Tunni",
+        "postscript_name": "Offside-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Offside is a trademark of Eduardo Rodriguez Tunni.",
+        "unique_identifier": "1.002;TIPO;Offside-Regular",
+        "vendor_url": "http://www.tipo.net.ar",
+        "version": "Version 1.002; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.23]"
+    },
+    "source_url": "",
+    "title": "Offside",
+    "vendor_url": "http://www.tipo.net.ar",
+    "version": "Version 1.002; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.23]"
+}

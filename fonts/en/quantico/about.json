@@ -1,0 +1,46 @@
+{
+    "copyright": "Copyright (c) 2011 Matthew Desmond (http://www.madtype.com | mattdesmond@gmail.com), with Reserved Font Name \"Quantico\"",
+    "description": "",
+    "designer": "Matt Desmond",
+    "designer_url": "http://www.madtype.com",
+    "family": "Quantico",
+    "file_list": [
+        {
+            "file_name": "Quantico-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Quantico-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/quantico",
+    "id": "quantico",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 Matthew Desmond (http://www.madtype.com | mattdesmond@gmail.com), with Reserved Font Name \"Quantico\"",
+        "designer": "Matt Desmond",
+        "designer_url": "http://www.madtype.com",
+        "family_name": "Quantico",
+        "full_name": "Quantico-Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "MADtype",
+        "postscript_name": "Quantico-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Quantico is a trademark of Matt Desmond.",
+        "unique_identifier": "MADtype: Quantico Bold: 2011",
+        "vendor_url": "http://www.madtype.com",
+        "version": "Version 2.002"
+    },
+    "source_url": "",
+    "title": "Quantico",
+    "vendor_url": "http://www.madtype.com",
+    "version": "Version 2.002"
+}

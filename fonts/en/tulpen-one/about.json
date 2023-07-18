@@ -1,0 +1,38 @@
+{
+    "copyright": "Copyright (c) 2011, Naima Ben Ayed, with Reserved Font Names \"Tulpen\" and \"Tulpen One\".",
+    "description": "",
+    "designer": "Naima Ben Ayed",
+    "designer_url": "",
+    "family": "Tulpen One",
+    "file_list": [
+        {
+            "file_name": "TulpenOne-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/tulpen-one",
+    "id": "tulpen-one",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, Naima Ben Ayed, with Reserved Font Names \"Tulpen\" and \"Tulpen One\".",
+        "designer": "Naima Ben Ayed",
+        "family_name": "Tulpen One",
+        "full_name": "Tulpen One",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Naima Ben Ayed, Anton Koovit",
+        "postscript_name": "TulpenOne-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Tulpen is a trademark of Naima Ben Ayed.",
+        "unique_identifier": "1.002;KORK;Tulpen;29.07.2011",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Tulpen One",
+    "vendor_url": "",
+    "version": "Version 1.002"
+}

@@ -1,0 +1,41 @@
+{
+    "copyright": "Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com), Brenda Gallo. (gbrenda1987@gmail.com), with Reserved Font Name Ranchers.",
+    "description": "Ranchers is one of the many hand-lettering artist \"Relaxed interpretations\" of sans serif typefaces typical of 1950.\rIt's great for big posters and fun headlines. Use it bigger than 40px for maximum effect.",
+    "designer": "Pablo Impallari, Brenda Gallo",
+    "designer_url": "www.impallari.com",
+    "family": "Ranchers",
+    "file_list": [
+        {
+            "file_name": "Ranchers-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/ranchers",
+    "id": "ranchers",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com), Brenda Gallo. (gbrenda1987@gmail.com), with Reserved Font Name Ranchers.",
+        "description": "Ranchers is one of the many hand-lettering artist \"Relaxed interpretations\" of sans serif typefaces typical of 1950.\rIt's great for big posters and fun headlines. Use it bigger than 40px for maximum effect.",
+        "designer": "Pablo Impallari, Brenda Gallo",
+        "designer_url": "www.impallari.com",
+        "family_name": "Ranchers",
+        "full_name": "Ranchers",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Pablo Impallari, Brenda Gallo",
+        "postscript_name": "Ranchers-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Ranchers is a trademark of Pablo Impallari.",
+        "unique_identifier": "PabloImpallari,BrendaGallo: Ranchers: 2012",
+        "vendor_url": "www.impallari.com",
+        "version": "Version 1.000; ttfautohint (v0.8) -G 200 -r 50"
+    },
+    "source_url": "",
+    "title": "Ranchers",
+    "vendor_url": "www.impallari.com",
+    "version": "Version 1.000; ttfautohint (v0.8) -G 200 -r 50"
+}

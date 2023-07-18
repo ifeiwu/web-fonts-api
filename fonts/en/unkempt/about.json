@@ -1,0 +1,46 @@
+{
+    "copyright": "Copyright (c) 2011 by Font Diner, Inc DBA Sideshow (diner@fontdiner.com) with Reseved Font Name \"Unkempt Bold\"",
+    "description": "",
+    "designer": "Squid",
+    "designer_url": "http://www.squidart.com",
+    "family": "Unkempt",
+    "file_list": [
+        {
+            "file_name": "Unkempt-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Unkempt-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/unkempt",
+    "id": "unkempt",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 by Font Diner, Inc DBA Sideshow (diner@fontdiner.com) with Reseved Font Name \"Unkempt Bold\"",
+        "designer": "Squid",
+        "designer_url": "http://www.squidart.com",
+        "family_name": "Unkempt",
+        "full_name": "Unkempt Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Font Diner, Inc DBA Sideshow",
+        "postscript_name": "Unkempt-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Unkempt Bold is a trademark of Font Diner, Inc DBA Sideshow.",
+        "unique_identifier": "1.002;DINR;Unkempt-Bold",
+        "vendor_url": "http://www.fontbros.com/sideshow.php",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Unkempt",
+    "vendor_url": "http://www.fontbros.com/sideshow.php",
+    "version": "Version 1.002"
+}

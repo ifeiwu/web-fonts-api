@@ -1,0 +1,72 @@
+{
+    "copyright": "Copyright 2018 The Orbitron Project Authors (https://github.com/theleagueof/orbitron), with Reserved Font Name: \"Orbitron\".",
+    "description": "",
+    "designer": "Matt McInerney",
+    "designer_url": "http://matt.cc/",
+    "family": "Orbitron Black",
+    "file_list": [
+        {
+            "file_name": "Orbitron-Black.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Black",
+            "font_weight_value": "900"
+        },
+        {
+            "file_name": "Orbitron-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Orbitron-ExtraBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraBold",
+            "font_weight_value": "800"
+        },
+        {
+            "file_name": "Orbitron-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "Orbitron-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "Orbitron-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "SemiBold",
+            "font_weight_value": "600"
+        }
+    ],
+    "file_path": "fonts/en/orbitron",
+    "id": "orbitron-black",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2018 The Orbitron Project Authors (https://github.com/theleagueof/orbitron), with Reserved Font Name: \"Orbitron\".",
+        "designer": "Matt McInerney",
+        "designer_url": "http://matt.cc/",
+        "family_name": "Orbitron Black",
+        "full_name": "Orbitron Black",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "The League of Moveable Type",
+        "postscript_name": "Orbitron-Black",
+        "subfamily_name": "Regular",
+        "typographic_family_name": "Orbitron",
+        "typographic_subfamily_name": "Black",
+        "unique_identifier": "2.001;NONE;Orbitron-Black",
+        "variations_postscript_name_prefix": "Orbitron",
+        "vendor_url": "https://www.theleagueofmoveabletype.com/",
+        "version": "Version 2.001"
+    },
+    "source_url": "",
+    "title": "Orbitron Black",
+    "vendor_url": "https://www.theleagueofmoveabletype.com/",
+    "version": "Version 2.001"
+}

@@ -1,0 +1,76 @@
+{
+    "copyright": "Copyright 2020 The Josefin Slab Project Authors (https://github.com/googlefonts/josefinslab/), with Reserved Font Name Josefin.",
+    "description": "",
+    "designer": "Santiago Orozco",
+    "designer_url": "www.typemade.mx",
+    "family": "Josefin Slab",
+    "file_list": [
+        {
+            "file_name": "JosefinSlab-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "JosefinSlab-ExtraLight.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraLight",
+            "font_weight_value": "200"
+        },
+        {
+            "file_name": "JosefinSlab-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "JosefinSlab-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "JosefinSlab-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "JosefinSlab-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "SemiBold",
+            "font_weight_value": "600"
+        },
+        {
+            "file_name": "JosefinSlab-Thin.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Thin",
+            "font_weight_value": "100"
+        }
+    ],
+    "file_path": "fonts/en/josefin-slab",
+    "id": "josefin-slab",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2020 The Josefin Slab Project Authors (https://github.com/googlefonts/josefinslab/), with Reserved Font Name Josefin.",
+        "designer": "Santiago Orozco",
+        "designer_url": "www.typemade.mx",
+        "family_name": "Josefin Slab",
+        "full_name": "Josefin Slab Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Typemade",
+        "postscript_name": "JosefinSlab-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Josefin Slab is a trademark of Typemade.",
+        "unique_identifier": "2.000;GOOG;JosefinSlab-Bold",
+        "variations_postscript_name_prefix": "JosefinSlabRoman",
+        "version": "Version 2.000"
+    },
+    "source_url": "",
+    "title": "Josefin Slab",
+    "vendor_url": "",
+    "version": "Version 2.000"
+}

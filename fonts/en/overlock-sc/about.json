@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2011, Dario Manuel Muhafara (http://www.tipo.net.ar), with Reserved Font Name \"Overlock\".",
+    "description": "",
+    "designer": "Dario Muhafara",
+    "designer_url": "www.tipo.net.ar",
+    "family": "Overlock SC",
+    "file_list": [
+        {
+            "file_name": "OverlockSC-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/overlock-sc",
+    "id": "overlock-sc",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, Dario Manuel Muhafara (http://www.tipo.net.ar), with Reserved Font Name \"Overlock\".",
+        "designer": "Dario Muhafara",
+        "designer_url": "www.tipo.net.ar",
+        "family_name": "Overlock SC",
+        "full_name": "Overlock SC",
+        "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Dario Manuel Muhafara",
+        "postscript_name": "OverlockSC-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Overlock is a trademark of Dario Manuel Muhafara.",
+        "unique_identifier": "DarioManuelMuhafara: Overlock SC: 2011",
+        "vendor_url": "www.tipo.net.ar",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Overlock SC",
+    "vendor_url": "www.tipo.net.ar",
+    "version": "Version 1.001"
+}

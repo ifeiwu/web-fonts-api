@@ -1,0 +1,66 @@
+{
+    "copyright": "Copyright 2021 The Red Hat Project Authors (https://github.com/RedHatOfficial/RedHatFont)",
+    "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "designer": "Pentagram, MCKL",
+    "designer_url": "https://pentagram.com/",
+    "family": "Red Hat Text",
+    "file_list": [
+        {
+            "file_name": "RedHatText-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "RedHatText-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "RedHatText-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "RedHatText-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "RedHatText-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "SemiBold",
+            "font_weight_value": "600"
+        }
+    ],
+    "file_path": "fonts/en/red-hat-text",
+    "id": "red-hat-text",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2021 The Red Hat Project Authors (https://github.com/RedHatOfficial/RedHatFont)",
+        "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "designer": "Pentagram, MCKL",
+        "designer_url": "https://pentagram.com/",
+        "family_name": "Red Hat Text",
+        "full_name": "Red Hat Text Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Pentagram, MCKL",
+        "postscript_name": "RedHatText-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Copyright 2021 The Red Hat Project Authors (https://github.com/RedHatOfficial/RedHatFont)",
+        "unique_identifier": "1.023;MCKL;RedHatText-Bold",
+        "variations_postscript_name_prefix": "RedHatTextRoman",
+        "vendor_url": "https://www.mckltype.com",
+        "version": "Version 1.023"
+    },
+    "source_url": "",
+    "title": "Red Hat Text",
+    "vendor_url": "https://www.mckltype.com",
+    "version": "Version 1.023"
+}

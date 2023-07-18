@@ -1,0 +1,44 @@
+{
+    "copyright": "Copyright (c) 2011-2012, Julieta Ulanovsky (julieta.ulanovsky@gmail.com), with Reserved Font Names 'Montserrat'",
+    "description": "",
+    "designer": "Julieta Ulanovsky",
+    "designer_url": "",
+    "family": "Montserrat Subrayada",
+    "file_list": [
+        {
+            "file_name": "MontserratSubrayada-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "MontserratSubrayada-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/montserrat-subrayada",
+    "id": "montserrat-subrayada",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011-2012, Julieta Ulanovsky (julieta.ulanovsky@gmail.com), with Reserved Font Names 'Montserrat'",
+        "designer": "Julieta Ulanovsky",
+        "family_name": "Montserrat Subrayada",
+        "full_name": "MontserratSubrayada-Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Julieta Ulanovsky",
+        "postscript_name": "MontserratSubrayada-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Montserrat is a trademark of Julieta Ulanovsky.",
+        "unique_identifier": "JulietaUlanovsky: Montserrat: 2010",
+        "version": "Version 2.001"
+    },
+    "source_url": "",
+    "title": "Montserrat Subrayada",
+    "vendor_url": "",
+    "version": "Version 2.001"
+}

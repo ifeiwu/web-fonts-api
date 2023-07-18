@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2011 Typesenses (typesenses@live.com.ar), with Reserved Font Name \"Rouge Script\"",
+    "description": "",
+    "designer": "Sabrina Mariela Lopez",
+    "designer_url": "www.typesenses.com",
+    "family": "Rouge Script",
+    "file_list": [
+        {
+            "file_name": "RougeScript-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/rouge-script",
+    "id": "rouge-script",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 Typesenses (typesenses@live.com.ar), with Reserved Font Name \"Rouge Script\"",
+        "designer": "Sabrina Mariela Lopez",
+        "designer_url": "www.typesenses.com",
+        "family_name": "Rouge Script",
+        "full_name": "Rouge Script",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Typesenses",
+        "postscript_name": "RougeScript-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Rouge Script is a trademark of Typesenses",
+        "unique_identifier": "Typesenses: Rouge Script: 2011",
+        "vendor_url": "www.typesenses.com",
+        "version": "Version 1.003"
+    },
+    "source_url": "",
+    "title": "Rouge Script",
+    "vendor_url": "www.typesenses.com",
+    "version": "Version 1.003"
+}

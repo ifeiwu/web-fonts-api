@@ -1,0 +1,38 @@
+{
+    "copyright": "Copyright 2011 The Julee Project Authors (https://github.com/etunni/julee) with Reserved Font Name is \"Julee\"",
+    "description": "",
+    "designer": "Julian Tunni",
+    "designer_url": "",
+    "family": "Julee",
+    "file_list": [
+        {
+            "file_name": "Julee-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/julee",
+    "id": "julee",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2011 The Julee Project Authors (https://github.com/etunni/julee) with Reserved Font Name is \"Julee\"",
+        "designer": "Julian Tunni",
+        "family_name": "Julee",
+        "full_name": "Julee Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Julian Tunni",
+        "postscript_name": "Julee-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Julee is a trademark of Julian Tunni.",
+        "unique_identifier": "1.002;TIPO;Julee-Regular",
+        "version": "Version 1.002; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.23]"
+    },
+    "source_url": "",
+    "title": "Julee",
+    "vendor_url": "",
+    "version": "Version 1.002; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.23]"
+}

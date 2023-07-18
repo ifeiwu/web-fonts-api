@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2011 by LatinoType Limitada (luciano@latinotype.com), with Reserved Font Names \"Sail\"",
+    "description": "",
+    "designer": "Miguel Hernandez",
+    "designer_url": "www.latinotype.com",
+    "family": "Sail",
+    "file_list": [
+        {
+            "file_name": "Sail-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/sail",
+    "id": "sail",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 by LatinoType Limitada (luciano@latinotype.com), with Reserved Font Names \"Sail\"",
+        "designer": "Miguel Hernandez",
+        "designer_url": "www.latinotype.com",
+        "family_name": "Sail",
+        "full_name": "Sail",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Miguel Hernandez",
+        "postscript_name": "Sail-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Sail is a trademark of LatinoType Limitada.",
+        "unique_identifier": "MiguelHernandez: Sail: 2011",
+        "vendor_url": "www.latinotype.com",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Sail",
+    "vendor_url": "www.latinotype.com",
+    "version": "Version 1.002"
+}

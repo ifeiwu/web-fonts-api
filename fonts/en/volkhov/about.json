@@ -1,0 +1,47 @@
+{
+    "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Volkhov\" and \"Volkhov Bold\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+    "description": "Volkhov is designed by Ivan Petrov for Cyreal.\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1. ",
+    "designer": "Cyreal (www.cyreal.org)",
+    "designer_url": "http://cyreal.org",
+    "family": "Volkhov",
+    "file_list": [
+        {
+            "file_name": "Volkhov-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Volkhov-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/volkhov",
+    "id": "volkhov",
+    "language": "en",
+    "license_description": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Volkhov\" and \"Volkhov Bold\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Volkhov\" and \"Volkhov Bold\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+        "description": "Volkhov is designed by Ivan Petrov for Cyreal.\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1. ",
+        "designer": "Cyreal (www.cyreal.org)",
+        "designer_url": "http://cyreal.org",
+        "family_name": "Volkhov",
+        "full_name": "Volkhov Bold",
+        "license_description": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Volkhov\" and \"Volkhov Bold\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Cyreal (www.cyreal.org)",
+        "postscript_name": "Volkhov-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Volkhov is a trademark of Cyreal (www.cyreal.org).",
+        "unique_identifier": "Cyreal(www.cyreal.org): Volkhov Bold: 2011",
+        "vendor_url": "http://cyreal.org",
+        "version": "Version 1.010"
+    },
+    "source_url": "",
+    "title": "Volkhov",
+    "vendor_url": "http://cyreal.org",
+    "version": "Version 1.010"
+}

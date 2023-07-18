@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2011 by Font Diner, Inc DBA Sideshow (diner@fontdiner.com) with Reseved Font Name \"Trade Winds\"",
+    "description": "",
+    "designer": "Squid",
+    "designer_url": "http://www.squidart.com",
+    "family": "Trade Winds",
+    "file_list": [
+        {
+            "file_name": "TradeWinds-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/trade-winds",
+    "id": "trade-winds",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 by Font Diner, Inc DBA Sideshow (diner@fontdiner.com) with Reseved Font Name \"Trade Winds\"",
+        "designer": "Squid",
+        "designer_url": "http://www.squidart.com",
+        "family_name": "Trade Winds",
+        "full_name": "Trade Winds",
+        "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Font Diner, Inc DBA Sideshow",
+        "postscript_name": "TradeWinds",
+        "subfamily_name": "Regular",
+        "trademark": "Trade Winds is a trademark of Font Diner, Inc DBA Sideshow.",
+        "unique_identifier": "FontDiner,IncDBASideshow: Trade Winds: 2011",
+        "vendor_url": "http://www.fontbros.com/sideshow.php",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Trade Winds",
+    "vendor_url": "http://www.fontbros.com/sideshow.php",
+    "version": "Version 1.001"
+}

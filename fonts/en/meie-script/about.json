@@ -1,0 +1,35 @@
+{
+    "copyright": "Copyright (c) 2011, 2012 Johan Kallas (johankallas@gmail.com), Mihkel Virkus (mihkelvirkus@gmail.com), with Reserved Font Name 'Meie Script'",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "Meie Script",
+    "file_list": [
+        {
+            "file_name": "MeieScript-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/meie-script",
+    "id": "meie-script",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, 2012 Johan Kallas (johankallas@gmail.com), Mihkel Virkus (mihkelvirkus@gmail.com), with Reserved Font Name 'Meie Script'",
+        "family_name": "Meie Script",
+        "full_name": "Meie Script",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "postscript_name": "MeieScript-Regular",
+        "subfamily_name": "Regular",
+        "unique_identifier": "1.001;pyrs;MeieScript",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Meie Script",
+    "vendor_url": "",
+    "version": "Version 1.001"
+}

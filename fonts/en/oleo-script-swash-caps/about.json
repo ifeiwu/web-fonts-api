@@ -1,0 +1,46 @@
+{
+    "copyright": "Copyright (c) 2012, Soytutype (contact@soytutype.com.ar|soytutype@gmail.com), with reserved fontname 'Oleo'",
+    "description": "",
+    "designer": "Soytutype",
+    "designer_url": "www.soytutype.com.ar",
+    "family": "Oleo Script Swash Caps",
+    "file_list": [
+        {
+            "file_name": "OleoScriptSwashCaps-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "OleoScriptSwashCaps-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/oleo-script-swash-caps",
+    "id": "oleo-script-swash-caps",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL.",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2012, Soytutype (contact@soytutype.com.ar|soytutype@gmail.com), with reserved fontname 'Oleo'",
+        "designer": "Soytutype",
+        "designer_url": "www.soytutype.com.ar",
+        "family_name": "Oleo Script Swash Caps",
+        "full_name": "Oleo Script Swash Caps Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL.",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Soytutype",
+        "postscript_name": "OleoScriptSwashCaps-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Oleo Script is a trademark of Soytutype.",
+        "unique_identifier": "Soytutype: Oleo Script Swash Caps Bold: 2012",
+        "vendor_url": "www.soytutype.com.ar",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Oleo Script Swash Caps",
+    "vendor_url": "www.soytutype.com.ar",
+    "version": "Version 1.002"
+}

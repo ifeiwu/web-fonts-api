@@ -1,0 +1,39 @@
+{
+    "copyright": "Copyright (c) 2011, Brownfox (gayaneh.b@gmail.com), with Reserved Font Names \"Sevillana\"",
+    "description": "",
+    "designer": "Olga Umpeleva",
+    "designer_url": "",
+    "family": "Sevillana",
+    "file_list": [
+        {
+            "file_name": "Sevillana-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/sevillana",
+    "id": "sevillana",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, Brownfox (gayaneh.b@gmail.com), with Reserved Font Names \"Sevillana\"",
+        "designer": "Olga Umpeleva",
+        "family_name": "Sevillana",
+        "full_name": "Sevillana",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Brownfox",
+        "postscript_name": "Sevillana-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Sevillana is a trademark of Brownfox",
+        "unique_identifier": "Brownfox: Sevillana: 2012",
+        "vendor_url": "http://www.brownfox.org",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Sevillana",
+    "vendor_url": "http://www.brownfox.org",
+    "version": "Version 1.001"
+}

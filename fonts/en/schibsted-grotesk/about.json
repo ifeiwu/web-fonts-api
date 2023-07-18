@@ -1,0 +1,72 @@
+{
+    "copyright": "Copyright 2023 The Schibsted-Grotesk Project Authors (https://github.com/schibsted/schibsted-grotesk)",
+    "description": "",
+    "designer": "Bakken & Baeck AS, Henrik Kongsvoll",
+    "designer_url": "https://bakkenbaeck.com",
+    "family": "Schibsted Grotesk Black",
+    "file_list": [
+        {
+            "file_name": "SchibstedGrotesk-Black.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Black",
+            "font_weight_value": "900"
+        },
+        {
+            "file_name": "SchibstedGrotesk-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "SchibstedGrotesk-ExtraBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraBold",
+            "font_weight_value": "800"
+        },
+        {
+            "file_name": "SchibstedGrotesk-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "SchibstedGrotesk-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "SchibstedGrotesk-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "SemiBold",
+            "font_weight_value": "600"
+        }
+    ],
+    "file_path": "fonts/en/schibsted-grotesk",
+    "id": "schibsted-grotesk-black",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2023 The Schibsted-Grotesk Project Authors (https://github.com/schibsted/schibsted-grotesk)",
+        "designer": "Bakken & Baeck AS, Henrik Kongsvoll",
+        "designer_url": "https://bakkenbaeck.com",
+        "family_name": "Schibsted Grotesk Black",
+        "full_name": "Schibsted Grotesk Black",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Schibsted ASA",
+        "postscript_name": "SchibstedGrotesk-Black",
+        "subfamily_name": "Regular",
+        "typographic_family_name": "Schibsted Grotesk",
+        "typographic_subfamily_name": "Black",
+        "unique_identifier": "1.100;BBT;SchibstedGrotesk-Black",
+        "variations_postscript_name_prefix": "SchibstedGrotesk",
+        "vendor_url": "https://schibsted.com",
+        "version": "Version 1.100;gftools[0.9.25]"
+    },
+    "source_url": "",
+    "title": "Schibsted Grotesk Black",
+    "vendor_url": "https://schibsted.com",
+    "version": "Version 1.100;gftools[0.9.25]"
+}

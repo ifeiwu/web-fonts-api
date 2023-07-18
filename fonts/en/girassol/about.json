@@ -1,0 +1,37 @@
+{
+    "copyright": "Copyright 2019 The Girassol Project Authors (https://github.com/liamspradlin/Girassol-Display)",
+    "description": "",
+    "designer": "Liam Spradlin",
+    "designer_url": "iamli.am",
+    "family": "Girassol",
+    "file_list": [
+        {
+            "file_name": "Girassol-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/girassol",
+    "id": "girassol",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2019 The Girassol Project Authors (https://github.com/liamspradlin/Girassol-Display)",
+        "designer": "Liam Spradlin",
+        "designer_url": "iamli.am",
+        "family_name": "Girassol",
+        "full_name": "Girassol Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "postscript_name": "Girassol-Regular",
+        "subfamily_name": "Regular",
+        "unique_identifier": "1.004;LIAM;Girassol-Regular",
+        "version": "Version 1.004"
+    },
+    "source_url": "",
+    "title": "Girassol",
+    "vendor_url": "",
+    "version": "Version 1.004"
+}

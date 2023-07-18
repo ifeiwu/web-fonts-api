@@ -1,0 +1,42 @@
+{
+    "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Plaster\"",
+    "description": "Plaster is a very low contrast extremely geometric design done in the tradition of the work of Joseph Albers. Many of the solutions to the glyph design vary from Alber's choices. Plaster is suitable for use in medium to large sizes including headlines.",
+    "designer": "Eben Sorkin",
+    "designer_url": "www.sorkintype.com",
+    "family": "Plaster",
+    "file_list": [
+        {
+            "file_name": "Plaster-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/plaster",
+    "id": "plaster",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "compatible_full": "Plaster",
+        "copyright_notice": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Plaster\"",
+        "description": "Plaster is a very low contrast extremely geometric design done in the tradition of the work of Joseph Albers. Many of the solutions to the glyph design vary from Alber's choices. Plaster is suitable for use in medium to large sizes including headlines.",
+        "designer": "Eben Sorkin",
+        "designer_url": "www.sorkintype.com",
+        "family_name": "Plaster",
+        "full_name": "Plaster",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Eben Sorkin",
+        "postscript_name": "Plaster-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Plaster is a trademark of Sorkin Type Co.",
+        "unique_identifier": "EbenSorkin: Plaster Regular: 2011",
+        "vendor_url": "www.sorkintype.com",
+        "version": "Version 1.007"
+    },
+    "source_url": "",
+    "title": "Plaster",
+    "vendor_url": "www.sorkintype.com",
+    "version": "Version 1.007"
+}

@@ -1,0 +1,50 @@
+{
+    "copyright": "Copyright 2015 The Sen Project Authors (https://github.com/philatype/Sen)",
+    "description": "",
+    "designer": "Kosal Sen, Philatype",
+    "designer_url": "http://www.philatype.com",
+    "family": "Sen",
+    "file_list": [
+        {
+            "file_name": "Sen-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Sen-ExtraBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraBold",
+            "font_weight_value": "800"
+        },
+        {
+            "file_name": "Sen-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/sen",
+    "id": "sen",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2015 The Sen Project Authors (https://github.com/philatype/Sen)",
+        "designer": "Kosal Sen, Philatype",
+        "designer_url": "http://www.philatype.com",
+        "family_name": "Sen",
+        "full_name": "Sen Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Philatype",
+        "postscript_name": "Sen-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "1.004;NONE;Sen-Bold",
+        "version": "Version 1.004; ttfautohint (v1.8.3)"
+    },
+    "source_url": "",
+    "title": "Sen",
+    "vendor_url": "",
+    "version": "Version 1.004; ttfautohint (v1.8.3)"
+}

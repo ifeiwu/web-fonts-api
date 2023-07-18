@@ -1,0 +1,65 @@
+{
+    "copyright": "Copyright 2012 The Pontano Sans Project Authors (https://github.com/googlefonts/PontanoSans) with Reserved Font Names \"Pontano\"",
+    "description": "",
+    "designer": "Vernon Adams",
+    "designer_url": "http://www.sansoxygen.com",
+    "family": "Pontano Sans",
+    "file_list": [
+        {
+            "file_name": "PontanoSans-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "PontanoSans-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "PontanoSans-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "PontanoSans-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "PontanoSans-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "SemiBold",
+            "font_weight_value": "600"
+        }
+    ],
+    "file_path": "fonts/en/pontano-sans",
+    "id": "pontano-sans",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2012 The Pontano Sans Project Authors (https://github.com/googlefonts/PontanoSans) with Reserved Font Names \"Pontano\"",
+        "designer": "Vernon Adams",
+        "designer_url": "http://www.sansoxygen.com",
+        "family_name": "Pontano Sans",
+        "full_name": "Pontano Sans Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Vernon Adams",
+        "postscript_name": "PontanoSans-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Pontano Sans is a trademark of Vernon Adams and may be registered in certain jurisdictions.",
+        "unique_identifier": "2.000;NeWT;PontanoSans-Bold",
+        "variations_postscript_name_prefix": "PontanoSans",
+        "vendor_url": "http://www.sansoxygen.com",
+        "version": "Version 2.000;gftools[0.9.23]"
+    },
+    "source_url": "",
+    "title": "Pontano Sans",
+    "vendor_url": "http://www.sansoxygen.com",
+    "version": "Version 2.000;gftools[0.9.23]"
+}

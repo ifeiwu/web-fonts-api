@@ -1,0 +1,38 @@
+{
+    "copyright": "Copyright (c) 2012, Alejandro Inler (alejandroinler@gmail.com), with Reserved Font Name 'Wendy'",
+    "description": "",
+    "designer": "Alejandro Inler",
+    "designer_url": "",
+    "family": "Wendy One",
+    "file_list": [
+        {
+            "file_name": "WendyOne-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/wendy-one",
+    "id": "wendy-one",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2012, Alejandro Inler (alejandroinler@gmail.com), with Reserved Font Name 'Wendy'",
+        "designer": "Alejandro Inler",
+        "family_name": "Wendy One",
+        "full_name": "Wendy One",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Alejandro Inler",
+        "postscript_name": "WendyOne-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Wendy is a trademark of Alejandro Inler.",
+        "unique_identifier": "AlejandroInler: Wendy One: 2012",
+        "version": "1.001"
+    },
+    "source_url": "",
+    "title": "Wendy One",
+    "vendor_url": "",
+    "version": "1.001"
+}

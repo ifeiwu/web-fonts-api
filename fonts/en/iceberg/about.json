@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org), with Reserved Font Name \"Iceberg\".",
+    "description": "",
+    "designer": "Victor Kharyk",
+    "designer_url": "cyreal.org",
+    "family": "Iceberg",
+    "file_list": [
+        {
+            "file_name": "Iceberg-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/iceberg",
+    "id": "iceberg",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, Cyreal (www.cyreal.org), with Reserved Font Name \"Iceberg\".",
+        "designer": "Victor Kharyk",
+        "designer_url": "cyreal.org",
+        "family_name": "Iceberg",
+        "full_name": "Iceberg",
+        "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Cyreal (www.cyreal.org)",
+        "postscript_name": "Iceberg-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Iceberg is a trademark of Cyreal (www.cyreal.org).",
+        "unique_identifier": "Cyreal(www.cyreal.org): Iceberg: 2011",
+        "vendor_url": "cyreal.org",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Iceberg",
+    "vendor_url": "cyreal.org",
+    "version": "Version 1.002"
+}
