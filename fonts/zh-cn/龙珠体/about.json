@@ -1,0 +1,37 @@
+{
+    "copyright": "版权 2022-2023 龙珠体补字计划作者。版权 2020 RocknRoll计划作者 (https://github.com/fontworks-fonts/RocknRoll)。",
+    "description": "",
+    "designer": "Fontworks公司、龙珠体补字小组: ZERO子、时光羊、荆南、频凡、刘鹏、Little White Dog、奈白不弍、帆影Magmeta、白日月球、ChaoTawei、雨三（排名不分先后）",
+    "designer_url": "",
+    "family": "LogoSCLongZhu",
+    "file_list": [
+        {
+            "file_name": "LogoSCLongZhu-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/龙珠体",
+    "id": "logosclongzhu",
+    "language": "zh-cn",
+    "license_description": "本字型软件以 SIL 开源字型授权（SIL OFL）1.1 版授权。本授权全文及常见问题解答（FAQ）可在 http://scripts.sil.org/OFL 查阅。",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "版权 2022-2023 龙珠体补字计划作者。版权 2020 RocknRoll计划作者 (https://github.com/fontworks-fonts/RocknRoll)。",
+        "designer": "Fontworks公司、龙珠体补字小组: ZERO子、时光羊、荆南、频凡、刘鹏、Little White Dog、奈白不弍、帆影Magmeta、白日月球、ChaoTawei、雨三（排名不分先后）",
+        "family_name": "龙珠体",
+        "full_name": "龙珠体 Regular",
+        "license_description": "本字型软件以 SIL 开源字型授权（SIL OFL）1.1 版授权。本授权全文及常见问题解答（FAQ）可在 http://scripts.sil.org/OFL 查阅。",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "postscript_name": "LogoSCLongZhuTi-Regular",
+        "sample_text": "这个世界没有龙珠，但我可以用字体召唤神龙",
+        "subfamily_name": "Regular",
+        "unique_identifier": "龙珠体:Version 1.000",
+        "version": "版本 1.000; 20230201"
+    },
+    "source_url": "https://www.maoken.com/dragonball",
+    "title": "龙珠体",
+    "vendor_url": "",
+    "version": "版本 1.000; 20230201"
+}

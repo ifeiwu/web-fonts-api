@@ -1,0 +1,45 @@
+{
+    "copyright": "",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "FengKai",
+    "file_list": [
+        {
+            "file_name": "Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": 700
+        },
+        {
+            "file_name": "Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": 300
+        },
+        {
+            "file_name": "Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/风楷",
+    "id": "fengkai",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "family_name": "風楷",
+        "full_name": "FengKai Bold",
+        "license_description": "",
+        "postscript_name": "FengKai-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "FengKai Bold:Version 1.00",
+        "version": "Version 1.00;October 28, 2021;FontCreator 13.0.0.2613 64-bit"
+    },
+    "source_url": "https://www.maoken.com/freefonts/13664.html",
+    "title": "風楷",
+    "vendor_url": "",
+    "version": "Version 1.00;October 28, 2021;FontCreator 13.0.0.2613 64-bit"
+}

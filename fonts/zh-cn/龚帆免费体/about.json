@@ -1,0 +1,36 @@
+{
+    "copyright": "Created by GongFan.",
+    "description": "",
+    "designer": "GongFan",
+    "designer_url": "",
+    "family": "GongFanMianFei",
+    "file_list": [
+        {
+            "file_name": "GongFanMianFei.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/龚帆免费体",
+    "id": "gongfanmianfei",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "Created by GongFan.",
+        "designer": "GongFan",
+        "family_name": "龚帆免费体",
+        "full_name": "GongFanMianFeiTi",
+        "postscript_name": "GongFanMianFeiTi",
+        "subfamily_name": "Regular",
+        "trademark": "GongFan",
+        "typographic_family_name": "龚帆免费体",
+        "unique_identifier": "龚帆免费体",
+        "version": "Version 2.00 March 9, 2022"
+    },
+    "source_url": "",
+    "title": "龚帆免费体",
+    "vendor_url": "",
+    "version": "Version 2.00 March 9, 2022"
+}

@@ -1,0 +1,35 @@
+{
+    "copyright": "Copyright © 2020 by 林鸿雷. All rights reserved.",
+    "description": "",
+    "designer": "林鸿雷",
+    "designer_url": "https://hongl.zcool.com.cn/",
+    "family": "HongleiBanshu",
+    "file_list": [
+        {
+            "file_name": "HongleiBanshu.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/鸿雷板书简体",
+    "id": "hongleibanshu",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "Copyright © 2020 by 林鸿雷. All rights reserved.",
+        "designer": "林鸿雷",
+        "designer_url": "https://hongl.zcool.com.cn/",
+        "family_name": "鸿雷板书简体-正式版",
+        "full_name": "HongLeiBanShu Regular",
+        "postscript_name": "HongLeiBanShu-Regular",
+        "subfamily_name": "Regular",
+        "unique_identifier": "2.000;UKWN;HongLeiBanShu-Regular",
+        "version": "Version 2.000"
+    },
+    "source_url": "https://mp.weixin.qq.com/s/LRKYtTIghVSNX2pY4w-mZA",
+    "title": "鸿雷板书简体",
+    "vendor_url": "",
+    "version": "Version 2.000"
+}

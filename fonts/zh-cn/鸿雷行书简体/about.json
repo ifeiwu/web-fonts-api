@@ -1,0 +1,35 @@
+{
+    "copyright": "Copyright © 2022 by 林鸿雷. All rights reserved.",
+    "description": "",
+    "designer": "林鸿雷",
+    "designer_url": "https://hongl.zcool.com.cn/",
+    "family": "HongleiXingshu",
+    "file_list": [
+        {
+            "file_name": "HongleiXingshu.otf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/鸿雷行书简体",
+    "id": "hongleixingshu",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "Copyright © 2022 by 林鸿雷. All rights reserved.",
+        "designer": "林鸿雷",
+        "designer_url": "https://hongl.zcool.com.cn/",
+        "family_name": "鸿雷行书简体",
+        "full_name": "hongleixingshu",
+        "postscript_name": "hongleixingshu",
+        "subfamily_name": "Regular",
+        "unique_identifier": "hongleixingshu:Version 2.00",
+        "version": "Version 2.00;August 26, 2022;FontCreator 13.0.0.2613 64-bit"
+    },
+    "source_url": "https://mp.weixin.qq.com/s/3X9j26oaVfwaZ9GcROMPWw",
+    "title": "鸿雷行书简体",
+    "vendor_url": "",
+    "version": "Version 2.00;August 26, 2022;FontCreator 13.0.0.2613 64-bit"
+}

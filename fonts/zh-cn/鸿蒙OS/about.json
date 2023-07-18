@@ -1,0 +1,67 @@
+{
+    "copyright": "Copyright 2021 Huawei Device Co., Ltd. All Rights Reserved.",
+    "description": "",
+    "designer": "Huawei Device Co., Ltd & Hanyi Fonts",
+    "designer_url": "",
+    "family": "HarmonyOSSansSC",
+    "file_list": [
+        {
+            "file_name": "HarmonyOS_Sans_SC_Black.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "HarmonyOS_Sans_SC_Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "HarmonyOS_Sans_SC_Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "HarmonyOS_Sans_SC_Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "HarmonyOS_Sans_SC_Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "HarmonyOS_Sans_SC_Thin.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/zh-cn/鸿蒙OS",
+    "id": "harmonyossanssc",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "Copyright 2021 Huawei Device Co., Ltd. All Rights Reserved.",
+        "designer": "Huawei Device Co., Ltd & Hanyi Fonts",
+        "family_name": "HarmonyOS Sans SC Black",
+        "full_name": "HarmonyOS Sans SC Black",
+        "manufacturer_name": "Hanyi Fonts",
+        "postscript_name": "HarmonyOS_Sans_SC_Black",
+        "subfamily_name": "Regular",
+        "typographic_family_name": "HarmonyOS Sans SC",
+        "typographic_subfamily_name": "Black",
+        "unique_identifier": "HarmonyOS Sans SC Black Version 1.0",
+        "version": "Version 1.0"
+    },
+    "source_url": "",
+    "title": "鸿蒙 HarmonyOS",
+    "vendor_url": "",
+    "version": "Version 1.0"
+}

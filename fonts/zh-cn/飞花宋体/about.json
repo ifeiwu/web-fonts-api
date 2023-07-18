@@ -1,0 +1,33 @@
+{
+    "copyright": "",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "FlyFlowerSong",
+    "file_list": [
+        {
+            "file_name": "FlyFlowerSong.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/飞花宋体",
+    "id": "flyflowersong",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "",
+        "family_name": "飞花宋体",
+        "full_name": "飞花宋体",
+        "postscript_name": "FlyFlowerSong",
+        "subfamily_name": "Regular",
+        "unique_identifier": "FlyFlowerSong:Version 2.65",
+        "version": "2.65"
+    },
+    "source_url": "",
+    "title": "飞花宋体",
+    "vendor_url": "",
+    "version": "2.65"
+}
