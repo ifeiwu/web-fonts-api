@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2010 by Font Diner, Inc. All rights reserved.",
+    "description": "",
+    "designer": "Font Diner, Inc",
+    "designer_url": "http://www.fontdiner.com",
+    "family": "Fontdiner Swanky",
+    "file_list": [
+        {
+            "file_name": "FontdinerSwanky-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/fontdiner-swanky",
+    "id": "fontdiner-swanky",
+    "language": "en",
+    "license_description": "Licensed under the Apache License, Version 2.0",
+    "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+    "names": {
+        "copyright_notice": "Copyright (c) 2010 by Font Diner, Inc. All rights reserved.",
+        "designer": "Font Diner, Inc",
+        "designer_url": "http://www.fontdiner.com",
+        "family_name": "Fontdiner Swanky",
+        "full_name": "Fontdiner Swanky Regular",
+        "license_description": "Licensed under the Apache License, Version 2.0",
+        "license_info_url": "http://www.apache.org/licenses/LICENSE-2.0",
+        "manufacturer_name": "Font Diner, Inc",
+        "postscript_name": "FontdinerSwanky-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Fontdiner Swanky is a trademark of Font Diner, Inc.",
+        "unique_identifier": "1.001;DINR;FontdinerSwanky-Regular",
+        "vendor_url": "http://www.fontdiner.com",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Fontdiner Swanky",
+    "vendor_url": "http://www.fontdiner.com",
+    "version": "Version 1.001"
+}

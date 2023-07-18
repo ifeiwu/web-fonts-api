@@ -1,0 +1,39 @@
+{
+    "copyright": "Copyright 2018 The Baskervville Project Authors (https://github.com/anrt-type/ANRT-Baskervville)",
+    "description": "",
+    "designer": "ANRT",
+    "designer_url": "https://anrt-nancy.fr",
+    "family": "Baskervville",
+    "file_list": [
+        {
+            "file_name": "Baskervville-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/baskervville",
+    "id": "baskervville",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2018 The Baskervville Project Authors (https://github.com/anrt-type/ANRT-Baskervville)",
+        "designer": "ANRT",
+        "designer_url": "https://anrt-nancy.fr",
+        "family_name": "Baskervville",
+        "full_name": "Baskervville Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "ANRT",
+        "postscript_name": "Baskervville-Regular",
+        "subfamily_name": "Regular",
+        "unique_identifier": "1.002;NONE;Baskervville-Regular",
+        "vendor_url": "https://anrt-nancy.fr",
+        "version": "Version 1.002; ttfautohint (v1.8.4.7-5d5b)"
+    },
+    "source_url": "",
+    "title": "Baskervville",
+    "vendor_url": "https://anrt-nancy.fr",
+    "version": "Version 1.002; ttfautohint (v1.8.4.7-5d5b)"
+}

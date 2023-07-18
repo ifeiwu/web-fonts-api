@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2011, TypeTogether (www.type-together.com), with Reserved Font Names \"Bree\" and \"Bree Serif\"",
+    "description": "",
+    "designer": "Veronika Burian, Jos Scaglione",
+    "designer_url": "www.type-together.com",
+    "family": "Bree Serif",
+    "file_list": [
+        {
+            "file_name": "BreeSerif-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/bree-serif",
+    "id": "bree-serif",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, TypeTogether (www.type-together.com), with Reserved Font Names \"Bree\" and \"Bree Serif\"",
+        "designer": "Veronika Burian, Jos Scaglione",
+        "designer_url": "www.type-together.com",
+        "family_name": "Bree Serif",
+        "full_name": "Bree Serif Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "TypeTogether",
+        "postscript_name": "BreeSerif-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Bree Serif is a trademark of TypeTogether.",
+        "unique_identifier": "1.002;UKWN;BreeSerif-Regular",
+        "vendor_url": "www.type-together.com",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Bree Serif",
+    "vendor_url": "www.type-together.com",
+    "version": "Version 1.002"
+}

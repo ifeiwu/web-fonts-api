@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2010 Angel Koziupa (sudtipos@sudtipos.com),\rCopyright (c) 2010 Alejandro Paul (sudtipos@sudtipos.com),\rwith Reserved Font Name \"Condiment\"",
+    "description": "",
+    "designer": "Angel Koziupa, Alejandro Paul",
+    "designer_url": "www.sudtipos.com",
+    "family": "Condiment",
+    "file_list": [
+        {
+            "file_name": "Condiment-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/condiment",
+    "id": "condiment",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2010 Angel Koziupa (sudtipos@sudtipos.com),\rCopyright (c) 2010 Alejandro Paul (sudtipos@sudtipos.com),\rwith Reserved Font Name \"Condiment\"",
+        "designer": "Angel Koziupa, Alejandro Paul",
+        "designer_url": "www.sudtipos.com",
+        "family_name": "Condiment",
+        "full_name": "Condiment",
+        "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Angel Koziupa, Alejandro Paul",
+        "postscript_name": "Condiment-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Condiment is a trademark of Angel Koziupa and Alejandro Paul.",
+        "unique_identifier": "AngelKoziupa,AlejandroPaul: Condiment: 2010",
+        "vendor_url": "www.sudtipos.com",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Condiment",
+    "vendor_url": "www.sudtipos.com",
+    "version": "Version 1.001"
+}

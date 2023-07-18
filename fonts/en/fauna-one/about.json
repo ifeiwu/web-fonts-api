@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright 2013 The Fauna One Project Authors (https://github.com/etunni/fauna-one) with Reserved Font Name 'Fauna'",
+    "description": "",
+    "designer": "Eduardo Rodriguez Tunni",
+    "designer_url": "http://www.tipo.net.ar",
+    "family": "Fauna One",
+    "file_list": [
+        {
+            "file_name": "FaunaOne-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/fauna-one",
+    "id": "fauna-one",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2013 The Fauna One Project Authors (https://github.com/etunni/fauna-one) with Reserved Font Name 'Fauna'",
+        "designer": "Eduardo Rodriguez Tunni",
+        "designer_url": "http://www.tipo.net.ar",
+        "family_name": "Fauna One",
+        "full_name": "Fauna One Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Eduardo Rodriguez Tunni",
+        "postscript_name": "FaunaOne-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Fauna is a trademark of Eduardo Rodriguez Tunni.",
+        "unique_identifier": "2.001;TIPO;FaunaOne-Regular",
+        "vendor_url": "http://www.tipo.net.ar",
+        "version": "Version 2.001; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.23]"
+    },
+    "source_url": "",
+    "title": "Fauna One",
+    "vendor_url": "http://www.tipo.net.ar",
+    "version": "Version 2.001; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.23]"
+}

@@ -1,0 +1,42 @@
+{
+    "copyright": "Copyright (c) 2012 by Fernando Diaz (fer@ferfolio.com), with Reserved Font Name 'Fenix'.",
+    "description": "",
+    "designer": "Fernando Diaz",
+    "designer_url": "http://www.ferfolio.com",
+    "family": "Fenix",
+    "file_list": [
+        {
+            "file_name": "Fenix-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/fenix",
+    "id": "fenix",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2012 by Fernando Diaz (fer@ferfolio.com), with Reserved Font Name 'Fenix'.",
+        "designer": "Fernando Diaz",
+        "designer_url": "http://www.ferfolio.com",
+        "family_name": "Fenix",
+        "full_name": "Fenix",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Fernando Diaz",
+        "postscript_name": "Fenix",
+        "subfamily_name": "Regular",
+        "trademark": "Fenix is a trademark of Fernando Diaz.",
+        "typographic_family_name": "Fenix",
+        "typographic_subfamily_name": "Regular",
+        "unique_identifier": "FernandoDiaz: Fenix: 2012",
+        "vendor_url": "http://www.tipotype.com",
+        "version": "004.301"
+    },
+    "source_url": "",
+    "title": "Fenix",
+    "vendor_url": "http://www.tipotype.com",
+    "version": "004.301"
+}

@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2011, Dario Manuel Muhafara (http://www.tipo.net.ar), with Reserved Font Name \"Balthazar\".",
+    "description": "",
+    "designer": "Dario Manuel Muhafara",
+    "designer_url": "http://www.tipo.net.ar",
+    "family": "Balthazar",
+    "file_list": [
+        {
+            "file_name": "Balthazar-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/balthazar",
+    "id": "balthazar",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, Dario Manuel Muhafara (http://www.tipo.net.ar), with Reserved Font Name \"Balthazar\".",
+        "designer": "Dario Manuel Muhafara",
+        "designer_url": "http://www.tipo.net.ar",
+        "family_name": "Balthazar",
+        "full_name": "Balthazar Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Dario Manuel Muhafara",
+        "postscript_name": "Balthazar-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Balthazar is a trademark of Dario Manuel Muhafara.",
+        "unique_identifier": "DarioManuelMuhafara: Balthazar: 2011",
+        "vendor_url": "http://www.tipo.net.ar",
+        "version": "Version 1.000"
+    },
+    "source_url": "",
+    "title": "Balthazar",
+    "vendor_url": "http://www.tipo.net.ar",
+    "version": "Version 1.000"
+}

@@ -1,0 +1,41 @@
+{
+    "copyright": "Copyright (c) 2011 Matthew Desmond (http://www.madtype.com | mattdesmond@gmail.com), with Reserved Font Name \"Cagliostro\"",
+    "description": "Inspired by a design by Ozwald Bruce Cooper.",
+    "designer": "Matthew Desmond",
+    "designer_url": "http://www.madtype.com",
+    "family": "Cagliostro",
+    "file_list": [
+        {
+            "file_name": "Cagliostro-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/cagliostro",
+    "id": "cagliostro",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 Matthew Desmond (http://www.madtype.com | mattdesmond@gmail.com), with Reserved Font Name \"Cagliostro\"",
+        "description": "Inspired by a design by Ozwald Bruce Cooper.",
+        "designer": "Matthew Desmond",
+        "designer_url": "http://www.madtype.com",
+        "family_name": "Cagliostro",
+        "full_name": "Cagliostro Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Matthew Desmond",
+        "postscript_name": "Cagliostro-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Cagliostro is a trademark of Matthew Desmond.",
+        "unique_identifier": "MatthewDesmond: Cagliostro Regular: 2011",
+        "vendor_url": "http://www.madtype.com",
+        "version": "Version "
+    },
+    "source_url": "",
+    "title": "Cagliostro",
+    "vendor_url": "http://www.madtype.com",
+    "version": "Version "
+}

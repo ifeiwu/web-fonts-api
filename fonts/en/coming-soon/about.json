@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2010 by Open Window. All rights reserved.",
+    "description": "",
+    "designer": "Dathan Boardman",
+    "designer_url": "http://www.fontbros.com/openwindow.php",
+    "family": "Coming Soon",
+    "file_list": [
+        {
+            "file_name": "ComingSoon-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/coming-soon",
+    "id": "coming-soon",
+    "language": "en",
+    "license_description": "Licensed under the Apache License, Version 2.0",
+    "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+    "names": {
+        "copyright_notice": "Copyright (c) 2010 by Open Window. All rights reserved.",
+        "designer": "Dathan Boardman",
+        "designer_url": "http://www.fontbros.com/openwindow.php",
+        "family_name": "Coming Soon",
+        "full_name": "Coming Soon Regular",
+        "license_description": "Licensed under the Apache License, Version 2.0",
+        "license_info_url": "http://www.apache.org/licenses/LICENSE-2.0",
+        "manufacturer_name": "Open Window",
+        "postscript_name": "ComingSoon-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Coming Soon is a trademark of Open Window.",
+        "unique_identifier": "1.002;BROS;ComingSoon-Regular",
+        "vendor_url": "http://www.fontbros.com/openwindow.php",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Coming Soon",
+    "vendor_url": "http://www.fontbros.com/openwindow.php",
+    "version": "Version 1.002"
+}

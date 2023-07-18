@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright 2020 The Castoro Project Authors (https://github.com/TiroTypeworks/Castoro)",
+    "description": "",
+    "designer": "John Hudson",
+    "designer_url": "https://www.tiro.com",
+    "family": "Castoro Titling",
+    "file_list": [
+        {
+            "file_name": "CastoroTitling-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/castoro-titling",
+    "id": "castoro-titling",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2020 The Castoro Project Authors (https://github.com/TiroTypeworks/Castoro)",
+        "designer": "John Hudson",
+        "designer_url": "https://www.tiro.com",
+        "family_name": "Castoro Titling",
+        "full_name": "Castoro Titling Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Tiro Typeworks Ltd.",
+        "postscript_name": "CastoroTitling-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Castoro is a trademark of Tiro Typeworks Ltd..",
+        "unique_identifier": "2.04:TIRO:CastoroTitling-Regular",
+        "vendor_url": "https://www.tiro.com/",
+        "version": "Version 2.04"
+    },
+    "source_url": "",
+    "title": "Castoro Titling",
+    "vendor_url": "https://www.tiro.com/",
+    "version": "Version 2.04"
+}

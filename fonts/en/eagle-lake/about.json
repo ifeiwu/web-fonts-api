@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Eagle Lake\"",
+    "description": "",
+    "designer": "Astigmatic (AOETI)",
+    "designer_url": "http://www.astigmatic.com/",
+    "family": "Eagle Lake",
+    "file_list": [
+        {
+            "file_name": "EagleLake-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/eagle-lake",
+    "id": "eagle-lake",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Eagle Lake\"",
+        "designer": "Astigmatic (AOETI)",
+        "designer_url": "http://www.astigmatic.com/",
+        "family_name": "Eagle Lake",
+        "full_name": "Eagle Lake",
+        "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Astigmatic (AOETI)",
+        "postscript_name": "EagleLake-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Eagle Lake is a trademark of Astigmatic.",
+        "unique_identifier": "Astigmatic(AOETI): Eagle Lake: 2012",
+        "vendor_url": "http://www.astigmatic.com/",
+        "version": "Version 1.000"
+    },
+    "source_url": "",
+    "title": "Eagle Lake",
+    "vendor_url": "http://www.astigmatic.com/",
+    "version": "Version 1.000"
+}

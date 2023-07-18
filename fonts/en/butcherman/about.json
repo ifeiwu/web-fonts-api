@@ -1,0 +1,35 @@
+{
+    "copyright": "Copyright (c) 2011, Typomondo, with Reserved Font Name  \"Butcherman\".",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "Butcherman",
+    "file_list": [
+        {
+            "file_name": "Butcherman-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/butcherman",
+    "id": "butcherman",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, Typomondo, with Reserved Font Name  \"Butcherman\".",
+        "family_name": "Butcherman",
+        "full_name": "Butcherman Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "postscript_name": "Butcherman-Regular",
+        "subfamily_name": "Regular",
+        "unique_identifier": "001.004;UKWN;Butcherman-Regular",
+        "version": "Version 001.004 "
+    },
+    "source_url": "",
+    "title": "Butcherman",
+    "vendor_url": "",
+    "version": "Version 001.004 "
+}

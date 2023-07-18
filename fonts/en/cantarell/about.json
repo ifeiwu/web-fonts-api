@@ -1,0 +1,45 @@
+{
+    "copyright": "Copyright 2009 The Cantarell Project Authors (https://github.com/davelab6/cantarell)",
+    "description": "",
+    "designer": "Dave Crossland",
+    "designer_url": "http://abattis.org",
+    "family": "Cantarell",
+    "file_list": [
+        {
+            "file_name": "Cantarell-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Cantarell-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/cantarell",
+    "id": "cantarell",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2009 The Cantarell Project Authors (https://github.com/davelab6/cantarell)",
+        "designer": "Dave Crossland",
+        "designer_url": "http://abattis.org",
+        "family_name": "Cantarell",
+        "full_name": "Cantarell Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "postscript_cid_findfont_name": "Cantarell",
+        "postscript_name": "Cantarell-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "ABATTIS : Cantarell Bold : 2022-09-07",
+        "vendor_url": "http://abattis.org",
+        "version": "Version 1.004"
+    },
+    "source_url": "",
+    "title": "Cantarell",
+    "vendor_url": "http://abattis.org",
+    "version": "Version 1.004"
+}

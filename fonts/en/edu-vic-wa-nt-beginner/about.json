@@ -1,0 +1,59 @@
+{
+    "copyright": "Copyright 2022 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)",
+    "description": "Australian VIC WA NT School Handwriting Font (Print)",
+    "designer": "Tina and Corey Anderson",
+    "designer_url": "https://github.com/MezMerrit/AU-School-Handwriting-Fonts",
+    "family": "Edu VIC WA NT Beginner",
+    "file_list": [
+        {
+            "file_name": "EduVICWANTBeginner-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "EduVICWANTBeginner-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "EduVICWANTBeginner-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "EduVICWANTBeginner-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "SemiBold",
+            "font_weight_value": "600"
+        }
+    ],
+    "file_path": "fonts/en/edu-vic-wa-nt-beginner",
+    "id": "edu-vic-wa-nt-beginner",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2022 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)",
+        "description": "Australian VIC WA NT School Handwriting Font (Print)",
+        "designer": "Tina and Corey Anderson",
+        "designer_url": "https://github.com/MezMerrit/AU-School-Handwriting-Fonts",
+        "family_name": "Edu VIC WA NT Beginner",
+        "full_name": "Edu VIC WA NT Beginner Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Google for Education",
+        "postscript_name": "EduVICWANTBeginner-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "1.003;GOOG;EduVICWANTBeginner-Bold",
+        "variations_postscript_name_prefix": "EduVICWANTBeginner",
+        "vendor_url": "https://github.com/MezMerrit/AU-School-Handwriting-Fonts",
+        "version": "Version 1.003"
+    },
+    "source_url": "",
+    "title": "Edu VIC WA NT Beginner",
+    "vendor_url": "https://github.com/MezMerrit/AU-School-Handwriting-Fonts",
+    "version": "Version 1.003"
+}

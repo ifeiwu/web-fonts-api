@@ -1,0 +1,35 @@
+{
+    "copyright": "Copyright (c) 2010-2011, Ruben Prol (ipanemagrafica@gmail.com|www.ipanemagrafica.com),\nwith Reserved Font Name Carme.",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "Carme",
+    "file_list": [
+        {
+            "file_name": "Carme-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/carme",
+    "id": "carme",
+    "language": "en",
+    "license_description": "Copyright (c) 2010-2011, Rubén Prol (ipanemagrafica@gmail.com|www.ipanemagrafica.com),\nwith Reserved Font Name Carme.\r\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2010-2011, Ruben Prol (ipanemagrafica@gmail.com|www.ipanemagrafica.com),\nwith Reserved Font Name Carme.",
+        "family_name": "Carme",
+        "full_name": "Carme Regular",
+        "license_description": "Copyright (c) 2010-2011, Rubén Prol (ipanemagrafica@gmail.com|www.ipanemagrafica.com),\nwith Reserved Font Name Carme.\r\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "postscript_name": "Carme",
+        "subfamily_name": "Regular",
+        "unique_identifier": "webfont",
+        "version": "1.000"
+    },
+    "source_url": "",
+    "title": "Carme",
+    "vendor_url": "",
+    "version": "1.000"
+}

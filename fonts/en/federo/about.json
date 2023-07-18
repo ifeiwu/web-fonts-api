@@ -1,0 +1,41 @@
+{
+    "copyright": "Copyright (c) 2011 by Olexa M. Volochay | Cyreal.org. All rights reserved.",
+    "description": "Copyright (c) 2011 by Olexa M. Volochay | Cyreal.org. All rights reserved. Based on Feder Grotesk by J.Erbar (1909)",
+    "designer": "Olexa M. Volochay | Cyreal.org",
+    "designer_url": "http://www.olexa.kiev.ua",
+    "family": "Federo",
+    "file_list": [
+        {
+            "file_name": "Federo-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/federo",
+    "id": "federo",
+    "language": "en",
+    "license_description": "Copyright (c) 2011, Olexa M. Volochay,\r\nwith Reserved Font Name Federo.\r\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\r\nThis license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 by Olexa M. Volochay | Cyreal.org. All rights reserved.",
+        "description": "Copyright (c) 2011 by Olexa M. Volochay | Cyreal.org. All rights reserved. Based on Feder Grotesk by J.Erbar (1909)",
+        "designer": "Olexa M. Volochay | Cyreal.org",
+        "designer_url": "http://www.olexa.kiev.ua",
+        "family_name": "Federo",
+        "full_name": "Federo",
+        "license_description": "Copyright (c) 2011, Olexa M. Volochay,\r\nwith Reserved Font Name Federo.\r\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\r\nThis license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Olexa M. Volochay | Cyreal.org",
+        "postscript_name": "Federo-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Federo is a trademark of Olexa M. Volochay | Cyreal.org.",
+        "unique_identifier": "OlexaM.Volochay|Cyreal.org: Federo: 2011",
+        "vendor_url": "http://cyreal.org",
+        "version": "Version 1.000"
+    },
+    "source_url": "",
+    "title": "Federo",
+    "vendor_url": "http://cyreal.org",
+    "version": "Version 1.000"
+}

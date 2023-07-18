@@ -1,0 +1,35 @@
+{
+    "copyright": "Copyright (c) 2011, Barry Schwartz  (chemoelectric@chemoelectric.org)",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "Fanwood Text",
+    "file_list": [
+        {
+            "file_name": "FanwoodText-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/fanwood-text",
+    "id": "fanwood-text",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL\n",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, Barry Schwartz  (chemoelectric@chemoelectric.org)",
+        "family_name": "Fanwood Text",
+        "full_name": "Fanwood Text",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL\n",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "postscript_name": "FanwoodText-Regular",
+        "subfamily_name": "Regular",
+        "unique_identifier": "FontForge 2.0 : Fanwood Text : 26-8-2011",
+        "version": "Version 1.1001 "
+    },
+    "source_url": "",
+    "title": "Fanwood Text",
+    "vendor_url": "",
+    "version": "Version 1.1001 "
+}

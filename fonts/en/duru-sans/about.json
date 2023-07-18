@@ -1,0 +1,42 @@
+{
+    "copyright": "Copyright (c) 2010 by Sorkin Type Co with Reserved Font Name Duru.\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+    "description": "Duru is low contrast a classic 20th century style sans design. Duru is a new take on mixing the humanist urge with the modernist one.ÊDuru also somehow manages to be elegant and a workhorse type at the same time. Duru can be used at a wide range ofÊsizes.",
+    "designer": "Onur Yazõcõgil",
+    "designer_url": "http://onuryazicigil.com",
+    "family": "Duru Sans",
+    "file_list": [
+        {
+            "file_name": "DuruSans-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/duru-sans",
+    "id": "duru-sans",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "compatible_full": "Duru Sans Regular",
+        "copyright_notice": "Copyright (c) 2010 by Sorkin Type Co with Reserved Font Name Duru.\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+        "description": "Duru is low contrast a classic 20th century style sans design. Duru is a new take on mixing the humanist urge with the modernist one.ÊDuru also somehow manages to be elegant and a workhorse type at the same time. Duru can be used at a wide range ofÊsizes.",
+        "designer": "Onur Yazõcõgil",
+        "designer_url": "http://onuryazicigil.com",
+        "family_name": "Duru Sans",
+        "full_name": "Duru Sans Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Onur Yazõcõgil",
+        "postscript_name": "DuruSans-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Duru is a trademark of Sorkin Type Co.",
+        "unique_identifier": "OnurYazcgil: Duru Sans Regular: 2011",
+        "vendor_url": "http://www.sorkintype.com",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Duru Sans",
+    "vendor_url": "http://www.sorkintype.com",
+    "version": "Version 1.002"
+}

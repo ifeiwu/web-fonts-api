@@ -1,0 +1,52 @@
+{
+    "copyright": "Copyright (c) 2012, vernon adams (vern@newtypography.co.uk), with Reserved Font Name 'BenchNine'",
+    "description": "",
+    "designer": "Vernon Adams",
+    "designer_url": "newtypography.co.uk",
+    "family": "BenchNine",
+    "file_list": [
+        {
+            "file_name": "BenchNine-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "BenchNine-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "BenchNine-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/benchnine",
+    "id": "benchnine",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2012, vernon adams (vern@newtypography.co.uk), with Reserved Font Name 'BenchNine'",
+        "designer": "Vernon Adams",
+        "designer_url": "newtypography.co.uk",
+        "family_name": "BenchNine",
+        "full_name": "BenchNine Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Vernon Adams",
+        "postscript_name": "BenchNine-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "BenchNine is a trademark of vernon adams.",
+        "unique_identifier": "0.92;UKWN;BenchNine-Bold",
+        "vendor_url": "newtypography.co.uk",
+        "version": "Version 1 ; ttfautohint (v0.92.18-e454-dirty) -l 8 -r 50 -G 200 -x 0 -w \"g\""
+    },
+    "source_url": "",
+    "title": "BenchNine",
+    "vendor_url": "newtypography.co.uk",
+    "version": "Version 1 ; ttfautohint (v0.92.18-e454-dirty) -l 8 -r 50 -G 200 -x 0 -w \"g\""
+}

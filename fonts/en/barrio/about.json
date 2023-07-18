@@ -1,0 +1,39 @@
+{
+    "copyright": "Copyright 2016 The Barrio Project Authors (omnibus.type@gmail.com)",
+    "description": "",
+    "designer": "Pablo Cosgaya & Sergio Jimenez",
+    "designer_url": "http://www.subcoolture.com",
+    "family": "Barrio",
+    "file_list": [
+        {
+            "file_name": "Barrio-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/barrio",
+    "id": "barrio",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2016 The Barrio Project Authors (omnibus.type@gmail.com)",
+        "designer": "Pablo Cosgaya & Sergio Jimenez",
+        "designer_url": "http://www.subcoolture.com",
+        "family_name": "Barrio",
+        "full_name": "Barrio Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Pablo Cosgaya & Sergio Jimenez",
+        "postscript_name": "Barrio-Regular",
+        "subfamily_name": "Regular",
+        "unique_identifier": "1.005;OMNI;Barrio-Regular",
+        "vendor_url": "http://www.omnibus-type.com/",
+        "version": "Version 1.005"
+    },
+    "source_url": "",
+    "title": "Barrio",
+    "vendor_url": "http://www.omnibus-type.com/",
+    "version": "Version 1.005"
+}

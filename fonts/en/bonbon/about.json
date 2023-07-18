@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Bonbon\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+    "description": "",
+    "designer": "Ksenia Erulevich",
+    "designer_url": "http://cyreal.org",
+    "family": "Bonbon",
+    "file_list": [
+        {
+            "file_name": "Bonbon-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/bonbon",
+    "id": "bonbon",
+    "language": "en",
+    "license_description": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Bonbon\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Bonbon\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+        "designer": "Ksenia Erulevich",
+        "designer_url": "http://cyreal.org",
+        "family_name": "Bonbon",
+        "full_name": "Bonbon Regular",
+        "license_description": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Bonbon\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Cyreal (www.cyreal.org)",
+        "postscript_name": "Bonbon-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Bonbon is a trademark of Cyreal (www.cyreal.org).",
+        "unique_identifier": "1.001;PYRS;Bonbon-Regular",
+        "vendor_url": "http://cyreal.org",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Bonbon",
+    "vendor_url": "http://cyreal.org",
+    "version": "Version 1.001"
+}

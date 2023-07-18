@@ -1,0 +1,48 @@
+{
+    "copyright": "Copyright (c) 2011 by LatinoType Limitada (info@latinotype.com),  with Reserved Font Names \"Flamenco\"",
+    "description": "",
+    "designer": "Luciano Vergara",
+    "designer_url": "www.latinotype.com",
+    "family": "Flamenco Light",
+    "file_list": [
+        {
+            "file_name": "Flamenco-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "Flamenco-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/flamenco",
+    "id": "flamenco-light",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 by LatinoType Limitada (info@latinotype.com),  with Reserved Font Names \"Flamenco\"",
+        "designer": "Luciano Vergara",
+        "designer_url": "www.latinotype.com",
+        "family_name": "Flamenco Light",
+        "full_name": "Flamenco Light",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Luciano Vergara",
+        "postscript_name": "Flamenco-Light",
+        "subfamily_name": "Regular",
+        "trademark": "Flamenco is a trademark of LatinoType Limitada",
+        "typographic_family_name": "Flamenco",
+        "typographic_subfamily_name": "Light",
+        "unique_identifier": "1.003;UKWN;Flamenco-Light",
+        "vendor_url": "www.latinotype.com",
+        "version": "Version 1.003"
+    },
+    "source_url": "",
+    "title": "Flamenco Light",
+    "vendor_url": "www.latinotype.com",
+    "version": "Version 1.003"
+}

@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2011 by Ralph du Carrois, with Reserved Font Name 'Carrois'",
+    "description": "",
+    "designer": "Ralph du Carrois",
+    "designer_url": "http://www.carrois.com",
+    "family": "Carrois Gothic SC",
+    "file_list": [
+        {
+            "file_name": "CarroisGothicSC-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/carrois-gothic-sc",
+    "id": "carrois-gothic-sc",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 by Ralph du Carrois, with Reserved Font Name 'Carrois'",
+        "designer": "Ralph du Carrois",
+        "designer_url": "http://www.carrois.com",
+        "family_name": "Carrois Gothic SC",
+        "full_name": "Carrois Gothic SC Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Ralph du Carrois",
+        "postscript_name": "CarroisGothicSC-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Carrois is a trademark of Ralph du Carrois.",
+        "unique_identifier": "1.002;PYRS;CarroisGothicSC-Regular",
+        "vendor_url": "http://www.carrois.com",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Carrois Gothic SC",
+    "vendor_url": "http://www.carrois.com",
+    "version": "Version 1.002"
+}

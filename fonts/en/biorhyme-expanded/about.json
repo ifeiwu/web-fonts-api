@@ -1,0 +1,63 @@
+{
+    "copyright": "Copyright 2016 Aoife Mooney (aoifemooney@gmail.com www.aoifemooney.org)",
+    "description": "",
+    "designer": "Aoife Mooney",
+    "designer_url": "http://www.aoifemooney.org",
+    "family": "BioRhyme Expanded",
+    "file_list": [
+        {
+            "file_name": "BioRhymeExpanded-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "BioRhymeExpanded-ExtraBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraBold",
+            "font_weight_value": "800"
+        },
+        {
+            "file_name": "BioRhymeExpanded-ExtraLight.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraLight",
+            "font_weight_value": "200"
+        },
+        {
+            "file_name": "BioRhymeExpanded-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "BioRhymeExpanded-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/biorhyme-expanded",
+    "id": "biorhyme-expanded",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL\n",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2016 Aoife Mooney (aoifemooney@gmail.com www.aoifemooney.org)",
+        "designer": "Aoife Mooney",
+        "designer_url": "http://www.aoifemooney.org",
+        "family_name": "BioRhyme Expanded",
+        "full_name": "BioRhyme Expanded Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL\n",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Aoife Mooney Type",
+        "postscript_name": "BioRhymeExpanded-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "1.000;UKWN;BioRhymeExpanded-Bold",
+        "vendor_url": "http://www.aoifemooney.org",
+        "version": "Version 1.000"
+    },
+    "source_url": "",
+    "title": "BioRhyme Expanded",
+    "vendor_url": "http://www.aoifemooney.org",
+    "version": "Version 1.000"
+}

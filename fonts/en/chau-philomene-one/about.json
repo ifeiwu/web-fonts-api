@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2010-2012, TipoType (produccion.taller@gmail.com), with Reserved Font Name \"Chau Philomene\"",
+    "description": "",
+    "designer": "Vicente Lamonaca",
+    "designer_url": "www.tipografia-montevideo.info",
+    "family": "Chau Philomene One",
+    "file_list": [
+        {
+            "file_name": "ChauPhilomeneOne-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/chau-philomene-one",
+    "id": "chau-philomene-one",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL.",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2010-2012, TipoType (produccion.taller@gmail.com), with Reserved Font Name \"Chau Philomene\"",
+        "designer": "Vicente Lamonaca",
+        "designer_url": "www.tipografia-montevideo.info",
+        "family_name": "Chau Philomene One",
+        "full_name": "Chau Philomene One Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL.",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "TipoType",
+        "postscript_name": "ChauPhilomeneOne-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Chau Philomene is a trademark of TipoType.",
+        "unique_identifier": "1.002;PYRS;ChauPhilomeneOne-Regular",
+        "vendor_url": "www.tipotype.com",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Chau Philomene One",
+    "vendor_url": "www.tipotype.com",
+    "version": "Version 1.002"
+}

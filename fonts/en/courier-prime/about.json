@@ -1,0 +1,45 @@
+{
+    "copyright": "Copyright 2015 The Courier Prime Project Authors (https://github.com/quoteunquoteapps/CourierPrime).",
+    "description": "",
+    "designer": "Alan Dague-Greene, Quote-Unquote Apps",
+    "designer_url": "http://basicrecipe.com",
+    "family": "Courier Prime",
+    "file_list": [
+        {
+            "file_name": "CourierPrime-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "CourierPrime-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/courier-prime",
+    "id": "courier-prime",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2015 The Courier Prime Project Authors (https://github.com/quoteunquoteapps/CourierPrime).",
+        "designer": "Alan Dague-Greene, Quote-Unquote Apps",
+        "designer_url": "http://basicrecipe.com",
+        "family_name": "Courier Prime",
+        "full_name": "Courier Prime Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Quote-Unquote Apps",
+        "postscript_name": "CourierPrime-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "3.018;QUQA;CourierPrime-Bold",
+        "vendor_url": "http://quoteunquoteapps.com",
+        "version": "Version 3.018"
+    },
+    "source_url": "",
+    "title": "Courier Prime",
+    "vendor_url": "http://quoteunquoteapps.com",
+    "version": "Version 3.018"
+}

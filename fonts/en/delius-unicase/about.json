@@ -1,0 +1,44 @@
+{
+    "copyright": "Copyright (c) 2010, 2011, Natalia Raices<nraices@gmail.com>, with Reserved Font Name \"Delius\" \"Delius Unicase\" \"Delius Swash Caps\".",
+    "description": "",
+    "designer": "Natalia Raices",
+    "designer_url": "",
+    "family": "Delius Unicase",
+    "file_list": [
+        {
+            "file_name": "DeliusUnicase-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "DeliusUnicase-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/delius-unicase",
+    "id": "delius-unicase",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2010, 2011, Natalia Raices<nraices@gmail.com>, with Reserved Font Name \"Delius\" \"Delius Unicase\" \"Delius Swash Caps\".",
+        "designer": "Natalia Raices",
+        "family_name": "Delius Unicase",
+        "full_name": "Delius Unicase Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Natalia Raices",
+        "postscript_name": "DeliusUnicase-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Delius Unicase is a trademark of Natalia Raices.",
+        "unique_identifier": "NataliaRaices: Delius Unicase Bold: 2010",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Delius Unicase",
+    "vendor_url": "",
+    "version": "Version 1.001"
+}

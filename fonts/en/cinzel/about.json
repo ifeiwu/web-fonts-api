@@ -1,0 +1,70 @@
+{
+    "copyright": "Copyright 2020 The Cinzel Project Authors (https://github.com/NDISCOVER/Cinzel)",
+    "description": "",
+    "designer": "Natanael Gama",
+    "designer_url": "www.ndiscovered.com",
+    "family": "Cinzel Black",
+    "file_list": [
+        {
+            "file_name": "Cinzel-Black.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Black",
+            "font_weight_value": "900"
+        },
+        {
+            "file_name": "Cinzel-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Cinzel-ExtraBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraBold",
+            "font_weight_value": "800"
+        },
+        {
+            "file_name": "Cinzel-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "Cinzel-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "Cinzel-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "SemiBold",
+            "font_weight_value": "600"
+        }
+    ],
+    "file_path": "fonts/en/cinzel",
+    "id": "cinzel-black",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2020 The Cinzel Project Authors (https://github.com/NDISCOVER/Cinzel)",
+        "designer": "Natanael Gama",
+        "designer_url": "www.ndiscovered.com",
+        "family_name": "Cinzel Black",
+        "full_name": "Cinzel Black",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "postscript_name": "Cinzel-Black",
+        "subfamily_name": "Regular",
+        "typographic_family_name": "Cinzel",
+        "typographic_subfamily_name": "Black",
+        "unique_identifier": "2.000;NONE;Cinzel-Black",
+        "variations_postscript_name_prefix": "CinzelRoman",
+        "version": "Version 2.000"
+    },
+    "source_url": "",
+    "title": "Cinzel Black",
+    "vendor_url": "",
+    "version": "Version 2.000"
+}

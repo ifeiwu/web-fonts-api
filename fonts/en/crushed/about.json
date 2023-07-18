@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2010 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\rhttp://www.apache.org/licenses/LICENSE-2.0.html",
+    "description": "",
+    "designer": "Astigmatic (AOETI)",
+    "designer_url": "http://www.astigmatic.com/",
+    "family": "Crushed",
+    "file_list": [
+        {
+            "file_name": "Crushed-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/crushed",
+    "id": "crushed",
+    "language": "en",
+    "license_description": "Licensed under the Apache License, Version 2.0",
+    "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+    "names": {
+        "copyright_notice": "Copyright (c) 2010 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\rhttp://www.apache.org/licenses/LICENSE-2.0.html",
+        "designer": "Astigmatic (AOETI)",
+        "designer_url": "http://www.astigmatic.com/",
+        "family_name": "Crushed",
+        "full_name": "Crushed Regular",
+        "license_description": "Licensed under the Apache License, Version 2.0",
+        "license_info_url": "http://www.apache.org/licenses/LICENSE-2.0",
+        "manufacturer_name": "Astigmatic (AOETI)",
+        "postscript_name": "Crushed-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Crushed is a trademark of Astigmatic (AOETI).",
+        "unique_identifier": "001.001;AOEF;Crushed-Regular",
+        "vendor_url": "http://www.astigmatic.com/",
+        "version": "Version 001.001"
+    },
+    "source_url": "",
+    "title": "Crushed",
+    "vendor_url": "http://www.astigmatic.com/",
+    "version": "Version 001.001"
+}

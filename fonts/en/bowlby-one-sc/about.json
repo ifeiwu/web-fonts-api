@@ -1,0 +1,34 @@
+{
+    "copyright": "Copyright (c) 2011, vernon adams (vern@newtypography.co.uk), with Reserved Font Names \"Bowlby\"",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "Bowlby One SC",
+    "file_list": [
+        {
+            "file_name": "BowlbyOneSC-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/bowlby-one-sc",
+    "id": "bowlby-one-sc",
+    "language": "en",
+    "license_description": "",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, vernon adams (vern@newtypography.co.uk), with Reserved Font Names \"Bowlby\"",
+        "family_name": "Bowlby One SC",
+        "full_name": "Bowlby One SC Regular",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "postscript_name": "BowlbyOneSC-Regular",
+        "subfamily_name": "Regular",
+        "unique_identifier": "Bowlby One SC Regular : 1-7-2011",
+        "version": "Version 1.2"
+    },
+    "source_url": "",
+    "title": "Bowlby One SC",
+    "vendor_url": "",
+    "version": "Version 1.2"
+}

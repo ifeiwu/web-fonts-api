@@ -1,0 +1,39 @@
+{
+    "copyright": "Copyright (c) 2011, John Vargas Beltran (www.johnvargasbeltran.com|john.vargasbeltran@gmail.com), with Reserved Font Name \"Boogaloo\".",
+    "description": "",
+    "designer": "John Vargas Beltran",
+    "designer_url": "www.johnvargasbeltran.com",
+    "family": "Boogaloo",
+    "file_list": [
+        {
+            "file_name": "Boogaloo-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/boogaloo",
+    "id": "boogaloo",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, John Vargas Beltran (www.johnvargasbeltran.com|john.vargasbeltran@gmail.com), with Reserved Font Name \"Boogaloo\".",
+        "designer": "John Vargas Beltran",
+        "designer_url": "www.johnvargasbeltran.com",
+        "family_name": "Boogaloo",
+        "full_name": "Boogaloo Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "John Vargas Beltran",
+        "postscript_name": "Boogaloo-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Boogaloo is a trademark of John Vargas Beltran.",
+        "unique_identifier": "1.002;MYFO;Boogaloo-Regular",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Boogaloo",
+    "vendor_url": "",
+    "version": "Version 1.002"
+}

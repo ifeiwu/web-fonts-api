@@ -1,0 +1,72 @@
+{
+    "copyright": "Copyright 2020 The Bodoni Moda Project Authors (https://github.com/indestructible-type)",
+    "description": "",
+    "designer": "Owen Earl",
+    "designer_url": "https://ewonrael.github.io",
+    "family": "Bodoni Moda 9pt Black",
+    "file_list": [
+        {
+            "file_name": "BodoniModa-Black.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Black",
+            "font_weight_value": "900"
+        },
+        {
+            "file_name": "BodoniModa-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "BodoniModa-ExtraBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraBold",
+            "font_weight_value": "800"
+        },
+        {
+            "file_name": "BodoniModa-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "BodoniModa-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "BodoniModa-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "SemiBold",
+            "font_weight_value": "600"
+        }
+    ],
+    "file_path": "fonts/en/bodoni-moda",
+    "id": "bodoni-moda-9pt-black",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2020 The Bodoni Moda Project Authors (https://github.com/indestructible-type)",
+        "designer": "Owen Earl",
+        "designer_url": "https://ewonrael.github.io",
+        "family_name": "Bodoni Moda 9pt Black",
+        "full_name": "Bodoni Moda 9pt Black",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "indestructible type",
+        "postscript_name": "BodoniModa9pt-Black",
+        "subfamily_name": "Regular",
+        "typographic_family_name": "Bodoni Moda 9pt",
+        "typographic_subfamily_name": "Black",
+        "unique_identifier": "2.004;it*;BodoniModa9pt-Black",
+        "variations_postscript_name_prefix": "BodoniModaRoman",
+        "vendor_url": "https://indestructibletype.com/Home.html",
+        "version": "Version 2.004"
+    },
+    "source_url": "",
+    "title": "Bodoni Moda 9pt Black",
+    "vendor_url": "https://indestructibletype.com/Home.html",
+    "version": "Version 2.004"
+}

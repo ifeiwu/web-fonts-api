@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2011, TypeTogether (www.type-together.com), with Reserved Font Names \"Crete\" and \"Crete Round\"",
+    "description": "",
+    "designer": "Veronika Burian",
+    "designer_url": "www.type-together.com",
+    "family": "Crete Round",
+    "file_list": [
+        {
+            "file_name": "CreteRound-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/crete-round",
+    "id": "crete-round",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, TypeTogether (www.type-together.com), with Reserved Font Names \"Crete\" and \"Crete Round\"",
+        "designer": "Veronika Burian",
+        "designer_url": "www.type-together.com",
+        "family_name": "Crete Round",
+        "full_name": "Crete Round",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "TypeTogether",
+        "postscript_name": "CreteRound-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Crete Round is a trademark of TypeTogether.",
+        "unique_identifier": "TypeTogether: Crete Round: 2011",
+        "vendor_url": "www.type-together.com/Crete",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Crete Round",
+    "vendor_url": "www.type-together.com/Crete",
+    "version": "Version 1.001"
+}

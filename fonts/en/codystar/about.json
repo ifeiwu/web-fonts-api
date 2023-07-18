@@ -1,0 +1,46 @@
+{
+    "copyright": "Copyright (c) 2012 by Font Diner, Inc DBA Neapolitan (diner@fontdiner.com) with Reseved Font Name \"Codystar Light\"",
+    "description": "",
+    "designer": "Crystal Kluge",
+    "designer_url": "http://www.tartworkshop.com",
+    "family": "Codystar",
+    "file_list": [
+        {
+            "file_name": "Codystar-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "Codystar-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/codystar",
+    "id": "codystar",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2012 by Font Diner, Inc DBA Neapolitan (diner@fontdiner.com) with Reseved Font Name \"Codystar Light\"",
+        "designer": "Crystal Kluge",
+        "designer_url": "http://www.tartworkshop.com",
+        "family_name": "Codystar",
+        "full_name": "Codystar Light",
+        "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Font Diner, Inc DBA Neapolitan",
+        "postscript_name": "Codystar-Light",
+        "subfamily_name": "Light",
+        "trademark": "Codystar Light is a trademark of Font Diner, Inc DBA Neapolitan.",
+        "unique_identifier": "FontDiner,IncDBANeapolitan: Codystar Light: 2012",
+        "vendor_url": "http://www.fontbros.com/foundries/neapolitan",
+        "version": "Version 1.000"
+    },
+    "source_url": "",
+    "title": "Codystar",
+    "vendor_url": "http://www.fontbros.com/foundries/neapolitan",
+    "version": "Version 1.000"
+}

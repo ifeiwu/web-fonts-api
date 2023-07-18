@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2010 by Open Window. All rights reserved.",
+    "description": "",
+    "designer": "Dathan Boardman",
+    "designer_url": "http://www.fontbros.com/openwindow.php",
+    "family": "Calligraffitti",
+    "file_list": [
+        {
+            "file_name": "Calligraffitti-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/calligraffitti",
+    "id": "calligraffitti",
+    "language": "en",
+    "license_description": "Licensed under the Apache License, Version 2.0",
+    "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+    "names": {
+        "copyright_notice": "Copyright (c) 2010 by Open Window. All rights reserved.",
+        "designer": "Dathan Boardman",
+        "designer_url": "http://www.fontbros.com/openwindow.php",
+        "family_name": "Calligraffitti",
+        "full_name": "Calligraffitti Regular",
+        "license_description": "Licensed under the Apache License, Version 2.0",
+        "license_info_url": "http://www.apache.org/licenses/LICENSE-2.0",
+        "manufacturer_name": "Open Window",
+        "postscript_name": "Calligraffitti-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Calligraffitti is a trademark of Open Window.",
+        "unique_identifier": "1.002;BROS;Calligraffitti-Regular",
+        "vendor_url": "http://www.fontbros.com/openwindow.php",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Calligraffitti",
+    "vendor_url": "http://www.fontbros.com/openwindow.php",
+    "version": "Version 1.002"
+}

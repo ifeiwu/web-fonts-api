@@ -1,0 +1,91 @@
+{
+    "copyright": "Copyright 2014 The Comme Project Authors (https://github.com/googlefonts/comme)",
+    "description": "",
+    "designer": "Vernon Adams",
+    "designer_url": "http://www.sansoxygen.com",
+    "family": "Comme Black",
+    "file_list": [
+        {
+            "file_name": "Comme-Black.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Black",
+            "font_weight_value": "900"
+        },
+        {
+            "file_name": "Comme-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Comme-ExtraBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraBold",
+            "font_weight_value": "800"
+        },
+        {
+            "file_name": "Comme-ExtraLight.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraLight",
+            "font_weight_value": "200"
+        },
+        {
+            "file_name": "Comme-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "Comme-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "Comme-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "Comme-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "SemiBold",
+            "font_weight_value": "600"
+        },
+        {
+            "file_name": "Comme-Thin.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Thin",
+            "font_weight_value": "100"
+        }
+    ],
+    "file_path": "fonts/en/comme",
+    "id": "comme-black",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2014 The Comme Project Authors (https://github.com/googlefonts/comme)",
+        "designer": "Vernon Adams",
+        "designer_url": "http://www.sansoxygen.com",
+        "family_name": "Comme Black",
+        "full_name": "Comme Black",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Vernon Adams",
+        "postscript_name": "Comme-Black",
+        "subfamily_name": "Regular",
+        "trademark": "Comme is a trademark of Vernon Adams and may be registered in certain jurisdictions.",
+        "typographic_family_name": "Comme",
+        "typographic_subfamily_name": "Black",
+        "unique_identifier": "1.000;NeWT;Comme-Black",
+        "variations_postscript_name_prefix": "Comme",
+        "vendor_url": "http://www.sansoxygen.com",
+        "version": "Version 1.000;gftools[0.9.27]"
+    },
+    "source_url": "",
+    "title": "Comme Black",
+    "vendor_url": "http://www.sansoxygen.com",
+    "version": "Version 1.000;gftools[0.9.27]"
+}

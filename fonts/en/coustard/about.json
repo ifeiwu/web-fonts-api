@@ -1,0 +1,44 @@
+{
+    "copyright": "Copyright (c) 2011 by vernon adams. All rights reserved. with\nReserved Font Names \"Coustard\" and \"Coustard Black\". This\nFont Software is licensed under the SIL Open Font License, Version\n1.1. This license is available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "Coustard Black",
+    "file_list": [
+        {
+            "file_name": "Coustard-Black.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Black",
+            "font_weight_value": "900"
+        },
+        {
+            "file_name": "Coustard-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/coustard",
+    "id": "coustard-black",
+    "language": "en",
+    "license_description": "",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 by vernon adams. All rights reserved. with\nReserved Font Names \"Coustard\" and \"Coustard Black\". This\nFont Software is licensed under the SIL Open Font License, Version\n1.1. This license is available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+        "family_name": "Coustard Black",
+        "full_name": "Coustard Black",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "vernon adams",
+        "postscript_name": "Coustard-Black",
+        "subfamily_name": "Regular",
+        "trademark": "Coustard Black is a trademark of vernon adams.",
+        "typographic_family_name": "Coustard",
+        "typographic_subfamily_name": "Black",
+        "unique_identifier": "1.001;UKWN;Coustard-Black",
+        "version": "Version 1.001;"
+    },
+    "source_url": "",
+    "title": "Coustard Black",
+    "vendor_url": "",
+    "version": "Version 1.001;"
+}

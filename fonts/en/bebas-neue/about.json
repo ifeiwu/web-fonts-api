@@ -1,0 +1,41 @@
+{
+    "copyright": "Copyright 2019 The Bebas Neue Project Authors (https://github.com/dharmatype/Bebas-Neue)",
+    "description": "Designed by Ryoichi Tsunekawa from Dharma Type in 2010.",
+    "designer": "Ryoichi Tsunekawa",
+    "designer_url": "http://dharmatype.com",
+    "family": "Bebas Neue",
+    "file_list": [
+        {
+            "file_name": "BebasNeue-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/bebas-neue",
+    "id": "bebas-neue",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2019 The Bebas Neue Project Authors (https://github.com/dharmatype/Bebas-Neue)",
+        "description": "Designed by Ryoichi Tsunekawa from Dharma Type in 2010.",
+        "designer": "Ryoichi Tsunekawa",
+        "designer_url": "http://dharmatype.com",
+        "family_name": "Bebas Neue",
+        "full_name": "Bebas Neue Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Ryoichi Tsunekawa",
+        "postscript_name": "BebasNeue-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Bebas Neue is a trademark of Dharma Type.",
+        "unique_identifier": "2.000;DHRM;BebasNeue-Regular",
+        "vendor_url": "http://dharmatype.com",
+        "version": "Version 2.000"
+    },
+    "source_url": "",
+    "title": "Bebas Neue",
+    "vendor_url": "http://dharmatype.com",
+    "version": "Version 2.000"
+}

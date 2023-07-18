@@ -1,0 +1,51 @@
+{
+    "copyright": "Copyright © 2012 Natanael Gama (info@ndiscovered.com), with Reserved Font Name 'Cinzel'",
+    "description": "",
+    "designer": "Natanael Gama",
+    "designer_url": "www.ndiscovered.com",
+    "family": "Cinzel Decorative Black",
+    "file_list": [
+        {
+            "file_name": "CinzelDecorative-Black.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Black",
+            "font_weight_value": "900"
+        },
+        {
+            "file_name": "CinzelDecorative-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "CinzelDecorative-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/cinzel-decorative",
+    "id": "cinzel-decorative-black",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/ofl",
+    "names": {
+        "copyright_notice": "Copyright © 2012 Natanael Gama (info@ndiscovered.com), with Reserved Font Name 'Cinzel'",
+        "designer": "Natanael Gama",
+        "designer_url": "www.ndiscovered.com",
+        "family_name": "Cinzel Decorative Black",
+        "full_name": "Cinzel Decorative Black",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/ofl",
+        "postscript_name": "CinzelDecorative-Black",
+        "subfamily_name": "Regular",
+        "typographic_family_name": "Cinzel Decorative",
+        "typographic_subfamily_name": "Black",
+        "unique_identifier": "1.002;UKWN;CinzelDecorative-Black",
+        "version": "Version 1.002;PS 001.002;hotconv 1.0.56;makeotf.lib2.0.21325"
+    },
+    "source_url": "",
+    "title": "Cinzel Decorative Black",
+    "vendor_url": "",
+    "version": "Version 1.002;PS 001.002;hotconv 1.0.56;makeotf.lib2.0.21325"
+}

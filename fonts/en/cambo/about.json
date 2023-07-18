@@ -1,0 +1,43 @@
+{
+    "copyright": "Copyright (c) 2011, Carolina Giovagnoli (caro@huertatipografica.com.ar),\rCopyright (c) 2011, Andres Torresi (andres@huertatipografica.com.ar),\rwith Reserved Font Name Cambo.",
+    "description": "",
+    "designer": "Carolina Giovagnoli, Andres Torresi",
+    "designer_url": "http://www.huertatipografica.com.ar",
+    "family": "Cambo",
+    "file_list": [
+        {
+            "file_name": "Cambo-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/cambo",
+    "id": "cambo",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "compatible_full": "Cambo",
+        "copyright_notice": "Copyright (c) 2011, Carolina Giovagnoli (caro@huertatipografica.com.ar),\rCopyright (c) 2011, Andres Torresi (andres@huertatipografica.com.ar),\rwith Reserved Font Name Cambo.",
+        "designer": "Carolina Giovagnoli, Andres Torresi",
+        "designer_url": "http://www.huertatipografica.com.ar",
+        "family_name": "Cambo",
+        "full_name": "Cambo",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Carolina Giovagnoli, Andres Torresi",
+        "postscript_name": "Cambo-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Cambo is a trademark of Carolina Giovagnoli and Andres Torresi",
+        "typographic_family_name": "Cambo",
+        "typographic_subfamily_name": "Regular",
+        "unique_identifier": "CarolinaGiovagnoli,AndresTorresi: Cambo Regular: 2019",
+        "vendor_url": "http://www.huertatipografica.com.ar",
+        "version": "Version 2.001"
+    },
+    "source_url": "",
+    "title": "Cambo",
+    "vendor_url": "http://www.huertatipografica.com.ar",
+    "version": "Version 2.001"
+}

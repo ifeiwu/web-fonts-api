@@ -1,0 +1,59 @@
+{
+    "copyright": "Copyright 2022 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)",
+    "description": "Australian SA School Handwriting (Beginner)",
+    "designer": "Tina and Corey Anderson",
+    "designer_url": "https://github.com/MezMerrit/AU-School-Handwriting-Fonts",
+    "family": "Edu SA Beginner",
+    "file_list": [
+        {
+            "file_name": "EduSABeginner-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "EduSABeginner-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "EduSABeginner-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "EduSABeginner-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "SemiBold",
+            "font_weight_value": "600"
+        }
+    ],
+    "file_path": "fonts/en/edu-sa-beginner",
+    "id": "edu-sa-beginner",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2022 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)",
+        "description": "Australian SA School Handwriting (Beginner)",
+        "designer": "Tina and Corey Anderson",
+        "designer_url": "https://github.com/MezMerrit/AU-School-Handwriting-Fonts",
+        "family_name": "Edu SA Beginner",
+        "full_name": "Edu SA Beginner Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Google for Education",
+        "postscript_name": "EduSABeginner-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "1.003;GOOG;EduSABeginner-Bold",
+        "variations_postscript_name_prefix": "EduSABeginner",
+        "vendor_url": "https://github.com/MezMerrit/AU-School-Handwriting-Fonts",
+        "version": "Version 1.003"
+    },
+    "source_url": "",
+    "title": "Edu SA Beginner",
+    "vendor_url": "https://github.com/MezMerrit/AU-School-Handwriting-Fonts",
+    "version": "Version 1.003"
+}

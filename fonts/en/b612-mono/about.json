@@ -1,0 +1,45 @@
+{
+    "copyright": "Copyright 2012 The B612 Project Authors (https://github.com/polarsys/b612)",
+    "description": "",
+    "designer": "Nicolas Chauveau, Thomas Paillot, Jonathan Favre-Lamarine, Jean-Luc Vinot",
+    "designer_url": "http://intactile.com",
+    "family": "B612 Mono",
+    "file_list": [
+        {
+            "file_name": "B612Mono-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "B612Mono-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/b612-mono",
+    "id": "b612-mono",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2012 The B612 Project Authors (https://github.com/polarsys/b612)",
+        "designer": "Nicolas Chauveau, Thomas Paillot, Jonathan Favre-Lamarine, Jean-Luc Vinot",
+        "designer_url": "http://intactile.com",
+        "family_name": "B612 Mono",
+        "full_name": "B612 Mono Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "AIRBUS",
+        "postscript_name": "B612Mono-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "PolarSys, PolarSys B612 and B612 are trademarks of The Eclipse Foundation",
+        "unique_identifier": "Airbus: B612 Mono Bold: Version1.008",
+        "version": "Version 1.008"
+    },
+    "source_url": "",
+    "title": "B612 Mono",
+    "vendor_url": "",
+    "version": "Version 1.008"
+}

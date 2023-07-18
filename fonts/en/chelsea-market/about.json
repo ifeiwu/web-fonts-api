@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2011 by Font Diner, Inc DBA Tart Workshop (diner@fontdiner.com) with Reseved Font Name \"Chelsea Market\"",
+    "description": "",
+    "designer": "Crystal Kluge",
+    "designer_url": "http://www.tartworkshop.com",
+    "family": "Chelsea Market",
+    "file_list": [
+        {
+            "file_name": "ChelseaMarket-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/chelsea-market",
+    "id": "chelsea-market",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 by Font Diner, Inc DBA Tart Workshop (diner@fontdiner.com) with Reseved Font Name \"Chelsea Market\"",
+        "designer": "Crystal Kluge",
+        "designer_url": "http://www.tartworkshop.com",
+        "family_name": "Chelsea Market",
+        "full_name": "Chelsea Market",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Font Diner, Inc DBA Tart Workshop",
+        "postscript_name": "ChelseaMarket-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Chelsea Market is a trademark of Font Diner, Inc DBA Tart Workshop.",
+        "unique_identifier": "FontDiner,IncDBATartWorkshop: Chelsea Market: 2011",
+        "vendor_url": "http://www.fontbros.com/tartworkshop.php",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Chelsea Market",
+    "vendor_url": "http://www.fontbros.com/tartworkshop.php",
+    "version": "Version 1.001"
+}

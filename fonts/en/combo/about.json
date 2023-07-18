@@ -1,0 +1,42 @@
+{
+    "copyright": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Combo'",
+    "description": "Combo has a simple structure, based on the elliptical arcs and strokes of a flat-tipped marker pen. This display typeface is suitable for use in advertisements, headlines and short texts.",
+    "designer": "Eduardo Rodriguez Tunni",
+    "designer_url": "http://www.tipo.net.ar",
+    "family": "Combo",
+    "file_list": [
+        {
+            "file_name": "Combo-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/combo",
+    "id": "combo",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "compatible_full": "Combo",
+        "copyright_notice": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Combo'",
+        "description": "Combo has a simple structure, based on the elliptical arcs and strokes of a flat-tipped marker pen. This display typeface is suitable for use in advertisements, headlines and short texts.",
+        "designer": "Eduardo Rodriguez Tunni",
+        "designer_url": "http://www.tipo.net.ar",
+        "family_name": "Combo",
+        "full_name": "Combo",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Eduardo Rodriguez Tunni",
+        "postscript_name": "Combo-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Combo is a trademark of Eduardo Rodriguez Tunni.",
+        "unique_identifier": "FontForge : Combo : 23-9-2012",
+        "vendor_url": "http://www.tipo.net.ar",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Combo",
+    "vendor_url": "http://www.tipo.net.ar",
+    "version": "Version 1.001"
+}

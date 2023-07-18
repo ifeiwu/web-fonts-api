@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2010 by Font Diner, Inc DBA Tart Workshop. All rights reserved.",
+    "description": "",
+    "designer": "Crystal Kluge",
+    "designer_url": "http://www.tartworkshop.com",
+    "family": "Crafty Girls",
+    "file_list": [
+        {
+            "file_name": "CraftyGirls-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/crafty-girls",
+    "id": "crafty-girls",
+    "language": "en",
+    "license_description": "Licensed under the Apache License, Version 2.0",
+    "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+    "names": {
+        "copyright_notice": "Copyright (c) 2010 by Font Diner, Inc DBA Tart Workshop. All rights reserved.",
+        "designer": "Crystal Kluge",
+        "designer_url": "http://www.tartworkshop.com",
+        "family_name": "Crafty Girls",
+        "full_name": "Crafty Girls Regular",
+        "license_description": "Licensed under the Apache License, Version 2.0",
+        "license_info_url": "http://www.apache.org/licenses/LICENSE-2.0",
+        "manufacturer_name": "Font Diner, Inc DBA Tart Workshop",
+        "postscript_name": "CraftyGirls-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Crafty Girls is a trademark of Font Diner, Inc DBA Tart Workshop.",
+        "unique_identifier": "1.001;DINR;CraftyGirls-Regular",
+        "vendor_url": "http://www.fontbros.com/tartworkshop.php",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Crafty Girls",
+    "vendor_url": "http://www.fontbros.com/tartworkshop.php",
+    "version": "Version 1.001"
+}

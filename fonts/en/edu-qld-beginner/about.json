@@ -1,0 +1,59 @@
+{
+    "copyright": "Copyright 2022 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)",
+    "description": "Australian QLD School Handwriting (QBeginners)",
+    "designer": "Tina and Corey Anderson",
+    "designer_url": "https://github.com/MezMerrit/AU-School-Handwriting-Fonts",
+    "family": "Edu QLD Beginner",
+    "file_list": [
+        {
+            "file_name": "EduQLDBeginner-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "EduQLDBeginner-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "EduQLDBeginner-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "EduQLDBeginner-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "SemiBold",
+            "font_weight_value": "600"
+        }
+    ],
+    "file_path": "fonts/en/edu-qld-beginner",
+    "id": "edu-qld-beginner",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2022 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)",
+        "description": "Australian QLD School Handwriting (QBeginners)",
+        "designer": "Tina and Corey Anderson",
+        "designer_url": "https://github.com/MezMerrit/AU-School-Handwriting-Fonts",
+        "family_name": "Edu QLD Beginner",
+        "full_name": "Edu QLD Beginner Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Google for Education",
+        "postscript_name": "EduQLDBeginner-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "1.003;GOOG;EduQLDBeginner-Bold",
+        "variations_postscript_name_prefix": "EduQLDBeginner",
+        "vendor_url": "https://github.com/MezMerrit/AU-School-Handwriting-Fonts",
+        "version": "Version 1.003"
+    },
+    "source_url": "",
+    "title": "Edu QLD Beginner",
+    "vendor_url": "https://github.com/MezMerrit/AU-School-Handwriting-Fonts",
+    "version": "Version 1.003"
+}

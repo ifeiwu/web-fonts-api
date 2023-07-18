@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2010 by Jos Nicols Silva Schwarzenberg.<info@nsilva.com> and John Vargas Beltran <http://www.johnvargasbeltran.com/>, with Reserved Font Names \"Convergence\".",
+    "description": "",
+    "designer": "Nicolas Silva and John Vargas",
+    "designer_url": "http://nsilva.com/",
+    "family": "Convergence",
+    "file_list": [
+        {
+            "file_name": "Convergence-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/convergence",
+    "id": "convergence",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2010 by Jos Nicols Silva Schwarzenberg.<info@nsilva.com> and John Vargas Beltran <http://www.johnvargasbeltran.com/>, with Reserved Font Names \"Convergence\".",
+        "designer": "Nicolas Silva and John Vargas",
+        "designer_url": "http://nsilva.com/",
+        "family_name": "Convergence",
+        "full_name": "Convergence-Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Nicolas Silva and Jonh Vargas",
+        "postscript_name": "Convergence-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Convergence is a trademark of Nicolas Silva and John Vargas",
+        "unique_identifier": "NicolasSilvaandJonhVargas: Convergence: 2011",
+        "vendor_url": "http://www.johnvargasbeltran.com/",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Convergence",
+    "vendor_url": "http://www.johnvargasbeltran.com/",
+    "version": "Version 1.002"
+}

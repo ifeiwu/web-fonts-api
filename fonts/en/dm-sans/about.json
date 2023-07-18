@@ -1,0 +1,51 @@
+{
+    "copyright": "Copyright 2014-2017 Indian Type Foundry (info@indiantypefoundry.com) with Reserved Font Name 'Poppins'. Copyright 2019 Google LLC.",
+    "description": "",
+    "designer": "Colophon Foundry, Jonny Pinhorn",
+    "designer_url": "https://www.indiantypefoundry.com",
+    "family": "DM Sans",
+    "file_list": [
+        {
+            "file_name": "DMSans-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "DMSans-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "DMSans-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/dm-sans",
+    "id": "dm-sans",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2014-2017 Indian Type Foundry (info@indiantypefoundry.com) with Reserved Font Name 'Poppins'. Copyright 2019 Google LLC.",
+        "designer": "Colophon Foundry, Jonny Pinhorn",
+        "designer_url": "https://www.indiantypefoundry.com",
+        "family_name": "DM Sans",
+        "full_name": "DM Sans Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Colophon Foundry",
+        "postscript_name": "DMSans-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "1.200;GOOG;DMSans-Bold",
+        "vendor_url": "http://www.colophon-foundry.org",
+        "version": "Version 1.200; ttfautohint (v1.8.3)"
+    },
+    "source_url": "",
+    "title": "DM Sans",
+    "vendor_url": "http://www.colophon-foundry.org",
+    "version": "Version 1.200; ttfautohint (v1.8.3)"
+}

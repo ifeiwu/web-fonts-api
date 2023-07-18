@@ -1,0 +1,39 @@
+{
+    "copyright": "Copyright (c) 2010 by Natalia Raices. All rights reserved.",
+    "description": "Delius is a high quality comic book lettering typeface.",
+    "designer": "Natalia Raices",
+    "designer_url": "",
+    "family": "Delius",
+    "file_list": [
+        {
+            "file_name": "Delius-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/delius",
+    "id": "delius",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2010 by Natalia Raices. All rights reserved.",
+        "description": "Delius is a high quality comic book lettering typeface.",
+        "designer": "Natalia Raices",
+        "family_name": "Delius",
+        "full_name": "Delius-Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Natalia Raices",
+        "postscript_name": "Delius-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Delius is a trademark of Natalia Raices.",
+        "unique_identifier": "NataliaRaices: Delius: 2010",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Delius",
+    "vendor_url": "",
+    "version": "Version 1.001"
+}

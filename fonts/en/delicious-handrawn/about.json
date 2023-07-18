@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright 2022 The Delicious Handrawn Project Authors (https://github.com/alphArtype/Delicious-Handrawn)",
+    "description": "",
+    "designer": "Agung Rohmat",
+    "designer_url": "https://alphartype.com/",
+    "family": "Delicious Handrawn",
+    "file_list": [
+        {
+            "file_name": "DeliciousHandrawn-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/delicious-handrawn",
+    "id": "delicious-handrawn",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2022 The Delicious Handrawn Project Authors (https://github.com/alphArtype/Delicious-Handrawn)",
+        "designer": "Agung Rohmat",
+        "designer_url": "https://alphartype.com/",
+        "family_name": "Delicious Handrawn",
+        "full_name": "Delicious Handrawn Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Agung Rohmat",
+        "postscript_name": "DeliciousHandrawn-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Delicious Handrawn is a trademark of Agung Rohmat.",
+        "unique_identifier": "1.002;NONE;DeliciousHandrawn-Regular",
+        "vendor_url": "https://alphartype.com/",
+        "version": "Version 1.002; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.27]"
+    },
+    "source_url": "",
+    "title": "Delicious Handrawn",
+    "vendor_url": "https://alphartype.com/",
+    "version": "Version 1.002; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.27]"
+}

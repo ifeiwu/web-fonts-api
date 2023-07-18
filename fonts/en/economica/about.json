@@ -1,0 +1,46 @@
+{
+    "copyright": "Copyright (c) 2012, Vicente Lamonaca (produccion.taller@gmail.com www.tipografia-montevideo.info www.tipotype.com)",
+    "description": "",
+    "designer": "Vicente Lamonaca",
+    "designer_url": "www.tipografia-montevideo.info",
+    "family": "Economica",
+    "file_list": [
+        {
+            "file_name": "Economica-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Economica-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/economica",
+    "id": "economica",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2012, Vicente Lamonaca (produccion.taller@gmail.com www.tipografia-montevideo.info www.tipotype.com)",
+        "designer": "Vicente Lamonaca",
+        "designer_url": "www.tipografia-montevideo.info",
+        "family_name": "Economica",
+        "full_name": "Economica Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Vicente Lamonaca",
+        "postscript_name": "Economica-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Economica is a trademark of Vicente Lamonaca.",
+        "unique_identifier": "VicenteLamonaca: Economica Bold: 2012",
+        "vendor_url": "www.tipotype.com",
+        "version": "Version 1.100"
+    },
+    "source_url": "",
+    "title": "Economica",
+    "vendor_url": "www.tipotype.com",
+    "version": "Version 1.100"
+}

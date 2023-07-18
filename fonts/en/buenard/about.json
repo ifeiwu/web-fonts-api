@@ -1,0 +1,43 @@
+{
+    "copyright": "Copyright (c) 2011, FontFuror (info@fontfuror.com), with Reserved Font Names \"Buenard\" and \"Buenard Pro\".",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "Buenard",
+    "file_list": [
+        {
+            "file_name": "Buenard-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Buenard-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/buenard",
+    "id": "buenard",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, FontFuror (info@fontfuror.com), with Reserved Font Names \"Buenard\" and \"Buenard Pro\".",
+        "family_name": "Buenard",
+        "full_name": "Buenard Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "FontFuror",
+        "postscript_name": "Buenard-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Buenard is a trademark of FontFuror",
+        "unique_identifier": "1.002;PYRS;Buenard-Bold",
+        "version": "Version 1.002 2011"
+    },
+    "source_url": "",
+    "title": "Buenard",
+    "vendor_url": "",
+    "version": "Version 1.002 2011"
+}

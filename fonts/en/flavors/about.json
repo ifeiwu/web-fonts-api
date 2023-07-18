@@ -1,0 +1,34 @@
+{
+    "copyright": "Copyright (c) 2011 by Font Diner, Inc DBA Sideshow (diner@fontdiner.com) with Reseved Font Name \"Flavors\"",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "Flavors",
+    "file_list": [
+        {
+            "file_name": "Flavors-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/flavors",
+    "id": "flavors",
+    "language": "en",
+    "license_description": "",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 by Font Diner, Inc DBA Sideshow (diner@fontdiner.com) with Reseved Font Name \"Flavors\"",
+        "family_name": "Flavors",
+        "full_name": "Flavors Regular",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "postscript_name": "Flavors-Regular",
+        "subfamily_name": "Regular",
+        "unique_identifier": "FontDiner,IncDBASideshow: Flavors: 2011",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Flavors",
+    "vendor_url": "",
+    "version": "Version 1.001"
+}

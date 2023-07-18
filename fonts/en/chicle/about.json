@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2007 Angel Koziupa (sudtipos@sudtipos.com),\rCopyright (c) 2007 Alejandro Paul (sudtipos@sudtipos.com),\rwith Reserved Font Name \"Chicle\"",
+    "description": "",
+    "designer": "Angel Koziupa and Alejandro Paul",
+    "designer_url": "http://www.sudtipos.com",
+    "family": "Chicle",
+    "file_list": [
+        {
+            "file_name": "Chicle-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/chicle",
+    "id": "chicle",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2007 Angel Koziupa (sudtipos@sudtipos.com),\rCopyright (c) 2007 Alejandro Paul (sudtipos@sudtipos.com),\rwith Reserved Font Name \"Chicle\"",
+        "designer": "Angel Koziupa and Alejandro Paul",
+        "designer_url": "http://www.sudtipos.com",
+        "family_name": "Chicle",
+        "full_name": "Chicle Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Angel Koziupa and Alejandro Paul",
+        "postscript_name": "Chicle-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Chicle is a trademark of Angel Koziupa and Alejandro Paul.",
+        "unique_identifier": "AngelKoziupaandAlejandroPaul: Chicle Regular: 2007",
+        "vendor_url": "http://www.sudtipos.com",
+        "version": "Version 1.000"
+    },
+    "source_url": "",
+    "title": "Chicle",
+    "vendor_url": "http://www.sudtipos.com",
+    "version": "Version 1.000"
+}

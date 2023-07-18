@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky and Jim Lyles for Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Clicker Script\"",
+    "description": "",
+    "designer": "Astigmatic (AOETI)",
+    "designer_url": "http://www.astigmatic.com/",
+    "family": "Clicker Script",
+    "file_list": [
+        {
+            "file_name": "ClickerScript-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/clicker-script",
+    "id": "clicker-script",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2012 by Brian J. Bonislawsky and Jim Lyles for Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Clicker Script\"",
+        "designer": "Astigmatic (AOETI)",
+        "designer_url": "http://www.astigmatic.com/",
+        "family_name": "Clicker Script",
+        "full_name": "Clicker Script",
+        "license_description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Astigmatic (AOETI)",
+        "postscript_name": "ClickerScript-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Clicker Script is a trademark of Astigmatic (AOETI).",
+        "unique_identifier": "Astigmatic(AOETI): Risque: 2012",
+        "vendor_url": "http://www.astigmatic.com/",
+        "version": "Version 1.000"
+    },
+    "source_url": "",
+    "title": "Clicker Script",
+    "vendor_url": "http://www.astigmatic.com/",
+    "version": "Version 1.000"
+}

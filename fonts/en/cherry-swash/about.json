@@ -1,0 +1,44 @@
+{
+    "copyright": "Copyright (c) 2012, Natalia Kasatkina (kasatkinanataliya@gmail.com)",
+    "description": "",
+    "designer": "Kasatkina Nataliya",
+    "designer_url": "",
+    "family": "Cherry Swash",
+    "file_list": [
+        {
+            "file_name": "CherrySwash-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "CherrySwash-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/cherry-swash",
+    "id": "cherry-swash",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2012, Natalia Kasatkina (kasatkinanataliya@gmail.com)",
+        "designer": "Kasatkina Nataliya",
+        "family_name": "Cherry Swash",
+        "full_name": "Cherry Swash Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Nataliya Kasatkina",
+        "postscript_name": "CherrySwash-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Please refer to the Copyright section for the font trademark attribution notices.",
+        "unique_identifier": "NataliyaKasatkina: Cherry Swash Bold: 2012",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Cherry Swash",
+    "vendor_url": "",
+    "version": "Version 1.001"
+}

@@ -1,0 +1,39 @@
+{
+    "copyright": "Copyright 2012 The Cutive Project Authors (vern@newtypography.co.uk)",
+    "description": "",
+    "designer": "Vernon Adams",
+    "designer_url": "http://www.newtypography.co.uk",
+    "family": "Cutive Mono",
+    "file_list": [
+        {
+            "file_name": "CutiveMono-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/cutive-mono",
+    "id": "cutive-mono",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2012 The Cutive Project Authors (vern@newtypography.co.uk)",
+        "designer": "Vernon Adams",
+        "designer_url": "http://www.newtypography.co.uk",
+        "family_name": "Cutive Mono",
+        "full_name": "Cutive Mono Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Vernon Adams",
+        "postscript_name": "CutiveMono-Regular",
+        "subfamily_name": "Regular",
+        "unique_identifier": "1.100;newt;CutiveMono-Regular",
+        "vendor_url": "http://www.newtypography.co.uk",
+        "version": "Version 1.100"
+    },
+    "source_url": "",
+    "title": "Cutive Mono",
+    "vendor_url": "http://www.newtypography.co.uk",
+    "version": "Version 1.100"
+}

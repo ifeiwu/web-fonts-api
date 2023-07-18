@@ -1,0 +1,46 @@
+{
+    "copyright": "Copyright (c) 2010-2012, Alejandro Inler (alejandroinler@gmail.com), with Reserved Font Name 'Elsie'",
+    "description": "",
+    "designer": "Alejandro Inler",
+    "designer_url": "",
+    "family": "Elsie Swash Caps Black",
+    "file_list": [
+        {
+            "file_name": "ElsieSwashCaps-Black.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Black",
+            "font_weight_value": "900"
+        },
+        {
+            "file_name": "ElsieSwashCaps-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/elsie-swash-caps",
+    "id": "elsie-swash-caps-black",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2010-2012, Alejandro Inler (alejandroinler@gmail.com), with Reserved Font Name 'Elsie'",
+        "designer": "Alejandro Inler",
+        "family_name": "Elsie Swash Caps Black",
+        "full_name": "Elsie Swash Caps Black",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Alejandro Inler",
+        "postscript_name": "ElsieSwashCaps-Black",
+        "subfamily_name": "Regular",
+        "trademark": "Elsie is a trademark of Alejandro Inler.",
+        "typographic_family_name": "Elsie Swash Caps",
+        "typographic_subfamily_name": "Black",
+        "unique_identifier": "1.002;UKWN;ElsieSwashCaps-Black",
+        "version": "1.002"
+    },
+    "source_url": "",
+    "title": "Elsie Swash Caps Black",
+    "vendor_url": "",
+    "version": "1.002"
+}

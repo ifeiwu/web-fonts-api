@@ -1,0 +1,41 @@
+{
+    "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Electrolize\"\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+    "description": "Electrolize is designed by Valery Zaveryaev.\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1. ",
+    "designer": "Valery Zaveryaev",
+    "designer_url": "http://new.myfonts.com/foundry/Gaslight/",
+    "family": "Electrolize",
+    "file_list": [
+        {
+            "file_name": "Electrolize-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/electrolize",
+    "id": "electrolize",
+    "language": "en",
+    "license_description": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Electrolize\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Electrolize\"\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+        "description": "Electrolize is designed by Valery Zaveryaev.\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1. ",
+        "designer": "Valery Zaveryaev",
+        "designer_url": "http://new.myfonts.com/foundry/Gaslight/",
+        "family_name": "Electrolize",
+        "full_name": "Electrolize",
+        "license_description": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Electrolize\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Cyreal (www.cyreal.org)",
+        "postscript_name": "Electrolize-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Electrolize is a trademark of Cyreal (www.cyreal.org).",
+        "unique_identifier": "Cyreal(www.cyreal.org): Electrolize: 2011",
+        "vendor_url": "http://cyreal.org",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Electrolize",
+    "vendor_url": "http://cyreal.org",
+    "version": "Version 1.002"
+}

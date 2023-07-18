@@ -1,0 +1,42 @@
+{
+    "copyright": "Copyright (c) 2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Courgette\".",
+    "description": "Courgette is a medium low contrast brushy italic script type. A brushy italic style is traditionally for display and unsurprisingly Courgette works well in display. However Courgette's low contrast and carefully made forms mean that it also works well in smaller sizes and even in massed text.",
+    "designer": "Karolina Lach",
+    "designer_url": "www.thekarolina.com",
+    "family": "Courgette",
+    "file_list": [
+        {
+            "file_name": "Courgette-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/courgette",
+    "id": "courgette",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "compatible_full": "Courgette Regular",
+        "copyright_notice": "Copyright (c) 2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Courgette\".",
+        "description": "Courgette is a medium low contrast brushy italic script type. A brushy italic style is traditionally for display and unsurprisingly Courgette works well in display. However Courgette's low contrast and carefully made forms mean that it also works well in smaller sizes and even in massed text.",
+        "designer": "Karolina Lach",
+        "designer_url": "www.thekarolina.com",
+        "family_name": "Courgette",
+        "full_name": "Courgette Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Sorkin Type Co.",
+        "postscript_name": "Courgette-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Courgette is a trademark of Sorkin Type Co.",
+        "unique_identifier": "SorkinTypeCo.: Courgette Regular: 2012",
+        "vendor_url": "www.sorkintype.com",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Courgette",
+    "vendor_url": "www.sorkintype.com",
+    "version": "Version 1.002"
+}

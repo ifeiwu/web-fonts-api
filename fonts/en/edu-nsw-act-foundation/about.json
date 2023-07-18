@@ -1,0 +1,59 @@
+{
+    "copyright": "Copyright 2022 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)",
+    "description": "Australian NSW ACT School Handwriting (Foundation)",
+    "designer": "Tina and Corey Anderson",
+    "designer_url": "https://github.com/MezMerrit/AU-School-Handwriting-Fonts",
+    "family": "Edu NSW ACT Foundation",
+    "file_list": [
+        {
+            "file_name": "EduNSWACTFoundation-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "EduNSWACTFoundation-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "EduNSWACTFoundation-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "EduNSWACTFoundation-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "SemiBold",
+            "font_weight_value": "600"
+        }
+    ],
+    "file_path": "fonts/en/edu-nsw-act-foundation",
+    "id": "edu-nsw-act-foundation",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2022 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)",
+        "description": "Australian NSW ACT School Handwriting (Foundation)",
+        "designer": "Tina and Corey Anderson",
+        "designer_url": "https://github.com/MezMerrit/AU-School-Handwriting-Fonts",
+        "family_name": "Edu NSW ACT Foundation",
+        "full_name": "Edu NSW ACT Foundation Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Google for Education",
+        "postscript_name": "EduNSWACTFoundation-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "1.003;GOOG;EduNSWACTFoundation-Bold",
+        "variations_postscript_name_prefix": "EduNSWACTFoundation",
+        "vendor_url": "https://github.com/MezMerrit/AU-School-Handwriting-Fonts",
+        "version": "Version 1.003"
+    },
+    "source_url": "",
+    "title": "Edu NSW ACT Foundation",
+    "vendor_url": "https://github.com/MezMerrit/AU-School-Handwriting-Fonts",
+    "version": "Version 1.003"
+}

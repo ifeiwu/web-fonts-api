@@ -1,0 +1,38 @@
+{
+    "copyright": "Copyright (c) 2011, Johan Kallas (johankallas@gmail.com), Copyright (c) 2011 Mihkel Virkus (mihkelvirkus@gmail.com) with Reserved Font Name Ewert.",
+    "description": "",
+    "designer": "Johan Kallas, Mihkel Virkus",
+    "designer_url": "",
+    "family": "Ewert",
+    "file_list": [
+        {
+            "file_name": "Ewert-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/ewert",
+    "id": "ewert",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, Johan Kallas (johankallas@gmail.com), Copyright (c) 2011 Mihkel Virkus (mihkelvirkus@gmail.com) with Reserved Font Name Ewert.",
+        "designer": "Johan Kallas, Mihkel Virkus",
+        "family_name": "Ewert",
+        "full_name": "Ewert",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Johan Kallas, Mihkel Virkus",
+        "postscript_name": "Ewert-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Ewert is a trademark of Johan Kallas, Mihkel Virkus.",
+        "unique_identifier": "JohanKallas,MihkelVirkus: Ewert: 2012",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Ewert",
+    "vendor_url": "",
+    "version": "Version 1.001"
+}

@@ -1,0 +1,57 @@
+{
+    "copyright": "Copyright 2018 The Farro Project Authors (https://github.com/grayscaleltd/farro)",
+    "description": "",
+    "designer": "Aceler Chua",
+    "designer_url": "http://aclr.co",
+    "family": "Farro",
+    "file_list": [
+        {
+            "file_name": "Farro-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Farro-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "Farro-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "Farro-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/farro",
+    "id": "farro",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2018 The Farro Project Authors (https://github.com/grayscaleltd/farro)",
+        "designer": "Aceler Chua",
+        "designer_url": "http://aclr.co",
+        "family_name": "Farro",
+        "full_name": "Farro Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Grayscale Limited",
+        "postscript_name": "Farro-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "1.101;GS  ;Farro-Bold",
+        "vendor_url": "https://grayscale.com.hk/",
+        "version": "Version 1.101"
+    },
+    "source_url": "",
+    "title": "Farro",
+    "vendor_url": "https://grayscale.com.hk/",
+    "version": "Version 1.101"
+}

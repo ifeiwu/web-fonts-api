@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright 2014 - 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. Copyright 2019 Google LLC.",
+    "description": "",
+    "designer": "Colophon Foundry, Frank Grießhammer",
+    "designer_url": "http://www.adobe.com/type",
+    "family": "DM Serif Text",
+    "file_list": [
+        {
+            "file_name": "DMSerifText-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/dm-serif-text",
+    "id": "dm-serif-text",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2014 - 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. Copyright 2019 Google LLC.",
+        "designer": "Colophon Foundry, Frank Grießhammer",
+        "designer_url": "http://www.adobe.com/type",
+        "family_name": "DM Serif Text",
+        "full_name": "DM Serif Text Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Colophon Foundry",
+        "postscript_name": "DMSerifText-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.",
+        "unique_identifier": "5.200;GOOG;DMSerifText-Regular",
+        "vendor_url": "http://www.colophon-foundry.org",
+        "version": "Version 5.200; ttfautohint (v1.8.3)"
+    },
+    "source_url": "",
+    "title": "DM Serif Text",
+    "vendor_url": "http://www.colophon-foundry.org",
+    "version": "Version 5.200; ttfautohint (v1.8.3)"
+}

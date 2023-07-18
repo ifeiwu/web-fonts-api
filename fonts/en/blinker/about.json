@@ -1,0 +1,84 @@
+{
+    "copyright": "Copyright 2019 the Blinker project authors (https://github.com/supertype-de/Blinker)",
+    "description": "",
+    "designer": "Juergen Huber",
+    "designer_url": "http://supertype.de",
+    "family": "Blinker Black",
+    "file_list": [
+        {
+            "file_name": "Blinker-Black.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Black",
+            "font_weight_value": "900"
+        },
+        {
+            "file_name": "Blinker-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Blinker-ExtraBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraBold",
+            "font_weight_value": "800"
+        },
+        {
+            "file_name": "Blinker-ExtraLight.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraLight",
+            "font_weight_value": "200"
+        },
+        {
+            "file_name": "Blinker-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "Blinker-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "Blinker-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "SemiBold",
+            "font_weight_value": "600"
+        },
+        {
+            "file_name": "Blinker-Thin.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Thin",
+            "font_weight_value": "100"
+        }
+    ],
+    "file_path": "fonts/en/blinker",
+    "id": "blinker-black",
+    "language": "en",
+    "license_description": "SIL Open Font License 1.1",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2019 the Blinker project authors (https://github.com/supertype-de/Blinker)",
+        "designer": "Juergen Huber",
+        "designer_url": "http://supertype.de",
+        "family_name": "Blinker Black",
+        "full_name": "Blinker Black",
+        "license_description": "SIL Open Font License 1.1",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "supertype",
+        "postscript_name": "Blinker-Black",
+        "subfamily_name": "Regular",
+        "trademark": "Blinker is a trademark of supertype",
+        "typographic_family_name": "Blinker",
+        "typographic_subfamily_name": "Black",
+        "unique_identifier": "1.015;spty;Blinker-Black",
+        "vendor_url": "http://supertype.de",
+        "version": "Version 1.015;PS 1.15;hotconv 1.0.88;makeotf.lib2.5.647800"
+    },
+    "source_url": "",
+    "title": "Blinker Black",
+    "vendor_url": "http://supertype.de",
+    "version": "Version 1.015;PS 1.15;hotconv 1.0.88;makeotf.lib2.5.647800"
+}

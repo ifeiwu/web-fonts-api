@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright 2012 The Belleza Project Authors (https://github.com/etunni/belleza)",
+    "description": "",
+    "designer": "Eduardo Rodriguez Tunni",
+    "designer_url": "https://www.tipo.net.ar",
+    "family": "Belleza",
+    "file_list": [
+        {
+            "file_name": "Belleza-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/belleza",
+    "id": "belleza",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2012 The Belleza Project Authors (https://github.com/etunni/belleza)",
+        "designer": "Eduardo Rodriguez Tunni",
+        "designer_url": "https://www.tipo.net.ar",
+        "family_name": "Belleza",
+        "full_name": "Belleza Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Eduardo Rodriguez Tunni",
+        "postscript_name": "Belleza-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Belleza is a trademark of Eduardo Rodriguez Tunni.",
+        "unique_identifier": "1.003;pyrs;Belleza-Regular",
+        "vendor_url": "https://www.tipo.net.ar",
+        "version": "Version 1.003; ttfautohint (v1.8.4.7-5d5b)"
+    },
+    "source_url": "",
+    "title": "Belleza",
+    "vendor_url": "https://www.tipo.net.ar",
+    "version": "Version 1.003; ttfautohint (v1.8.4.7-5d5b)"
+}

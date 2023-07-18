@@ -1,0 +1,34 @@
+{
+    "copyright": "Copyright 2020 The Climate Crisis Project Authors (https://github.com/dancoull/ClimateCrisis)",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "Climate Crisis",
+    "file_list": [
+        {
+            "file_name": "ClimateCrisis-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/climate-crisis",
+    "id": "climate-crisis",
+    "language": "en",
+    "license_description": "",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2020 The Climate Crisis Project Authors (https://github.com/dancoull/ClimateCrisis)",
+        "family_name": "Climate Crisis",
+        "full_name": "Climate Crisis Regular",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "postscript_name": "ClimateCrisis-Regular",
+        "subfamily_name": "Regular",
+        "unique_identifier": "1.003;NONE;ClimateCrisis-Regular",
+        "version": "Version 1.003"
+    },
+    "source_url": "",
+    "title": "Climate Crisis",
+    "vendor_url": "",
+    "version": "Version 1.003"
+}

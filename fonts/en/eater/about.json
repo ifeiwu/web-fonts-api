@@ -1,0 +1,35 @@
+{
+    "copyright": "Copyright (c) 2011, Typomondo, with Reserved Font Name \"Eater\"",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "Eater",
+    "file_list": [
+        {
+            "file_name": "Eater-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/eater",
+    "id": "eater",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, Typomondo, with Reserved Font Name \"Eater\"",
+        "family_name": "Eater",
+        "full_name": "Eater",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "postscript_name": "Eater-Regular",
+        "subfamily_name": "Regular",
+        "unique_identifier": "FontForge 2.0 : Eater : 19-12-2011",
+        "version": "Version 001.002 "
+    },
+    "source_url": "",
+    "title": "Eater",
+    "vendor_url": "",
+    "version": "Version 001.002 "
+}

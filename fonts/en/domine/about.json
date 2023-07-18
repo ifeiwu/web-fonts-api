@@ -1,0 +1,59 @@
+{
+    "copyright": "Copyright 2020 The Domine Project Authors (https://github.com/googlefonts/domine)",
+    "description": "Domine was designed, tested and optimized for body text on the web. It shines at 14 and 16 px. Domine is a perfect choice for newspapers or magazines websites, where text is the main focus.",
+    "designer": "Pablo Impallari, Rodrigo Fuenzalida, Brenda Gallo",
+    "designer_url": "www.impallari.com",
+    "family": "Domine",
+    "file_list": [
+        {
+            "file_name": "Domine-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Domine-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "Domine-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "Domine-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "SemiBold",
+            "font_weight_value": "600"
+        }
+    ],
+    "file_path": "fonts/en/domine",
+    "id": "domine",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2020 The Domine Project Authors (https://github.com/googlefonts/domine)",
+        "description": "Domine was designed, tested and optimized for body text on the web. It shines at 14 and 16 px. Domine is a perfect choice for newspapers or magazines websites, where text is the main focus.",
+        "designer": "Pablo Impallari, Rodrigo Fuenzalida, Brenda Gallo",
+        "designer_url": "www.impallari.com",
+        "family_name": "Domine",
+        "full_name": "Domine Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Pablo Impallari, Rodrigo Fuenzalida, Brenda Gallo",
+        "postscript_name": "Domine-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Domine is a trademark of Pablo Impallari",
+        "unique_identifier": "2.000;pyrs;Domine-Bold",
+        "vendor_url": "www.impallari.com",
+        "version": "Version 2.000"
+    },
+    "source_url": "",
+    "title": "Domine",
+    "vendor_url": "www.impallari.com",
+    "version": "Version 2.000"
+}

@@ -1,0 +1,41 @@
+{
+    "copyright": "Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com), Rodrigo Fuenzalida (www.rfuenzalida.com|hello@rfuenzalida.com) with Reserved Font Name Cantora.",
+    "description": "Cantora ('Singer' in Spanish) is a friendly semi formal, semi condensed, semi sans serif.\rIt has reminiscences of hand lettering, mixing straight and bowed stems, and natural curves.\r\rIt was born as an experiment in drawing from the outside to the inside (drawing the space surrounding the letters first, instead of drawing the letters themselves) in trying to apply the ideas and methods of Michael Harvey and Evert Bloemsma to my own glyphs construction.\r\rAlthough Cantora it's a sans, the lowercase letters have serif proportions.\rIt's perfect for headlines (H1, H2, H3) in sizes larger than 20px.",
+    "designer": "Pablo Impallari, Rodrigo Fuenzalida",
+    "designer_url": "www.impallari.com",
+    "family": "Cantora One",
+    "file_list": [
+        {
+            "file_name": "CantoraOne-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/cantora-one",
+    "id": "cantora-one",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com), Rodrigo Fuenzalida (www.rfuenzalida.com|hello@rfuenzalida.com) with Reserved Font Name Cantora.",
+        "description": "Cantora ('Singer' in Spanish) is a friendly semi formal, semi condensed, semi sans serif.\rIt has reminiscences of hand lettering, mixing straight and bowed stems, and natural curves.\r\rIt was born as an experiment in drawing from the outside to the inside (drawing the space surrounding the letters first, instead of drawing the letters themselves) in trying to apply the ideas and methods of Michael Harvey and Evert Bloemsma to my own glyphs construction.\r\rAlthough Cantora it's a sans, the lowercase letters have serif proportions.\rIt's perfect for headlines (H1, H2, H3) in sizes larger than 20px.",
+        "designer": "Pablo Impallari, Rodrigo Fuenzalida",
+        "designer_url": "www.impallari.com",
+        "family_name": "Cantora One",
+        "full_name": "Cantora One Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Pablo Impallari",
+        "postscript_name": "CantoraOne-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Cantora is a trademark of Pablo Impallari and Rodrigo Fuenzalida",
+        "unique_identifier": "PabloImpallari: CantoraOne: 2012",
+        "vendor_url": "www.impallari.com",
+        "version": "Version 1.002; ttfautohint (v0.8) -G 200 -r 50"
+    },
+    "source_url": "",
+    "title": "Cantora One",
+    "vendor_url": "www.impallari.com",
+    "version": "Version 1.002; ttfautohint (v0.8) -G 200 -r 50"
+}

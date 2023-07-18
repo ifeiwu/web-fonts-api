@@ -1,0 +1,53 @@
+{
+    "copyright": "Copyright 2020 The DM Mono Project Authors (https://www.github.com/googlefonts/dm-mono)",
+    "description": "",
+    "designer": "Colophon Foundry",
+    "designer_url": "https://www.colophon-foundry.org",
+    "family": "DM Mono Light",
+    "file_list": [
+        {
+            "file_name": "DMMono-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "DMMono-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "DMMono-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/dm-mono",
+    "id": "dm-mono-light",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2020 The DM Mono Project Authors (https://www.github.com/googlefonts/dm-mono)",
+        "designer": "Colophon Foundry",
+        "designer_url": "https://www.colophon-foundry.org",
+        "family_name": "DM Mono Light",
+        "full_name": "DM Mono Light",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Colophon Foundry",
+        "postscript_name": "DMMono-Light",
+        "subfamily_name": "Regular",
+        "typographic_family_name": "DM Mono",
+        "typographic_subfamily_name": "Light",
+        "unique_identifier": "1.000;CF;DMMono-Light",
+        "vendor_url": "https://www.colophon-foundry.org",
+        "version": "Version 1.000; ttfautohint (v1.8.2.53-6de2)"
+    },
+    "source_url": "",
+    "title": "DM Mono Light",
+    "vendor_url": "https://www.colophon-foundry.org",
+    "version": "Version 1.000; ttfautohint (v1.8.2.53-6de2)"
+}

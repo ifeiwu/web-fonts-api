@@ -1,0 +1,51 @@
+{
+    "copyright": "Copyright 2014 The Comic Neue Project Authors (https://github.com/crozynski/comicneue)",
+    "description": "",
+    "designer": "Craig Rozynski",
+    "designer_url": "http://www.craigrozynski.com",
+    "family": "Comic Neue",
+    "file_list": [
+        {
+            "file_name": "ComicNeue-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "ComicNeue-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "ComicNeue-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/comic-neue",
+    "id": "comic-neue",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2014 The Comic Neue Project Authors (https://github.com/crozynski/comicneue)",
+        "designer": "Craig Rozynski",
+        "designer_url": "http://www.craigrozynski.com",
+        "family_name": "Comic Neue",
+        "full_name": "Comic Neue Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Craig Rozynski",
+        "postscript_name": "ComicNeue-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "2.003;;Comic Neue Light",
+        "vendor_url": "http://www.comicneue.com",
+        "version": "Version 2.003"
+    },
+    "source_url": "",
+    "title": "Comic Neue",
+    "vendor_url": "http://www.comicneue.com",
+    "version": "Version 2.003"
+}

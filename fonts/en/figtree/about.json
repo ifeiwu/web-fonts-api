@@ -1,0 +1,78 @@
+{
+    "copyright": "Copyright 2022 The Figtree Project Authors (https://github.com/erikdkennedy/figtree)",
+    "description": "",
+    "designer": "Erik Kennedy",
+    "designer_url": "https://erikdkennedy.com/",
+    "family": "Figtree Black",
+    "file_list": [
+        {
+            "file_name": "Figtree-Black.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Black",
+            "font_weight_value": "900"
+        },
+        {
+            "file_name": "Figtree-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Figtree-ExtraBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraBold",
+            "font_weight_value": "800"
+        },
+        {
+            "file_name": "Figtree-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "Figtree-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "Figtree-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "Figtree-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "SemiBold",
+            "font_weight_value": "600"
+        }
+    ],
+    "file_path": "fonts/en/figtree",
+    "id": "figtree-black",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2022 The Figtree Project Authors (https://github.com/erikdkennedy/figtree)",
+        "designer": "Erik Kennedy",
+        "designer_url": "https://erikdkennedy.com/",
+        "family_name": "Figtree Black",
+        "full_name": "Figtree Black",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Erik Kennedy",
+        "postscript_name": "Figtree-Black",
+        "subfamily_name": "Regular",
+        "typographic_family_name": "Figtree",
+        "typographic_subfamily_name": "Black",
+        "unique_identifier": "2.000;NONE;Figtree-Black",
+        "variations_postscript_name_prefix": "Figtree",
+        "vendor_url": "https://erikdkennedy.com/",
+        "version": "Version 2.000"
+    },
+    "source_url": "",
+    "title": "Figtree Black",
+    "vendor_url": "https://erikdkennedy.com/",
+    "version": "Version 2.000"
+}

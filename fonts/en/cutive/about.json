@@ -1,0 +1,38 @@
+{
+    "copyright": "Copyright (c) 2012, vernon adams (vern@newtypography.co.uk), with Reserved Font Names \"Cutive\"",
+    "description": "",
+    "designer": "Vernon Adams",
+    "designer_url": "newtypography.co.uk",
+    "family": "Cutive",
+    "file_list": [
+        {
+            "file_name": "Cutive-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/cutive",
+    "id": "cutive",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "compatible_full": "Cutive",
+        "copyright_notice": "Copyright (c) 2012, vernon adams (vern@newtypography.co.uk), with Reserved Font Names \"Cutive\"",
+        "designer": "Vernon Adams",
+        "designer_url": "newtypography.co.uk",
+        "family_name": "Cutive",
+        "full_name": "Cutive",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "postscript_name": "Cutive-Regular",
+        "subfamily_name": "Regular",
+        "unique_identifier": "1.002;newt;Cutive",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Cutive",
+    "vendor_url": "",
+    "version": "Version 1.002"
+}
