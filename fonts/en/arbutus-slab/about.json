@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2012 by Sorkin Type Co.. All rights reserved.",
+    "description": "",
+    "designer": "Karolina Lach",
+    "designer_url": "www.thekarolina.com",
+    "family": "Arbutus Slab",
+    "file_list": [
+        {
+            "file_name": "ArbutusSlab-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/arbutus-slab",
+    "id": "arbutus-slab",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2012 by Sorkin Type Co.. All rights reserved.",
+        "designer": "Karolina Lach",
+        "designer_url": "www.thekarolina.com",
+        "family_name": "Arbutus Slab",
+        "full_name": "Arbutus Slab Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Karolina Lach",
+        "postscript_name": "ArbutusSlab-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Arbutus Slab is a trademark of Sorkin Type Co..",
+        "unique_identifier": "1.002;UKWN;ArbutusSlab-Regular",
+        "vendor_url": "www.sorkintype.com",
+        "version": "Version 1.002; ttfautohint (v0.92) -l 10 -r 16 -G 200 -x 7 -w \"GD\""
+    },
+    "source_url": "",
+    "title": "Arbutus Slab",
+    "vendor_url": "www.sorkintype.com",
+    "version": "Version 1.002; ttfautohint (v0.92) -l 10 -r 16 -G 200 -x 7 -w \"GD\""
+}

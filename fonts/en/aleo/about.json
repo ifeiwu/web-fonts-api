@@ -1,0 +1,90 @@
+{
+    "copyright": "Copyright 2013 The Aleo Project Authors (https://github.com/AlessioLaiso/aleo)",
+    "description": "",
+    "designer": "Alessio Laiso",
+    "designer_url": "https://alessiolaiso.com/aleo-font",
+    "family": "Aleo Black",
+    "file_list": [
+        {
+            "file_name": "Aleo-Black.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Black",
+            "font_weight_value": "900"
+        },
+        {
+            "file_name": "Aleo-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Aleo-ExtraBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraBold",
+            "font_weight_value": "800"
+        },
+        {
+            "file_name": "Aleo-ExtraLight.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraLight",
+            "font_weight_value": "200"
+        },
+        {
+            "file_name": "Aleo-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "Aleo-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "Aleo-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "Aleo-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "SemiBold",
+            "font_weight_value": "600"
+        },
+        {
+            "file_name": "Aleo-Thin.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Thin",
+            "font_weight_value": "100"
+        }
+    ],
+    "file_path": "fonts/en/aleo",
+    "id": "aleo-black",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2013 The Aleo Project Authors (https://github.com/AlessioLaiso/aleo)",
+        "designer": "Alessio Laiso",
+        "designer_url": "https://alessiolaiso.com/aleo-font",
+        "family_name": "Aleo Black",
+        "full_name": "Aleo Black",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Alessio Laiso",
+        "postscript_name": "Aleo-Black",
+        "subfamily_name": "Regular",
+        "typographic_family_name": "Aleo",
+        "typographic_subfamily_name": "Black",
+        "unique_identifier": "2.001;AL;Aleo-Black",
+        "variations_postscript_name_prefix": "Aleo",
+        "vendor_url": "https://alessiolaiso.com/aleo-font",
+        "version": "Version 2.001;gftools[0.9.29]"
+    },
+    "source_url": "",
+    "title": "Aleo Black",
+    "vendor_url": "https://alessiolaiso.com/aleo-font",
+    "version": "Version 2.001;gftools[0.9.29]"
+}

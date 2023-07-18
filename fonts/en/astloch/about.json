@@ -1,0 +1,39 @@
+{
+    "copyright": "Copyright 2011 The Astloch Project Authors",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "Astloch",
+    "file_list": [
+        {
+            "file_name": "Astloch-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Astloch-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/astloch",
+    "id": "astloch",
+    "language": "en",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "Copyright 2011 The Astloch Project Authors",
+        "family_name": "Astloch",
+        "full_name": "Astloch Bold",
+        "postscript_name": "Astloch-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "1.002;UKWN;Astloch-Bold",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Astloch",
+    "vendor_url": "",
+    "version": "Version 1.002"
+}

@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2012 Grzegorz Klimczewski, Fonty.PL (www.fonty.pl), with Reserved Font Name 'Akronim'",
+    "description": "",
+    "designer": "Grzegorz Klimczewski",
+    "designer_url": "http://www.fonty.pl/",
+    "family": "Akronim",
+    "file_list": [
+        {
+            "file_name": "Akronim-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/akronim",
+    "id": "akronim",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2012 Grzegorz Klimczewski, Fonty.PL (www.fonty.pl), with Reserved Font Name 'Akronim'",
+        "designer": "Grzegorz Klimczewski",
+        "designer_url": "http://www.fonty.pl/",
+        "family_name": "Akronim",
+        "full_name": "Akronim Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Fonty.PL",
+        "postscript_name": "Akronim-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Akronim is a trademark of Fonty.PL.",
+        "unique_identifier": "1.002;UKWN;Akronim-Regular",
+        "vendor_url": "http://www.fonty.pl/",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Akronim",
+    "vendor_url": "http://www.fonty.pl/",
+    "version": "Version 1.002"
+}

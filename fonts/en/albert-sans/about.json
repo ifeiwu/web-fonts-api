@@ -1,0 +1,90 @@
+{
+    "copyright": "Copyright 2021 The Albert Sans Project Authors (https://github.com/usted/Albert-Sans)",
+    "description": "",
+    "designer": "Andreas Rasmussen",
+    "designer_url": "https://www.andreasrasmussen.net",
+    "family": "Albert Sans Black",
+    "file_list": [
+        {
+            "file_name": "AlbertSans-Black.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Black",
+            "font_weight_value": "900"
+        },
+        {
+            "file_name": "AlbertSans-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "AlbertSans-ExtraBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraBold",
+            "font_weight_value": "800"
+        },
+        {
+            "file_name": "AlbertSans-ExtraLight.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraLight",
+            "font_weight_value": "200"
+        },
+        {
+            "file_name": "AlbertSans-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "AlbertSans-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "AlbertSans-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "AlbertSans-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "SemiBold",
+            "font_weight_value": "600"
+        },
+        {
+            "file_name": "AlbertSans-Thin.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Thin",
+            "font_weight_value": "100"
+        }
+    ],
+    "file_path": "fonts/en/albert-sans",
+    "id": "albert-sans-black",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2021 The Albert Sans Project Authors (https://github.com/usted/Albert-Sans)",
+        "designer": "Andreas Rasmussen",
+        "designer_url": "https://www.andreasrasmussen.net",
+        "family_name": "Albert Sans Black",
+        "full_name": "Albert Sans Black",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "a.Foundry",
+        "postscript_name": "AlbertSans-Black",
+        "subfamily_name": "Regular",
+        "typographic_family_name": "Albert Sans",
+        "typographic_subfamily_name": "Black",
+        "unique_identifier": "1.025;AFOU;AlbertSans-Black",
+        "variations_postscript_name_prefix": "AlbertSansRoman",
+        "vendor_url": "https://www.a-foundry.net",
+        "version": "Version 1.025"
+    },
+    "source_url": "",
+    "title": "Albert Sans Black",
+    "vendor_url": "https://www.a-foundry.net",
+    "version": "Version 1.025"
+}

@@ -1,0 +1,46 @@
+{
+    "copyright": "Copyright (c) 2011 by Gesine Todt. All rights reserved.",
+    "description": "",
+    "designer": "Gesine Todt",
+    "designer_url": "http://www.gesine-todt.de",
+    "family": "Amaranth",
+    "file_list": [
+        {
+            "file_name": "Amaranth-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Amaranth-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/amaranth",
+    "id": "amaranth",
+    "language": "en",
+    "license_description": "Copyright (c) 2011 Amaranth by Gesine Todt www.gesine-todt.de. All rights reserved. This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 by Gesine Todt. All rights reserved.",
+        "designer": "Gesine Todt",
+        "designer_url": "http://www.gesine-todt.de",
+        "family_name": "Amaranth",
+        "full_name": "Amaranth Bold",
+        "license_description": "Copyright (c) 2011 Amaranth by Gesine Todt www.gesine-todt.de. All rights reserved. This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Gesine Todt",
+        "postscript_name": "Amaranth-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Amaranth is a trademark of Gesine Todt.",
+        "unique_identifier": "1.001;UKWN;Amaranth-Bold",
+        "vendor_url": "http://www.gesine-todt.de",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Amaranth",
+    "vendor_url": "http://www.gesine-todt.de",
+    "version": "Version 1.001"
+}

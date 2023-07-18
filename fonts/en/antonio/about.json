@@ -1,0 +1,77 @@
+{
+    "copyright": "Copyright 2013 The Antonio Project Authors (https://github.com/googlefonts/antonioFont)",
+    "description": "",
+    "designer": "Vernon Adams",
+    "designer_url": "http://newtypography.co.uk",
+    "family": "Antonio",
+    "file_list": [
+        {
+            "file_name": "Antonio-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Antonio-ExtraLight.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraLight",
+            "font_weight_value": "200"
+        },
+        {
+            "file_name": "Antonio-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "Antonio-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "Antonio-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "Antonio-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "SemiBold",
+            "font_weight_value": "600"
+        },
+        {
+            "file_name": "Antonio-Thin.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Thin",
+            "font_weight_value": "100"
+        }
+    ],
+    "file_path": "fonts/en/antonio",
+    "id": "antonio",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2013 The Antonio Project Authors (https://github.com/googlefonts/antonioFont)",
+        "designer": "Vernon Adams",
+        "designer_url": "http://newtypography.co.uk",
+        "family_name": "Antonio",
+        "full_name": "Antonio Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Vernon Adams",
+        "postscript_name": "Antonio-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Antonio is a trademark of Vernon Adams",
+        "unique_identifier": "1.002;newt;Antonio-Bold",
+        "variations_postscript_name_prefix": "Antonio",
+        "vendor_url": "http://newtypography.co.uk",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Antonio",
+    "vendor_url": "http://newtypography.co.uk",
+    "version": "Version 1.002"
+}

@@ -1,0 +1,45 @@
+{
+    "copyright": "Copyright (c) 2011, Mariela Monsalve (marmonsalve@gmail.com), with Reserved Font Name \"Asul\"",
+    "description": "",
+    "designer": "Mariela Monsalve",
+    "designer_url": "www.mukamonsalve.com.ar",
+    "family": "Asul",
+    "file_list": [
+        {
+            "file_name": "Asul-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Asul-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/asul",
+    "id": "asul",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, Mariela Monsalve (marmonsalve@gmail.com), with Reserved Font Name \"Asul\"",
+        "designer": "Mariela Monsalve",
+        "designer_url": "www.mukamonsalve.com.ar",
+        "family_name": "Asul",
+        "full_name": "Asul Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Mariela Monsalve",
+        "postscript_name": "Asul-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Asul is a trademark of Mariela Monsalve",
+        "unique_identifier": "1.002;UKWN;Asul-Bold",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Asul",
+    "vendor_url": "",
+    "version": "Version 1.002"
+}

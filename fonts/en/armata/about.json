@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2012, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Armata\"\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+    "description": "",
+    "designer": "Viktoriya Grabowska",
+    "designer_url": "www.vikaniesiada.blogspot.com",
+    "family": "Armata",
+    "file_list": [
+        {
+            "file_name": "Armata-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/armata",
+    "id": "armata",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2012, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Armata\"\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+        "designer": "Viktoriya Grabowska",
+        "designer_url": "www.vikaniesiada.blogspot.com",
+        "family_name": "Armata",
+        "full_name": "Armata Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Viktoriya Grabowska",
+        "postscript_name": "Armata-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Armata is a trademark of Sorkin Type Co.",
+        "unique_identifier": "1.003;UKWN;Armata-Regular",
+        "vendor_url": "www.sorkintype.com",
+        "version": "Version 1.003"
+    },
+    "source_url": "",
+    "title": "Armata",
+    "vendor_url": "www.sorkintype.com",
+    "version": "Version 1.003"
+}

@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Autour'",
+    "description": "",
+    "designer": "Eben Sorkin",
+    "designer_url": "www.sorkintype.com",
+    "family": "Autour One",
+    "file_list": [
+        {
+            "file_name": "AutourOne-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/autour-one",
+    "id": "autour-one",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Autour'",
+        "designer": "Eben Sorkin",
+        "designer_url": "www.sorkintype.com",
+        "family_name": "Autour One",
+        "full_name": "Autour One Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Eben Sorkin",
+        "postscript_name": "AutourOne-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Autour is a trademark of Sorkin Type Co.",
+        "unique_identifier": "1.007;UKWN;AutourOne-Regular",
+        "vendor_url": "www.sorkintype.com",
+        "version": "Version 1.007; ttfautohint (v0.92) -l 24 -r 24 -G 200 -x 7 -w \"GD\""
+    },
+    "source_url": "",
+    "title": "Autour One",
+    "vendor_url": "www.sorkintype.com",
+    "version": "Version 1.007; ttfautohint (v0.92) -l 24 -r 24 -G 200 -x 7 -w \"GD\""
+}

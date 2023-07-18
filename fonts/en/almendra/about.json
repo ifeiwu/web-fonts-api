@@ -1,0 +1,45 @@
+{
+    "copyright": "Copyright (c) 2011-2012, Ana Sanfelippo (anasanfe@gmail.com), with Reserved Font Name 'Almendra'",
+    "description": "",
+    "designer": "Ana Sanfelippo",
+    "designer_url": "www.anasanfelippo.com.ar",
+    "family": "Almendra",
+    "file_list": [
+        {
+            "file_name": "Almendra-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Almendra-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/almendra",
+    "id": "almendra",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011-2012, Ana Sanfelippo (anasanfe@gmail.com), with Reserved Font Name 'Almendra'",
+        "designer": "Ana Sanfelippo",
+        "designer_url": "www.anasanfelippo.com.ar",
+        "family_name": "Almendra",
+        "full_name": "Almendra Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Ana Sanfelippo",
+        "postscript_name": "Almendra-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Almendra is a trademark of Ana Sanfelippo.",
+        "unique_identifier": "1.004;UKWN;Almendra-Bold",
+        "version": "Version 1.004"
+    },
+    "source_url": "",
+    "title": "Almendra",
+    "vendor_url": "",
+    "version": "Version 1.004"
+}

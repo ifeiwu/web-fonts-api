@@ -1,0 +1,39 @@
+{
+    "copyright": "Copyright (c) 2011 by Ana Sanfelippo (anasanfe@gmail.com). Reserved Font Names \"Almendra\" \"Almendra SC\"",
+    "description": "",
+    "designer": "Ana Sanfelippo",
+    "designer_url": "www.anasanfelippo.com.ar",
+    "family": "Almendra SC",
+    "file_list": [
+        {
+            "file_name": "AlmendraSC-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/almendra-sc",
+    "id": "almendra-sc",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 by Ana Sanfelippo (anasanfe@gmail.com). Reserved Font Names \"Almendra\" \"Almendra SC\"",
+        "designer": "Ana Sanfelippo",
+        "designer_url": "www.anasanfelippo.com.ar",
+        "family_name": "Almendra SC",
+        "full_name": "Almendra SC Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Ana Sanfelippo",
+        "postscript_name": "AlmendraSC-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Almendra is a trademark of Ana Sanfelippo.",
+        "unique_identifier": "1.002;UKWN;AlmendraSC-Regular",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Almendra SC",
+    "vendor_url": "",
+    "version": "Version 1.002"
+}

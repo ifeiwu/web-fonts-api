@@ -1,0 +1,39 @@
+{
+    "copyright": "Copyright (c) 2011, Santiago Orozco (hi@typemade.mx), with Reserved Font Name Antic Didone.",
+    "description": "",
+    "designer": "Santiago Orozco",
+    "designer_url": "www.typemade.mx",
+    "family": "Antic Didone",
+    "file_list": [
+        {
+            "file_name": "AnticDidone-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/antic-didone",
+    "id": "antic-didone",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011, Santiago Orozco (hi@typemade.mx), with Reserved Font Name Antic Didone.",
+        "designer": "Santiago Orozco",
+        "designer_url": "www.typemade.mx",
+        "family_name": "Antic Didone",
+        "full_name": "Antic Didone Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Santiago Orozco",
+        "postscript_name": "AnticDidone-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Antic Didone is a trademark of Santiago Orozco.",
+        "unique_identifier": "2.001;UKWN;AnticDidone-Regular",
+        "version": "Version 2.001"
+    },
+    "source_url": "",
+    "title": "Antic Didone",
+    "vendor_url": "",
+    "version": "Version 2.001"
+}

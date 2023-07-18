@@ -1,0 +1,42 @@
+{
+    "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Amarante\".",
+    "description": "Amarante is a medium contrast condensed type. It uses unconventional Art Nouveau inspired shapes. Amarante is a display face but works surprisingly well in text and headlines too. Amarante supports a very broad range of languages.",
+    "designer": "Karolina Lach",
+    "designer_url": "www.thekarolina.com",
+    "family": "Amarante",
+    "file_list": [
+        {
+            "file_name": "Amarante-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/amarante",
+    "id": "amarante",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "compatible_full": "Amarante Regular",
+        "copyright_notice": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Amarante\".",
+        "description": "Amarante is a medium contrast condensed type. It uses unconventional Art Nouveau inspired shapes. Amarante is a display face but works surprisingly well in text and headlines too. Amarante supports a very broad range of languages.",
+        "designer": "Karolina Lach",
+        "designer_url": "www.thekarolina.com",
+        "family_name": "Amarante",
+        "full_name": "Amarante Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Sorkin Type Co.",
+        "postscript_name": "Amarante-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Amarante is a trademark of Sorkin Type Co.",
+        "unique_identifier": "SorkinTypeCo.: Amarante Regular: 2011",
+        "vendor_url": "www.sorkintype.com",
+        "version": "Version 1.001"
+    },
+    "source_url": "",
+    "title": "Amarante",
+    "vendor_url": "www.sorkintype.com",
+    "version": "Version 1.001"
+}

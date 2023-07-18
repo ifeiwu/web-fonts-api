@@ -1,0 +1,47 @@
+{
+    "copyright": "2011, Dan Sayers (i@iotic.com",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "Averia Libre",
+    "file_list": [
+        {
+            "file_name": "AveriaLibre-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "AveriaLibre-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "AveriaLibre-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/averia-libre",
+    "id": "averia-libre",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "2011, Dan Sayers (i@iotic.com",
+        "family_name": "Averia Libre",
+        "full_name": "Averia Libre Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "postscript_name": "AveriaLibre-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "1.002;UKWN;AveriaLibre-Bold",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Averia Libre",
+    "vendor_url": "",
+    "version": "Version 1.002"
+}

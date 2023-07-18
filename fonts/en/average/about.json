@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright 2012 The Average Project Authors (https://github.com/etunni/average)",
+    "description": "",
+    "designer": "Eduardo Tunni",
+    "designer_url": "https://www.tipo.net.ar",
+    "family": "Average",
+    "file_list": [
+        {
+            "file_name": "Average-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/average",
+    "id": "average",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2012 The Average Project Authors (https://github.com/etunni/average)",
+        "designer": "Eduardo Tunni",
+        "designer_url": "https://www.tipo.net.ar",
+        "family_name": "Average",
+        "full_name": "Average Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Eduardo Rodriguez Tunni",
+        "postscript_name": "Average-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Average is a trademark of Eduardo Rodriguez Tunni.",
+        "unique_identifier": "1.003;pyrs;Average-Regular",
+        "vendor_url": "https://www.tipo.net.ar",
+        "version": "Version 1.003; ttfautohint (v1.8.4.7-5d5b)"
+    },
+    "source_url": "",
+    "title": "Average",
+    "vendor_url": "https://www.tipo.net.ar",
+    "version": "Version 1.003; ttfautohint (v1.8.4.7-5d5b)"
+}

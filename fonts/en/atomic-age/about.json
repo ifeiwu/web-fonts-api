@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2013 - 2016, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Atomic Age'.",
+    "description": "",
+    "designer": "James Grieshaber",
+    "designer_url": "www.typeco.com",
+    "family": "Atomic Age",
+    "file_list": [
+        {
+            "file_name": "AtomicAge-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/atomic-age",
+    "id": "atomic-age",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2013 - 2016, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Atomic Age'.",
+        "designer": "James Grieshaber",
+        "designer_url": "www.typeco.com",
+        "family_name": "Atomic Age",
+        "full_name": "Atomic Age Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "James Grieshaber",
+        "postscript_name": "AtomicAge-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Atomic Age is a trademark of Sorkin Type Co.",
+        "unique_identifier": "1.008;UKWN;AtomicAge-Regular",
+        "vendor_url": "www.sorkintype.com",
+        "version": "Version 1.008; ttfautohint (v1.4.1) -l 6 -r 46 -G 0 -x 0 -H 200 -D latn -f none -m \"\" -w g -X \"\""
+    },
+    "source_url": "",
+    "title": "Atomic Age",
+    "vendor_url": "www.sorkintype.com",
+    "version": "Version 1.008; ttfautohint (v1.4.1) -l 6 -r 46 -G 0 -x 0 -H 200 -D latn -f none -m \"\" -w g -X \"\""
+}

@@ -1,0 +1,39 @@
+{
+    "copyright": "Copyright (c) 2011 by Santiago Orozco(hi@typemade.mx) with reserved name Antic Slab",
+    "description": "",
+    "designer": "Santiago Orozco",
+    "designer_url": "www.typemade.mx",
+    "family": "Antic Slab",
+    "file_list": [
+        {
+            "file_name": "AnticSlab-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/antic-slab",
+    "id": "antic-slab",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2011 by Santiago Orozco(hi@typemade.mx) with reserved name Antic Slab",
+        "designer": "Santiago Orozco",
+        "designer_url": "www.typemade.mx",
+        "family_name": "Antic Slab",
+        "full_name": "Antic Slab Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Santiago Orozco",
+        "postscript_name": "AnticSlab-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Antic Slab is a trademark of Santiago Orozco.",
+        "unique_identifier": "001.002;UKWN;AnticSlab-Regular",
+        "version": "Version 001.002 "
+    },
+    "source_url": "",
+    "title": "Antic Slab",
+    "vendor_url": "",
+    "version": "Version 001.002 "
+}

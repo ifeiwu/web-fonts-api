@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2010 by Anton Koovit.",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "Arvo",
+    "file_list": [
+        {
+            "file_name": "Arvo-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Arvo-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/arvo",
+    "id": "arvo",
+    "language": "en",
+    "license_description": "",
+    "license_url": "http://www.korkork.com/license/arvo/",
+    "names": {
+        "copyright_notice": "Copyright (c) 2010 by Anton Koovit.",
+        "family_name": "Arvo",
+        "full_name": "Arvo Bold",
+        "license_info_url": "http://www.korkork.com/license/arvo/",
+        "postscript_name": "Arvo-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "Arvo beta: 1.006 2010;KORK",
+        "version": "Version 1.006 2010 beta release; ttfautohint (v1.8.2)"
+    },
+    "source_url": "",
+    "title": "Arvo",
+    "vendor_url": "",
+    "version": "Version 1.006 2010 beta release; ttfautohint (v1.8.2)"
+}

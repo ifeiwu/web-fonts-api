@@ -1,0 +1,38 @@
+{
+    "copyright": "Copyright (c) 2009, Matt McInerney <matt@pixelspread.com>\n",
+    "description": "",
+    "designer": "Matt McInerney",
+    "designer_url": "http://pixelspread.com",
+    "family": "Allerta",
+    "file_list": [
+        {
+            "file_name": "Allerta-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/allerta",
+    "id": "allerta",
+    "language": "en",
+    "license_description": "Copyright (c) 2009, Matt McInerney <matt@pixelspread.com> with Reserved Font Name Allerta.",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2009, Matt McInerney <matt@pixelspread.com>\n",
+        "designer": "Matt McInerney",
+        "designer_url": "http://pixelspread.com",
+        "family_name": "Allerta",
+        "full_name": "Allerta Regular",
+        "license_description": "Copyright (c) 2009, Matt McInerney <matt@pixelspread.com> with Reserved Font Name Allerta.",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Matt McInerney",
+        "postscript_name": "Allerta-Regular",
+        "subfamily_name": "Regular",
+        "unique_identifier": "FontForge 2.0 : Allerta Regular : 30-9-2011",
+        "version": "Version 1.0 "
+    },
+    "source_url": "",
+    "title": "Allerta",
+    "vendor_url": "",
+    "version": "Version 1.0 "
+}

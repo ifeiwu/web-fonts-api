@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright 2011 The ABeeZee Project Authors (https://github.com/googlefonts/abeezee) with Reserved Font Name ABeeZee",
+    "description": "",
+    "designer": "Anja Meiners",
+    "designer_url": "https://carrois.com/",
+    "family": "ABeeZee",
+    "file_list": [
+        {
+            "file_name": "ABeeZee-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/abeezee",
+    "id": "abeezee",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2011 The ABeeZee Project Authors (https://github.com/googlefonts/abeezee) with Reserved Font Name ABeeZee",
+        "designer": "Anja Meiners",
+        "designer_url": "https://carrois.com/",
+        "family_name": "ABeeZee",
+        "full_name": "ABeeZee Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Anja Meiners",
+        "postscript_name": "ABeeZee-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "ABeeZee is a trademark of Anja Meiners.",
+        "unique_identifier": "1.003;PYRS;ABeeZee-Regular",
+        "vendor_url": "https://carrois.com/",
+        "version": "Version 1.003; ttfautohint (v1.8.3)"
+    },
+    "source_url": "",
+    "title": "ABeeZee",
+    "vendor_url": "https://carrois.com/",
+    "version": "Version 1.003; ttfautohint (v1.8.3)"
+}

@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Average'",
+    "description": "",
+    "designer": "Eduardo Rodriguez Tunni",
+    "designer_url": "http://www.tipo.net.ar",
+    "family": "Average Sans",
+    "file_list": [
+        {
+            "file_name": "AverageSans-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/average-sans",
+    "id": "average-sans",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Average'",
+        "designer": "Eduardo Rodriguez Tunni",
+        "designer_url": "http://www.tipo.net.ar",
+        "family_name": "Average Sans",
+        "full_name": "Average Sans Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Eduardo Rodriguez Tunni",
+        "postscript_name": "AverageSans-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Average is a trademark of Eduardo Rodriguez Tunni.",
+        "unique_identifier": "1.002;TIPO;AverageSans-Regular",
+        "vendor_url": "http://www.tipo.net.ar",
+        "version": "Version 1.002"
+    },
+    "source_url": "",
+    "title": "Average Sans",
+    "vendor_url": "http://www.tipo.net.ar",
+    "version": "Version 1.002"
+}

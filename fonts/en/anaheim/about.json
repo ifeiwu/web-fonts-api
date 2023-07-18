@@ -1,0 +1,43 @@
+{
+    "copyright": "Copyright (c) 2012, vernon adams (vern@newtypography.co.uk), with Reserved Font Names 'Anaheim'",
+    "description": "",
+    "designer": "vernon adams",
+    "designer_url": "http://code.newtypography.co.uk",
+    "family": "Anaheim",
+    "file_list": [
+        {
+            "file_name": "Anaheim-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/anaheim",
+    "id": "anaheim",
+    "language": "en",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "compatible_full": "Anaheim",
+        "copyright_notice": "Copyright (c) 2012, vernon adams (vern@newtypography.co.uk), with Reserved Font Names 'Anaheim'",
+        "designer": "vernon adams",
+        "designer_url": "http://code.newtypography.co.uk",
+        "family_name": "Anaheim",
+        "full_name": "Anaheim",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "vernon adams",
+        "postscript_name": "Anaheim-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Anaheim is a trademark of vernon adams.",
+        "typographic_family_name": "Anaheim",
+        "typographic_subfamily_name": "Regular",
+        "unique_identifier": "vernon adams : Anaheim Regular : 10-25-2012",
+        "vendor_url": "http://code.newtypography.co.uk",
+        "version": "Version 1.002; ttfautohint (v0.93.5-3d13) -l 8 -r 50 -G 200 -x 16 -w \"gG\" -c"
+    },
+    "source_url": "",
+    "title": "Anaheim",
+    "vendor_url": "http://code.newtypography.co.uk",
+    "version": "Version 1.002; ttfautohint (v0.93.5-3d13) -l 8 -r 50 -G 200 -x 16 -w \"gG\" -c"
+}

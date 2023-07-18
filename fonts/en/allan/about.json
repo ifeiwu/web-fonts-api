@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright (c) 2010-2012, Anton Koovit (anton@korkork.com), with Reserved Font Name 'Allan'",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "Allan",
+    "file_list": [
+        {
+            "file_name": "Allan-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "Allan-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/en/allan",
+    "id": "allan",
+    "language": "en",
+    "license_description": "http://scripts.sil.org/OFL",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "Copyright (c) 2010-2012, Anton Koovit (anton@korkork.com), with Reserved Font Name 'Allan'",
+        "family_name": "Allan",
+        "full_name": "Allan Bold",
+        "license_description": "http://scripts.sil.org/OFL",
+        "postscript_name": "Allan-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "1.005;KORK;Allan-Bold",
+        "version": "Version 1.005"
+    },
+    "source_url": "",
+    "title": "Allan",
+    "vendor_url": "",
+    "version": "Version 1.005"
+}
