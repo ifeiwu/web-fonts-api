@@ -1,0 +1,34 @@
+{
+    "copyright": "(c) 2020 光谷字造创意有限公司",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "KingnamBobohei",
+    "file_list": [
+        {
+            "file_name": "KingnamBobohei-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": 700
+        }
+    ],
+    "file_path": "fonts/zh-cn/荆南波波黑",
+    "id": "kingnambobohei",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "(c) 2020 光谷字造创意有限公司",
+        "family_name": "荆南波波黑",
+        "full_name": "荆南波波黑 Bold",
+        "postscript_name": "-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "trademark of Etrump",
+        "unique_identifier": "荆南波波黑 Bold:Version 1.700",
+        "version": "Version 1.700;March 9, 2023;FontCreator 14.0.0.2899 64-bit"
+    },
+    "source_url": "https://mp.weixin.qq.com/s/xpYgaSMOPfGTpsXxs6P16Q",
+    "title": "荆南波波黑",
+    "vendor_url": "",
+    "version": "Version 1.700;March 9, 2023;FontCreator 14.0.0.2899 64-bit"
+}

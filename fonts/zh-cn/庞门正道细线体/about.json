@@ -1,0 +1,34 @@
+{
+    "copyright": "庞门正道 版权所有 2021",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "PMZDXixian",
+    "file_list": [
+        {
+            "file_name": "PMZDXixian.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/庞门正道细线体",
+    "id": "pmzdxixian",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "庞门正道 版权所有 2021",
+        "family_name": "庞门正道细线体",
+        "full_name": "庞门正道细线体",
+        "postscript_name": "PangMenZhengDao-XiXian",
+        "subfamily_name": "Regular",
+        "trademark": "庞门正道",
+        "unique_identifier": "庞门正道细线体",
+        "version": "Version 5.0"
+    },
+    "source_url": "https://mp.weixin.qq.com/s/rD9WfcVUXblQXG8FF7dqZg",
+    "title": "庞门正道细线体",
+    "vendor_url": "",
+    "version": "Version 5.0"
+}

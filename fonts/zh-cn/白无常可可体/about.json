@@ -1,0 +1,51 @@
+{
+    "copyright": "版权 (c) 2021 属 白无常设计工作室 所有。保留所有权利",
+    "description": "Copyright(c) 2021 www.psc4d.cn. All rights reserved.",
+    "designer": "LBK",
+    "designer_url": "",
+    "family": "BWCKKT",
+    "file_list": [
+        {
+            "file_name": "BWCKKT-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": 700
+        },
+        {
+            "file_name": "BWCKKT-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": 300
+        },
+        {
+            "file_name": "BWCKKT-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/白无常可可体",
+    "id": "bwckkt",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "compatible_full": "BWCKKT",
+        "copyright_notice": "版权 (c) 2021 属 白无常设计工作室 所有。保留所有权利",
+        "description": "Copyright(c) 2021 www.psc4d.cn. All rights reserved.",
+        "designer": "LBK",
+        "family_name": "白无常可可体",
+        "full_name": "白无常可可体",
+        "manufacturer_name": "LBK",
+        "postscript_name": "BWCKKT-Bold",
+        "subfamily_name": "粗体",
+        "trademark": "By www.psc4d.cn     ",
+        "typographic_subfamily_name": "粗体",
+        "unique_identifier": "1.000;www.psc4d.cn BWCKKT",
+        "version": "Version 1.00 0701,2021,initial relrase"
+    },
+    "source_url": "",
+    "title": "白无常可可体",
+    "vendor_url": "",
+    "version": "Version 1.00 0701,2021,initial relrase"
+}

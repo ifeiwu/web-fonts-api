@@ -1,0 +1,37 @@
+{
+    "copyright": "[Kosugi Maru]\nCopyright",
+    "description": "",
+    "designer": "",
+    "designer_url": "http://www",
+    "family": "MaoKenTan",
+    "file_list": [
+        {
+            "file_name": "MaoKenTan.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/zh-cn/猫啃网糖圆体",
+    "id": "maokentan",
+    "language": "zh-cn",
+    "license_description": "This Font Software is licensed under the SIL Open Font License,Version 1.1.This Font Software is distributed on an \"AS IS\",WITHOUT WARRANTIES OR CONDITIONS OF A",
+    "license_url": "http://script",
+    "names": {
+        "copyright_notice": "[Kosugi Maru]\nCopyright",
+        "designer_url": "http://www",
+        "family_name": "猫啃网糖圆体",
+        "full_name": "猫啃网糖圆",
+        "license_description": "This Font Software is licensed under the SIL Open Font License,Version 1.1.This Font Software is distributed on an \"AS IS\",WITHOUT WARRANTIES OR CONDITIONS OF A",
+        "license_info_url": "http://script",
+        "manufacturer_name": "猫啃网&夜煞",
+        "postscript_name": "MaoKenTan",
+        "subfamily_name": "Reg",
+        "unique_identifier": "0.12beta;MAOK;MaoKenTan",
+        "version": "版本 0.12测试"
+    },
+    "source_url": "",
+    "title": "猫啃网糖圆体",
+    "vendor_url": "",
+    "version": "版本 0.12测试"
+}

@@ -1,0 +1,34 @@
+{
+    "copyright": "FULLY FREE to USE.",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "StarLoveMarker",
+    "file_list": [
+        {
+            "file_name": "StarLoveMarker.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/宅在家麦克笔",
+    "id": "starlovemarker",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "FULLY FREE to USE.",
+        "family_name": "StarLoveMarker",
+        "full_name": "StarLoveMarker",
+        "postscript_name": "StarLoveMarker",
+        "subfamily_name": "Regular",
+        "trademark": "Trademark",
+        "unique_identifier": "FontForge 2.0 : StarLoveMarker : 11-8-2019",
+        "version": "Version 1"
+    },
+    "source_url": "",
+    "title": "宅在家麦克笔",
+    "vendor_url": "",
+    "version": "Version 1"
+}

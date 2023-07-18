@@ -1,0 +1,38 @@
+{
+    "copyright": "Copyright(c) 2021 Maoken.com&Kingnamtype",
+    "description": "荆南字坊授权猫啃网独家首发",
+    "designer": "",
+    "designer_url": "",
+    "family": "KingnamYuanmo",
+    "file_list": [
+        {
+            "file_name": "KingnamYuanmo.otf",
+            "font_style": "normal",
+            "font_weight_name": "Black",
+            "font_weight_value": 900
+        }
+    ],
+    "file_path": "fonts/zh-cn/荆南缘默体",
+    "id": "kingnamyuanmo",
+    "language": "zh-cn",
+    "license_description": "FCFL",
+    "license_url": "http://www.fcfl.net/license.html",
+    "names": {
+        "copyright_notice": "Copyright(c) 2021 Maoken.com&Kingnamtype",
+        "description": "荆南字坊授权猫啃网独家首发",
+        "family_name": "荆南缘默体",
+        "full_name": "荆南缘默体",
+        "license_description": "FCFL",
+        "license_info_url": "http://www.fcfl.net/license.html",
+        "manufacturer_name": "荆南字坊™",
+        "postscript_name": "KNYMT-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "By Kingnamtype&maoken.com. 荆南字坊授权猫啃网友情发布",
+        "unique_identifier": "Kingnamtype:荆南缘默体Regular",
+        "version": "Version 0.71"
+    },
+    "source_url": "https://github.com/maoken-fonts/KNYuanmo",
+    "title": "荆南缘默体",
+    "vendor_url": "",
+    "version": "Version 0.71"
+}

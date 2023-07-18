@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright © 2020 LXGW",
+    "description": "This font was created using FontCreator  from High-Logic.com",
+    "designer": "Copyright © 2020 LXGW",
+    "designer_url": "",
+    "family": "XiaolaiSC",
+    "file_list": [
+        {
+            "file_name": "XiaolaiSC-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/小赖字体",
+    "id": "xiaolaisc",
+    "language": "zh-cn",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright © 2020 LXGW",
+        "description": "This font was created using FontCreator  from High-Logic.com",
+        "designer": "Copyright © 2020 LXGW",
+        "family_name": "小赖字体 SC",
+        "full_name": "小赖字体 SC",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "postscript_cid_findfont_name": "小赖字体 SC",
+        "postscript_name": "小赖字体 SC",
+        "subfamily_name": "Regular",
+        "trademark": "小赖字体 SC",
+        "typographic_family_name": "小赖字体 SC",
+        "unique_identifier": "小赖字体 SC",
+        "version": "Version 3.11;December 4, 2020;FontCreator 13.0.0.2613 64-bit"
+    },
+    "source_url": "https://github.com/lxgw/kose-font",
+    "title": "小赖字体",
+    "vendor_url": "",
+    "version": "Version 3.11;December 4, 2020;FontCreator 13.0.0.2613 64-bit"
+}

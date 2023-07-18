@@ -1,0 +1,58 @@
+{
+    "copyright": "微信公众号-拾陆字",
+    "description": "",
+    "designer": "shiluwords",
+    "designer_url": "",
+    "family": "ShiluwordsLaihu",
+    "file_list": [
+        {
+            "file_name": "ShiluwordsLaihu-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "ShiluwordsLaihu-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "ShiluwordsLaihu-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "ShiluwordsLaihu-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "ShiluwordsLaihu-Thin.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Thin",
+            "font_weight_value": "100"
+        }
+    ],
+    "file_path": "fonts/zh-cn/拾陆字濑户",
+    "id": "shiluwordslaihu",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "微信公众号-拾陆字",
+        "designer": "shiluwords",
+        "family_name": "拾陆字濑户2.0-1",
+        "full_name": "拾陆字濑户2.0-1 Bold",
+        "postscript_name": "2.01-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "拾陆字濑户2.0-1 Bold:Version 2.001",
+        "version": "Version 2.001;October 19, 2020;FontCreator 11.5.0.2422 32-bit"
+    },
+    "source_url": "",
+    "title": "拾陆字濑户",
+    "vendor_url": "",
+    "version": "Version 2.001;October 19, 2020;FontCreator 11.5.0.2422 32-bit"
+}

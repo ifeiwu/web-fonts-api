@@ -1,0 +1,38 @@
+{
+    "copyright": "(c) 2022 阿里巴巴（中国）有限公司，版权所有",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "AlimamaShuhei",
+    "file_list": [
+        {
+            "file_name": "AlimamaShuhei.otf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": 700
+        }
+    ],
+    "file_path": "fonts/zh-cn/阿里妈妈数黑体",
+    "id": "alimamashuhei",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "compatible_full": "阿里妈妈数黑体",
+        "copyright_notice": "(c) 2022 阿里巴巴（中国）有限公司，版权所有",
+        "family_name": "Alimama ShuHeiTi Bold",
+        "full_name": "Alimama ShuHeiTi",
+        "manufacturer_name": "Alibaba Design",
+        "postscript_name": "AlimamaShuHeiTi",
+        "subfamily_name": "Regular",
+        "trademark": "阿里巴巴、Alibaba是阿里巴巴集团在中国及其他国家或地区的商标或注册商标",
+        "typographic_family_name": "阿里妈妈数黑体",
+        "typographic_subfamily_name": "Bold",
+        "unique_identifier": "1.000;UKWN;AlimamaShuHeiTi",
+        "version": "Version 1.000;FEAKit 1.0"
+    },
+    "source_url": "https://fonts.alibabagroup.com/#/more",
+    "title": "阿里妈妈数黑体",
+    "vendor_url": "",
+    "version": "Version 1.000;FEAKit 1.0"
+}

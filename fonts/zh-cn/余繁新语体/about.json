@@ -1,0 +1,54 @@
+{
+    "copyright": "Copyright (c) 2022, YuFan",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "YufanXinyu",
+    "file_list": [
+        {
+            "file_name": "YufanXinyu-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": 700
+        },
+        {
+            "file_name": "YufanXinyu-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": 300
+        },
+        {
+            "file_name": "YufanXinyu-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Semi-bold",
+            "font_weight_value": 600
+        },
+        {
+            "file_name": "YufanXinyu-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": 500
+        }
+    ],
+    "file_path": "fonts/zh-cn/余繁新语体",
+    "id": "yufanxinyu",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "Copyright (c) 2022, YuFan",
+        "family_name": "余繁新语",
+        "full_name": "余繁新语-Bold",
+        "manufacturer_name": "余繁",
+        "postscript_name": "YuFanXinYu-Bold",
+        "subfamily_name": "Bold",
+        "typographic_family_name": "余繁新语",
+        "typographic_subfamily_name": "Bold",
+        "unique_identifier": "FontForge 2.0 : YuFanXinYu-Bold : 19-7-2022",
+        "version": "Version 1.0"
+    },
+    "source_url": "https://github.com/chilingg/yufanxinyu",
+    "title": "余繁新语体",
+    "vendor_url": "",
+    "version": "Version 1.0"
+}

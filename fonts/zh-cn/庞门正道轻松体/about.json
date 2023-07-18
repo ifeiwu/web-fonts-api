@@ -1,0 +1,38 @@
+{
+    "copyright": "(c) Copyright Pangmenzhengdao.",
+    "description": "版权 (c) 2019 属 庞门正道 所有。保留所有权利。",
+    "designer": "庞门正道",
+    "designer_url": "",
+    "family": "PMZDQingsong",
+    "file_list": [
+        {
+            "file_name": "PMZDQingsong.otf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/庞门正道轻松体",
+    "id": "pmzdqingsong",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "compatible_full": "Pangmenzhengdaoqingsongti",
+        "copyright_notice": "(c) Copyright Pangmenzhengdao.",
+        "description": "版权 (c) 2019 属 庞门正道 所有。保留所有权利。",
+        "designer": "庞门正道",
+        "family_name": "庞门正道轻松体",
+        "full_name": "庞门正道轻松体",
+        "manufacturer_name": "庞门正道",
+        "postscript_name": "Pangmenzhengdaoqingsongti",
+        "subfamily_name": "<字体子系未定义>",
+        "trademark": "Trademark of Pangmenzhengdao",
+        "unique_identifier": "Pangmenzhengdaoqingsongti:Version 1.00",
+        "version": "Version 1.00 November 29, 2019, initial release"
+    },
+    "source_url": "https://www.maoken.com/freefonts/1123.html",
+    "title": "庞门正道轻松体",
+    "vendor_url": "",
+    "version": "Version 1.00 November 29, 2019, initial release"
+}

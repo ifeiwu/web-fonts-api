@@ -1,0 +1,39 @@
+{
+    "copyright": "派對大魔王(PartyBoss) 版權所有",
+    "description": "CEF Fonts CJK是一套完全由滑鼠進行書寫的字型。",
+    "designer": "PartyBoss (派对大魔王)",
+    "designer_url": "https://space.bilibili.com/316576469",
+    "family": "CEFFontsCJK",
+    "file_list": [
+        {
+            "file_name": "CEFFontsCJK-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/快去写作业CJK",
+    "id": "ceffontscjk",
+    "language": "zh-cn",
+    "license_description": "SIL Open Font License V1.1",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "派對大魔王(PartyBoss) 版權所有",
+        "description": "CEF Fonts CJK是一套完全由滑鼠進行書寫的字型。",
+        "designer": "PartyBoss (派对大魔王)",
+        "designer_url": "https://space.bilibili.com/316576469",
+        "family_name": "快去寫作業-CJK 常規",
+        "full_name": "CEF Fonts CJK",
+        "license_description": "SIL Open Font License V1.1",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "postscript_name": "CEF-Fonts-CJK",
+        "sample_text": "下次再會！",
+        "subfamily_name": "Regular",
+        "unique_identifier": "CEF Fonts CJK is keeping update now",
+        "version": "發行版 2.12"
+    },
+    "source_url": "",
+    "title": "快去写作业-CJK",
+    "vendor_url": "",
+    "version": "發行版 2.12"
+}

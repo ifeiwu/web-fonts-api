@@ -1,0 +1,38 @@
+{
+    "copyright": "字体传奇字库已在国家版权局登记保护",
+    "description": "国家版权局登记字体作品",
+    "designer": "字体传奇网-设计师吴金彬设计",
+    "designer_url": "www.ziticq.com",
+    "family": "ZiticqNanan",
+    "file_list": [
+        {
+            "file_name": "ZiticqNanan.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/字体传奇南安体",
+    "id": "ziticqnanan",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "字体传奇字库已在国家版权局登记保护",
+        "description": "国家版权局登记字体作品",
+        "designer": "字体传奇网-设计师吴金彬设计",
+        "designer_url": "www.ziticq.com",
+        "family_name": "字体传奇南安体-免费商用",
+        "full_name": "字体传奇南安体-免费商用",
+        "postscript_name": "ziticqnananti",
+        "subfamily_name": "Regular",
+        "trademark": "字体传奇注册商标",
+        "unique_identifier": "ziticqnananti:Version 1.00",
+        "vendor_url": "www.ziticq.com",
+        "version": "Version 1.00"
+    },
+    "source_url": "",
+    "title": "字体传奇南安体",
+    "vendor_url": "www.ziticq.com",
+    "version": "Version 1.00"
+}

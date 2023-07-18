@@ -1,0 +1,86 @@
+{
+    "copyright": "(c) 2020-2021 阿里巴巴（中国）有限公司，版权所有",
+    "description": "GB18030-2000",
+    "designer": "",
+    "designer_url": "",
+    "family": "AlibabaPuHui",
+    "file_list": [
+        {
+            "file_name": "AlibabaPuHui-Black.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Extra-black",
+            "font_weight_value": 1000
+        },
+        {
+            "file_name": "AlibabaPuHui-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": 700
+        },
+        {
+            "file_name": "AlibabaPuHui-ExtraBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Extra-bold",
+            "font_weight_value": 800
+        },
+        {
+            "file_name": "AlibabaPuHui-Heavy.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Black",
+            "font_weight_value": 900
+        },
+        {
+            "file_name": "AlibabaPuHui-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": 300
+        },
+        {
+            "file_name": "AlibabaPuHui-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": 500
+        },
+        {
+            "file_name": "AlibabaPuHui-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        },
+        {
+            "file_name": "AlibabaPuHui-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Semi-bold",
+            "font_weight_value": 600
+        },
+        {
+            "file_name": "AlibabaPuHui-Thin.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Extra-light",
+            "font_weight_value": 250
+        }
+    ],
+    "file_path": "fonts/zh-cn/阿里巴巴普惠体",
+    "id": "alibabapuhui",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "(c) 2020-2021 阿里巴巴（中国）有限公司，版权所有",
+        "description": "GB18030-2000",
+        "family_name": "阿里巴巴普惠体 2.0 115 Black",
+        "full_name": "阿里巴巴普惠体 2 115 Black",
+        "manufacturer_name": "Alibaba Design；汉仪字库",
+        "postscript_name": "AlibabaPuHuiTi_2_115_Black",
+        "subfamily_name": "Regular",
+        "trademark": "阿里巴巴、Alibaba是阿里巴巴集团在中国及其他国家或地区的商标或注册商标",
+        "typographic_family_name": "阿里巴巴普惠体 2.0",
+        "typographic_subfamily_name": "115 Black",
+        "unique_identifier": "Hanyi Alibaba-PuHuiTi-2-115-Black v2.00",
+        "version": "Version 2.00"
+    },
+    "source_url": "https://done.alibabadesign.com/puhuiti2.0",
+    "title": "阿里巴巴普惠体",
+    "vendor_url": "",
+    "version": "Version 2.00"
+}

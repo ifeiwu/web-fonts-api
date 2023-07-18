@@ -1,0 +1,36 @@
+{
+    "copyright": "2020 © WDZK",
+    "description": "",
+    "designer": "WDZK",
+    "designer_url": "",
+    "family": "WendaoChaohei",
+    "file_list": [
+        {
+            "file_name": "WendaoChaohei.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/文道潮黑体",
+    "id": "wendaochaohei",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "2020 © WDZK",
+        "designer": "WDZK",
+        "family_name": "文道潮黑",
+        "full_name": "文道潮黑",
+        "manufacturer_name": "深圳文道信息科技有限公司",
+        "postscript_name": "文道潮黑",
+        "sample_text": "深圳文道信息科技有限公司",
+        "subfamily_name": "Regular",
+        "unique_identifier": "文道潮黑 常规:Version 1.00",
+        "version": "Version 1.00;August 13, 2020;FontCreator 11.5.0.2422 32-bit"
+    },
+    "source_url": "",
+    "title": "文道潮黑",
+    "vendor_url": "",
+    "version": "Version 1.00;August 13, 2020;FontCreator 11.5.0.2422 32-bit"
+}

@@ -1,0 +1,34 @@
+{
+    "copyright": "Typeface © (your company). 2020. All Rights Reserved",
+    "description": "This font was created using FontCreator  from High-Logic.com",
+    "designer": "",
+    "designer_url": "",
+    "family": "LiuhuanKatangshoushu",
+    "file_list": [
+        {
+            "file_name": "LiuhuanKatangshoushu.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/刘欢卡通手书",
+    "id": "liuhuankatangshoushu",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "Typeface © (your company). 2020. All Rights Reserved",
+        "description": "This font was created using FontCreator  from High-Logic.com",
+        "family_name": "刘欢卡通手书",
+        "full_name": "刘欢卡通手书",
+        "postscript_name": "LiuhuanKatongShoushu",
+        "subfamily_name": "Regular",
+        "unique_identifier": "刘欢卡通手书:Version 2.00",
+        "version": "Version 2.00 October 4, 2022"
+    },
+    "source_url": "https://mp.weixin.qq.com/s/TknweaiZtBuDkOl5ZgcKUg",
+    "title": "刘欢卡通手书",
+    "vendor_url": "",
+    "version": "Version 2.00 October 4, 2022"
+}

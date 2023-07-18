@@ -1,0 +1,41 @@
+{
+    "copyright": "©北京仓耳文字技术有限公司。保留所有权利。",
+    "description": "Chinese font for any system.",
+    "designer": "北京仓耳文字技术有限公司",
+    "designer_url": "rodger.liu@outlook.com",
+    "family": "TsangerXWZ",
+    "file_list": [
+        {
+            "file_name": "TsangerXWZ.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/zh-cn/仓耳小丸子",
+    "id": "tsangerxwz",
+    "language": "zh-cn",
+    "license_description": "无论您以何种方式使用该字体，您必须事先获得北京仓耳文字技术有限公司的正式书面许可。",
+    "license_url": "",
+    "names": {
+        "compatible_full": "TsangerXWZ",
+        "copyright_notice": "©北京仓耳文字技术有限公司。保留所有权利。",
+        "description": "Chinese font for any system.",
+        "designer": "北京仓耳文字技术有限公司",
+        "designer_url": "rodger.liu@outlook.com",
+        "family_name": "仓耳小丸子",
+        "full_name": "仓耳小丸子",
+        "license_description": "无论您以何种方式使用该字体，您必须事先获得北京仓耳文字技术有限公司的正式书面许可。",
+        "manufacturer_name": "北京仓耳文字技术有限公司",
+        "postscript_name": "TsangerXWZ",
+        "subfamily_name": "Regular",
+        "trademark": "TsangerXWZ is a trademark of Beijing Tsanger Character Technology Co., Ltd.",
+        "unique_identifier": "1.000;TSAN;TsangerXWZ;TSANGER",
+        "vendor_url": "rodger.liu@outlook.com",
+        "version": "Version 1.000;PS 1.001;hotconv 1.0.88;makeotf.lib2.5.647800"
+    },
+    "source_url": "",
+    "title": "仓耳小丸子",
+    "vendor_url": "rodger.liu@outlook.com",
+    "version": "Version 1.000;PS 1.001;hotconv 1.0.88;makeotf.lib2.5.647800"
+}

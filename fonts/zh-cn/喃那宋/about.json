@@ -1,0 +1,40 @@
+{
+    "copyright": "© 2011–2022 The Vietnamese Nom Preservation Foundation — Nom Na Group. All rights reserved.",
+    "description": "Ngo Trung Viet, To Trong Duc, Le Van Cuong & Luong Thi Hanh.",
+    "designer": "VNPF Nom Na Group",
+    "designer_url": "http://nomfoundation.org/",
+    "family": "NomNaTong",
+    "file_list": [
+        {
+            "file_name": "NomNaTong-Regular.otf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/喃那宋",
+    "id": "nomnatong",
+    "language": "zh-cn",
+    "license_description": "MIT License\r\n\r\n© 2011–2020 The Vietnamese Nom Preservation Foundation • Nom Na Group. All rights reserved.\r\n\r\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\r\n\r\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\r\n\r\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+    "license_url": "https://opensource.org/licenses/MIT",
+    "names": {
+        "copyright_notice": "© 2011–2022 The Vietnamese Nom Preservation Foundation — Nom Na Group. All rights reserved.",
+        "description": "Ngo Trung Viet, To Trong Duc, Le Van Cuong & Luong Thi Hanh.",
+        "designer": "VNPF Nom Na Group",
+        "designer_url": "http://nomfoundation.org/",
+        "family_name": "Nom Na Tong",
+        "full_name": "Nom Na Tong",
+        "license_description": "MIT License\r\n\r\n© 2011–2020 The Vietnamese Nom Preservation Foundation • Nom Na Group. All rights reserved.\r\n\r\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\r\n\r\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\r\n\r\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+        "license_info_url": "https://opensource.org/licenses/MIT",
+        "manufacturer_name": "The Vietnamese Nom Preservation Foundation — Nom Na Group",
+        "postscript_name": "NomNaTong-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Nom Na Tong is a trademark of the The Vietnamese Nom Preservation Foundation.",
+        "unique_identifier": "5.040;CNBO;NomNaTong-Regular",
+        "version": "Version 5.040;hotconv 1.1.0;makeotfexe 2.6.0"
+    },
+    "source_url": "https://github.com/nomfoundation/font",
+    "title": "喃那宋",
+    "vendor_url": "",
+    "version": "Version 5.040;hotconv 1.1.0;makeotfexe 2.6.0"
+}

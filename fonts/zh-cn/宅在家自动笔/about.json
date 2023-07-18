@@ -1,0 +1,34 @@
+{
+    "copyright": "FULLY FREE to USE.",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "StarLovePencil",
+    "file_list": [
+        {
+            "file_name": "StarLovePencil.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/宅在家自动笔",
+    "id": "starlovepencil",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "FULLY FREE to USE.",
+        "family_name": "StarLovePencil",
+        "full_name": "StarLovePencil",
+        "postscript_name": "StarLovePencil",
+        "subfamily_name": "Regular",
+        "trademark": "Trademark",
+        "unique_identifier": "FontForge 2.0 : StarLovePencil : 20-7-2019",
+        "version": "Version 2"
+    },
+    "source_url": "",
+    "title": "宅在家自动笔",
+    "vendor_url": "",
+    "version": "Version 2"
+}

@@ -1,0 +1,39 @@
+{
+    "copyright": "Copyright 2018 The ZCOOL QingKe HuangYou Project Authors (https://www.github.com/googlefonts/zcool-qingke-huangyou)",
+    "description": "",
+    "designer": "Zheng Qingke",
+    "designer_url": "https://www.zcool.com.cn/u/387222",
+    "family": "ZCOOLQingKeHuangYou",
+    "file_list": [
+        {
+            "file_name": "ZCOOLQingKeHuangYou-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/站酷庆科黄油体",
+    "id": "zcoolqingkehuangyou",
+    "language": "zh-cn",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2018 The ZCOOL QingKe HuangYou Project Authors (https://www.github.com/googlefonts/zcool-qingke-huangyou)",
+        "designer": "Zheng Qingke",
+        "designer_url": "https://www.zcool.com.cn/u/387222",
+        "family_name": "站酷庆科黄油体",
+        "full_name": "ZCOOL QingKe HuangYou Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "ZCOOL",
+        "postscript_name": "ZCOOLQingKeHuangYou-Regular",
+        "subfamily_name": "Regular",
+        "unique_identifier": "1.000;WYUE;ZCOOLQingKeHuangYou-Regular",
+        "vendor_url": "http://zcool.com.cn",
+        "version": "Version 1.000"
+    },
+    "source_url": "",
+    "title": "站酷庆科黄油体",
+    "vendor_url": "http://zcool.com.cn",
+    "version": "Version 1.000"
+}

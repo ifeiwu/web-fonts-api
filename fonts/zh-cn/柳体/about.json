@@ -1,0 +1,33 @@
+{
+    "copyright": "Copyright (c) 2006 Hiweed team",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "Liuti",
+    "file_list": [
+        {
+            "file_name": "柳体.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/zh-cn/柳体",
+    "id": "liuti",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "Copyright (c) 2006 Hiweed team",
+        "family_name": "Liu ti",
+        "full_name": "Liu ti",
+        "postscript_name": "Liuti",
+        "subfamily_name": "Medium",
+        "unique_identifier": "FontForge : Liu ti : 1-3-2006",
+        "version": "0.0.1"
+    },
+    "source_url": "",
+    "title": "柳体",
+    "vendor_url": "",
+    "version": "0.0.1"
+}

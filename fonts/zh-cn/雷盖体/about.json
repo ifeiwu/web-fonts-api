@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright 2020 The Reggae Project Authors (https://github.com/fontworks-fonts/Reggae/), all rights reserved.",
+    "description": "",
+    "designer": "Fontworks Inc.",
+    "designer_url": "http://fontworks.co.jp/",
+    "family": "Leigai",
+    "file_list": [
+        {
+            "file_name": "Leigai.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/雷盖体",
+    "id": "leigai",
+    "language": "zh-cn",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2020 The Reggae Project Authors (https://github.com/fontworks-fonts/Reggae/), all rights reserved.",
+        "designer": "Fontworks Inc.",
+        "designer_url": "http://fontworks.co.jp/",
+        "family_name": "雷盖体",
+        "full_name": "雷盖体",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Fontworks Inc.",
+        "postscript_name": "雷盖体",
+        "subfamily_name": "Regular",
+        "trademark": "Reggae is a trademark of Fontworks Inc.",
+        "unique_identifier": "雷盖体",
+        "vendor_url": "http://fontworks.co.jp/",
+        "version": "Version 2.0"
+    },
+    "source_url": "https://www.maoken.com/freefonts/13389.html",
+    "title": "雷盖体",
+    "vendor_url": "http://fontworks.co.jp/",
+    "version": "Version 2.0"
+}

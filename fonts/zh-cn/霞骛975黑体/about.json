@@ -1,0 +1,60 @@
+{
+    "copyright": "",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "Lxgw975GoSC",
+    "file_list": [
+        {
+            "file_name": "Lxgw975GoSC-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "Lxgw975GoSC-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "Lxgw975GoSC-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "Lxgw975GoSC-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "SemiBold",
+            "font_weight_value": "600"
+        },
+        {
+            "file_name": "Lxgw975GoSC-Ultralight.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Ultralight",
+            "font_weight_value": "200"
+        }
+    ],
+    "file_path": "fonts/zh-cn/霞骛975黑体",
+    "id": "lxgw975gosc",
+    "language": "zh-cn",
+    "license_description": "Copyright © 2014 Adobe Systems Incorporated\r\nLicensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.html\r\nUnless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.",
+    "license_url": "http://www.apache.org/licenses/LICENSE-2.0.html",
+    "names": {
+        "family_name": "霞鹜975黑体SC 300W",
+        "full_name": "霞鹜975黑体SC 300W",
+        "license_description": "Copyright © 2014 Adobe Systems Incorporated\r\nLicensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.html\r\nUnless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.",
+        "license_info_url": "http://www.apache.org/licenses/LICENSE-2.0.html",
+        "postscript_name": "LXGW975GothicSC-300W",
+        "subfamily_name": "Regular",
+        "typographic_family_name": "霞鹜975黑体SC",
+        "typographic_subfamily_name": "300W",
+        "unique_identifier": "LXGW 975 Gothic SC 300W:Version 2.01",
+        "version": "Version 2.01;February 25, 2021"
+    },
+    "source_url": "",
+    "title": "霞鹜975黑体",
+    "vendor_url": "",
+    "version": "Version 2.01;February 25, 2021"
+}

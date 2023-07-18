@@ -1,0 +1,35 @@
+{
+    "copyright": "",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "KKWorld",
+    "file_list": [
+        {
+            "file_name": "KKWorld.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/快看世界体",
+    "id": "kkworld",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "compatible_full": "快看世界体",
+        "family_name": "快看世界体",
+        "full_name": "快看世界體 標準",
+        "postscript_name": "kuaikanshijieti",
+        "subfamily_name": "Regular",
+        "typographic_family_name": "快看世界体",
+        "typographic_subfamily_name": "標準",
+        "unique_identifier": "1.001;UKWN;kuaikanshijieti",
+        "version": "Version 1.001"
+    },
+    "source_url": "https://www.kuaikanmanhua.com/webs/fontPromotion",
+    "title": "快看世界体",
+    "vendor_url": "",
+    "version": "Version 1.001"
+}

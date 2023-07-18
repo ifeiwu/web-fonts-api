@@ -1,0 +1,34 @@
+{
+    "copyright": "",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "WoAiWanWeiWeiShouXie",
+    "file_list": [
+        {
+            "file_name": "WoAiWanWeiWeiShouXie.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/我爱万伟伟手写体",
+    "id": "woaiwanweiweishouxie",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "family_name": "WoAiWanWeiWeiShouXieTi",
+        "full_name": "我爱万伟伟手写体",
+        "postscript_name": "WoAiWanWeiWeiShouXieTi-Regular",
+        "subfamily_name": "Regular",
+        "typographic_family_name": "我爱万伟伟手写体",
+        "typographic_subfamily_name": "Regular",
+        "unique_identifier": "1.000;WIEWEI;WoAiWanWeiWeiShouXieTi-Regular",
+        "version": "Version 1.000"
+    },
+    "source_url": "https://www.maoken.com/freefonts/16208.html",
+    "title": "我爱万伟伟手写体",
+    "vendor_url": "",
+    "version": "Version 1.000"
+}

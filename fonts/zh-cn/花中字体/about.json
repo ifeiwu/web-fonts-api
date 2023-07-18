@@ -1,0 +1,34 @@
+{
+    "copyright": "Satsuyako",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "Hanazome",
+    "file_list": [
+        {
+            "file_name": "Hanazome.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/花中字体",
+    "id": "hanazome",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "Satsuyako",
+        "family_name": "はなぞめフォント",
+        "full_name": "はなぞめフォント",
+        "postscript_name": "HanazomeFont",
+        "subfamily_name": "Regular",
+        "trademark": "はなぞめフォント",
+        "unique_identifier": "はなぞめフォント",
+        "version": "Version 2.59"
+    },
+    "source_url": "https://www.asterism-m.com/font/",
+    "title": "花中字体",
+    "vendor_url": "",
+    "version": "Version 2.59"
+}

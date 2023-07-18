@@ -1,0 +1,41 @@
+{
+    "copyright": "Copyright(c) 2022 HanMeiHutong (XiaMen) Technology Co.Ltd. ,All rights reserved.",
+    "description": "AaJianHaoTi is a fantastic font with excellent features designed for user interfaces and electronic communications.",
+    "designer": "Aa",
+    "designer_url": "http://www.zitiguanjia.com",
+    "family": "AaJianhao",
+    "file_list": [
+        {
+            "file_name": "AaJianhao.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/Aa剑豪体",
+    "id": "aajianhao",
+    "language": "zh-cn",
+    "license_description": "Copyright(c) 2022 HanMeiHutong (XiaMen) Technology Co.Ltd..",
+    "license_url": "",
+    "names": {
+        "compatible_full": "AaJianHaoTi",
+        "copyright_notice": "Copyright(c) 2022 HanMeiHutong (XiaMen) Technology Co.Ltd. ,All rights reserved.",
+        "description": "AaJianHaoTi is a fantastic font with excellent features designed for user interfaces and electronic communications.",
+        "designer": "Aa",
+        "designer_url": "http://www.zitiguanjia.com",
+        "family_name": "Aa剑豪体",
+        "full_name": "Aa剑豪体",
+        "license_description": "Copyright(c) 2022 HanMeiHutong (XiaMen) Technology Co.Ltd..",
+        "manufacturer_name": "翰美互通（厦门）科技有限公司",
+        "postscript_name": "AaJianHaoTi",
+        "subfamily_name": "常规",
+        "trademark": "AaJianHaoTi is either a registered trademark or a trademark of HanMeiHuTong Corporation in the Chinese Republic and/or other countries.",
+        "unique_identifier": "1.000;Aa;AaJianHaoTi;2022",
+        "vendor_url": "http://www.zitiguanjia.com",
+        "version": "Version 1.000"
+    },
+    "source_url": "https://mp.weixin.qq.com/s/8AWfAT3tKKfd37ejWmRs7w",
+    "title": "剑豪体",
+    "vendor_url": "http://www.zitiguanjia.com",
+    "version": "Version 1.000"
+}

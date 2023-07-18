@@ -1,0 +1,59 @@
+{
+    "copyright": "Copyright 2017-2023 Judou Metamedia. Portions Copyright 2015-2021 Renzhi Li (aka. Belleve Invis, belleve@typeof.net). Portions Copyright © 2014-2019 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. Portions digitized data copyright 2012–2018 for FiraGO, bBox Type GmbH and HERE Europe B.V. All rights reserved, with Reserved Font Name 'Fira'. Portions digitized data copyright 2012–2018 for Fira Sans The Mozilla Foundation, Telefonica S.A., Carrois Corporate GbR and bBox Type GmbH, with Reserved Font Name 'Fira'. Portions Copyright 2019-2022 Google LLC. All Rights Reserved. Portions Copyright (c) 2022 Kedi Zhang. This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "JudouSansUIHans",
+    "file_list": [
+        {
+            "file_name": "JudouSans-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": 700
+        },
+        {
+            "file_name": "JudouSans-Heavy.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Black",
+            "font_weight_value": 900
+        },
+        {
+            "file_name": "JudouSans-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": 300
+        },
+        {
+            "file_name": "JudouSans-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": 500
+        },
+        {
+            "file_name": "JudouSans-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/句读黑体",
+    "id": "judousansuihans",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "Copyright 2017-2023 Judou Metamedia. Portions Copyright 2015-2021 Renzhi Li (aka. Belleve Invis, belleve@typeof.net). Portions Copyright © 2014-2019 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. Portions digitized data copyright 2012–2018 for FiraGO, bBox Type GmbH and HERE Europe B.V. All rights reserved, with Reserved Font Name 'Fira'. Portions digitized data copyright 2012–2018 for Fira Sans The Mozilla Foundation, Telefonica S.A., Carrois Corporate GbR and bBox Type GmbH, with Reserved Font Name 'Fira'. Portions Copyright 2019-2022 Google LLC. All Rights Reserved. Portions Copyright (c) 2022 Kedi Zhang. This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+        "family_name": "句讀黑體 UI Hans",
+        "full_name": "句讀黑體 UI Hans Bold",
+        "postscript_name": "Judou-Sans-UI-Hans-Bold",
+        "subfamily_name": "Bold",
+        "typographic_family_name": "句讀黑體 UI Hans",
+        "typographic_subfamily_name": "Bold",
+        "unique_identifier": "句讀黑體 UI Hans Bold",
+        "version": "Version 1.26 beta 6"
+    },
+    "source_url": "https://github.com/JudouMetamedia/JudouSans",
+    "title": "句读黑体",
+    "vendor_url": "",
+    "version": "Version 1.26 beta 6"
+}

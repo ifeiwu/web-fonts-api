@@ -1,0 +1,50 @@
+{
+    "copyright": "ItMarki / The Klee Project (https://github.com/ItMarki/jyunsaikaai)",
+    "description": "",
+    "designer": "Fontworks Inc.",
+    "designer_url": "http://fontworks.co.jp/",
+    "family": "JyunsaiKaai",
+    "file_list": [
+        {
+            "file_name": "JyunsaiKaai-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": 700
+        },
+        {
+            "file_name": "JyunsaiKaai-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": 300
+        },
+        {
+            "file_name": "JyunsaiKaai-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/芫茜雅楷",
+    "id": "jyunsaikaai",
+    "language": "zh-cn",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "ItMarki / The Klee Project (https://github.com/ItMarki/jyunsaikaai)",
+        "designer": "Fontworks Inc.",
+        "designer_url": "http://fontworks.co.jp/",
+        "family_name": "芫茜雅楷",
+        "full_name": "芫茜雅楷 Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "postscript_name": "JyunsaiKaai-Bold",
+        "subfamily_name": "Regular",
+        "trademark": "Klee is a trademark of Fontworks Inc.",
+        "unique_identifier": "芫茜雅楷 Bold:Version 0.030",
+        "version": "Version 0.030;March 13, 2023;FontCreator 14.0.0.2814 64-bit"
+    },
+    "source_url": "https://github.com/ItMarki/jyunsaikaai",
+    "title": "芫茜雅楷",
+    "vendor_url": "",
+    "version": "Version 0.030;March 13, 2023;FontCreator 14.0.0.2814 64-bit"
+}

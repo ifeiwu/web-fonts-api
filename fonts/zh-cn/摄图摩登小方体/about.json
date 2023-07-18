@@ -1,0 +1,35 @@
+{
+    "copyright": "上海韩众网络科技有限公司",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "ShetuModengXiaofang",
+    "file_list": [
+        {
+            "file_name": "ShetuModengXiaofang.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/zh-cn/摄图摩登小方体",
+    "id": "shetumodengxiaofang",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "上海韩众网络科技有限公司",
+        "family_name": "摄图摩登小方体",
+        "full_name": "shetumodengxiaofangti",
+        "manufacturer_name": "摄图网",
+        "postscript_name": "shetumodengxiaofangti",
+        "subfamily_name": "Regular",
+        "unique_identifier": "1.000;UKWN;shetumodengxiaofangti",
+        "vendor_url": "http://699pic.com/",
+        "version": "Version 1.000"
+    },
+    "source_url": "",
+    "title": "摄图摩登小方体",
+    "vendor_url": "http://699pic.com/",
+    "version": "Version 1.000"
+}

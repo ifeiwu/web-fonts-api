@@ -1,0 +1,35 @@
+{
+    "copyright": "(c) 2021 荆南字坊 版权所有",
+    "description": "Typotics is a trademark of KingnamType",
+    "designer": "",
+    "designer_url": "",
+    "family": "KingnamMaiyuan",
+    "file_list": [
+        {
+            "file_name": "荆南麦圆体.otf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/荆南麦圆体",
+    "id": "kingnammaiyuan",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "(c) 2021 荆南字坊 版权所有",
+        "description": "Typotics is a trademark of KingnamType",
+        "family_name": "荆南麦圆体",
+        "full_name": "荆南麦圆体",
+        "postscript_name": "KingnamMaiyuan",
+        "subfamily_name": "Regular",
+        "trademark": "By Kingnamtype. 荆南字坊",
+        "unique_identifier": "Kingnam Maiyuan:Version 1.30",
+        "version": "1.200"
+    },
+    "source_url": "https://github.com/maoken-fonts/KNMaiyuan",
+    "title": "荆南麦圆体",
+    "vendor_url": "",
+    "version": "1.200"
+}

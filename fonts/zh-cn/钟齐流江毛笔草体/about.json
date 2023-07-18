@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright 2018 The Liu Jian Mao Cao Project Authors (https://www.github.com/googlefonts/liujianmaocao)",
+    "description": "",
+    "designer": "Liu Zhengjiang, Kimberly Geswein, ZhongQi",
+    "designer_url": "http://www.zhongqifont.com/",
+    "family": "LiuJianMaoCao",
+    "file_list": [
+        {
+            "file_name": "LiuJianMaoCao-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/钟齐流江毛笔草体",
+    "id": "liujianmaocao",
+    "language": "zh-cn",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2018 The Liu Jian Mao Cao Project Authors (https://www.github.com/googlefonts/liujianmaocao)",
+        "designer": "Liu Zhengjiang, Kimberly Geswein, ZhongQi",
+        "designer_url": "http://www.zhongqifont.com/",
+        "family_name": "钟齐流江毛笔草体",
+        "full_name": "Liu Jian Mao Cao Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "ZhongQi",
+        "postscript_name": "LiuJianMaoCao-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "ZhongQi Font Software 13774423414",
+        "unique_identifier": "1.003;BDFZ;LiuJianMaoCao-Regular",
+        "vendor_url": "http://www.zhongqifont.com/",
+        "version": "Version 1.003"
+    },
+    "source_url": "",
+    "title": "钟齐流江毛笔草体",
+    "vendor_url": "http://www.zhongqifont.com/",
+    "version": "Version 1.003"
+}

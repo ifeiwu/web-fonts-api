@@ -1,0 +1,37 @@
+{
+    "copyright": "Copyright © 2020 by keynoteart x mengxiangyuan x QiuyePPT. All rights reserved.",
+    "description": "",
+    "designer": "人生哥 × 孟祥媛",
+    "designer_url": "",
+    "family": "SlideYouran",
+    "file_list": [
+        {
+            "file_name": "SlideYouran-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/zh-cn/演示悠然小楷",
+    "id": "slideyouran",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "Copyright © 2020 by keynoteart x mengxiangyuan x QiuyePPT. All rights reserved.",
+        "designer": "人生哥 × 孟祥媛",
+        "family_name": "slideyouran",
+        "full_name": "slideyouran Regular",
+        "manufacturer_name": "Keynoteart",
+        "postscript_name": "slideyouran-Regular",
+        "subfamily_name": "Regular",
+        "typographic_family_name": "演示悠然小楷",
+        "typographic_subfamily_name": "Regular",
+        "unique_identifier": "2.000;UKWN;slideyouran-Regular",
+        "version": "Version 2.000"
+    },
+    "source_url": "",
+    "title": "演示悠然小楷",
+    "vendor_url": "",
+    "version": "Version 2.000"
+}

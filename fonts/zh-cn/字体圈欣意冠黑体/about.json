@@ -1,0 +1,38 @@
+{
+    "copyright": "Copyright © 2020-2021 by ZouLewei. All rights reserved.",
+    "description": "",
+    "designer": "微信公众号:字体圈",
+    "designer_url": "http://www.zojitype.com/",
+    "family": "FontquanXinYiGuanHei",
+    "file_list": [
+        {
+            "file_name": "FontquanXinYiGuanHei-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/zh-cn/字体圈欣意冠黑体",
+    "id": "fontquanxinyiguanhei",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "Copyright © 2020-2021 by ZouLewei. All rights reserved.",
+        "designer": "微信公众号:字体圈",
+        "designer_url": "http://www.zojitype.com/",
+        "family_name": "字体圈欣意冠黑体",
+        "full_name": "FontquanXinYiGuanHeiTi Regular",
+        "manufacturer_name": "左字字库Zojitype",
+        "postscript_name": "FontquanXinYiGuanHeiTi-Regular",
+        "sample_text": "微信公众号:字体圈\n微博:字体圈Design\n\n使用范畴说明：允许任何个人和企业\n免费使用，包括商用用途。但不得单\n独或者附带地以出售、出租、出借等\n方式向公众发行以获取利益。同时不\n得对本字库软件进行修改、仿制、反\n编译、转换、拆分等行为。\n\n购买授权、下载其他字体\n或了解更多信息，请访问\nhttps://zojitype.com",
+        "subfamily_name": "Regular",
+        "unique_identifier": "4.009;ZLW ;FontquanXinYiGuanHeiTi-Regular",
+        "vendor_url": "http://www.zojitype.com/",
+        "version": "Version 4.009"
+    },
+    "source_url": "",
+    "title": "字体圈欣意冠黑体",
+    "vendor_url": "http://www.zojitype.com/",
+    "version": "Version 4.009"
+}

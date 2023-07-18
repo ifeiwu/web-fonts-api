@@ -1,0 +1,39 @@
+{
+    "copyright": "© 2023 加仑公司，版权所有",
+    "description": "",
+    "designer": "红点子",
+    "designer_url": "",
+    "family": "BangFontWanKu",
+    "file_list": [
+        {
+            "file_name": "ZibangWanku.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/字帮玩酷体",
+    "id": "bangfontwanku",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "© 2023 加仑公司，版权所有",
+        "designer": "红点子",
+        "family_name": "字帮玩酷体",
+        "full_name": "字帮玩酷体-常规",
+        "manufacturer_name": "加仑公司; 字帮",
+        "postscript_cid_findfont_name": "字帮玩酷体",
+        "postscript_name": "BangFont-WanKu-Regular",
+        "subfamily_name": "常规",
+        "trademark": "字帮",
+        "typographic_family_name": "字帮玩酷体",
+        "typographic_subfamily_name": "常规",
+        "unique_identifier": "字帮玩酷体-常规",
+        "version": "1.00"
+    },
+    "source_url": "https://www.zcool.com.cn/work/ZNjM2NjMxNTY=.html",
+    "title": "字帮玩酷体",
+    "vendor_url": "",
+    "version": "1.00"
+}

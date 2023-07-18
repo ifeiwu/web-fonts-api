@@ -1,0 +1,40 @@
+{
+    "copyright": "(C) 2022, Mingda Woo, 版权所有.",
+    "description": "",
+    "designer": "Mingda Woo",
+    "designer_url": "https://mingdawoo.com/me/",
+    "family": "MDMDWuFeng",
+    "file_list": [
+        {
+            "file_name": "MDMDWufeng.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/明达明达无锋体",
+    "id": "mdmdwufeng",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "https://mingdawoo.com/fonts/wu_feng_ti/",
+    "names": {
+        "copyright_notice": "(C) 2022, Mingda Woo, 版权所有.",
+        "designer": "Mingda Woo",
+        "designer_url": "https://mingdawoo.com/me/",
+        "family_name": "明达明达无锋体",
+        "full_name": "明达明达无锋体",
+        "license_info_url": "https://mingdawoo.com/fonts/wu_feng_ti/",
+        "manufacturer_name": "MingdaMingda Fonts",
+        "postscript_name": "MDMD-WuFengTi",
+        "subfamily_name": "Regular",
+        "typographic_family_name": "明达明达无锋体",
+        "typographic_subfamily_name": "Regular",
+        "unique_identifier": "MDMD;MDMD-WuFengTi-Regular;V1.003",
+        "vendor_url": "https://mingdawoo.com/fonts/",
+        "version": "Version 1.003"
+    },
+    "source_url": "https://mingdawoo.com/fonts/wu_feng_ti/intro.html",
+    "title": "明达明达无锋体",
+    "vendor_url": "https://mingdawoo.com/fonts/",
+    "version": "Version 1.003"
+}

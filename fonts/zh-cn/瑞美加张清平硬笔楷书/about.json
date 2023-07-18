@@ -1,0 +1,41 @@
+{
+    "copyright": "瑞美加版权所有",
+    "description": "",
+    "designer": "张清平书写，瑞美加封装",
+    "designer_url": "www.52type.com",
+    "family": "Ramega",
+    "file_list": [
+        {
+            "file_name": "Ramega.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/瑞美加张清平硬笔楷书",
+    "id": "ramega",
+    "language": "zh-cn",
+    "license_description": "www.52type.com",
+    "license_url": "www.52type.com",
+    "names": {
+        "copyright_notice": "瑞美加版权所有",
+        "designer": "张清平书写，瑞美加封装",
+        "designer_url": "www.52type.com",
+        "family_name": "瑞美加张清平硬笔楷书",
+        "full_name": "瑞美加张清平硬笔楷书",
+        "license_description": "www.52type.com",
+        "license_info_url": "www.52type.com",
+        "manufacturer_name": "瑞美加",
+        "subfamily_name": "Regular",
+        "trademark": "瑞美加",
+        "typographic_family_name": "瑞美加张清平硬笔楷书",
+        "typographic_subfamily_name": "瑞美加张清平硬笔楷书",
+        "unique_identifier": "Ramega",
+        "vendor_url": "www.52type.com",
+        "version": "1.0"
+    },
+    "source_url": "https://www.cnprint.org/bbs/thread/165/342208/",
+    "title": "瑞美加张清平硬笔楷书",
+    "vendor_url": "www.52type.com",
+    "version": "1.0"
+}

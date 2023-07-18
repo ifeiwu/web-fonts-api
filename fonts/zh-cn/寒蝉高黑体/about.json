@@ -1,0 +1,30 @@
+{
+    "copyright": "",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "ChillGSans",
+    "file_list": [
+        {
+            "file_name": "ChillGSans.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": 500
+        }
+    ],
+    "file_path": "fonts/zh-cn/寒蝉高黑体",
+    "id": "chillgsans",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "postscript_name": "ChillGSans",
+        "subfamily_name": "Regular",
+        "unique_identifier": "FontForge 2.0 : ChillGSans : 20-3-2023",
+        "version": "Version 1.0"
+    },
+    "source_url": "https://github.com/Warren2060/Chill-G-Sans",
+    "title": "寒蝉高黑体",
+    "vendor_url": "",
+    "version": "Version 1.0"
+}

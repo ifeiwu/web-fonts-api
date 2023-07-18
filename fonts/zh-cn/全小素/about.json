@@ -1,0 +1,48 @@
+{
+    "copyright": "(c) Galmuri8, Chill Bitmap, diaowinner, 2022. OFL",
+    "description": "Shitty CJK font w/o .notdef.",
+    "designer": "diaowinner",
+    "designer_url": "http://diaowinner.itch.io/galmuri-extended",
+    "family": "QuanPixel8px",
+    "file_list": [
+        {
+            "file_name": "QuanPixel8px.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": 500
+        }
+    ],
+    "file_path": "fonts/zh-cn/全小素",
+    "id": "quanpixel8px",
+    "language": "zh-cn",
+    "license_description": "OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "compatible_full": "QuanPixel 8px",
+        "copyright_notice": "(c) Galmuri8, Chill Bitmap, diaowinner, 2022. OFL",
+        "description": "Shitty CJK font w/o .notdef.",
+        "designer": "diaowinner",
+        "designer_url": "http://diaowinner.itch.io/galmuri-extended",
+        "family_name": "QuanPixel 8px",
+        "full_name": "QuanPixel 8px",
+        "license_description": "OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "Made with Bits'n'Picas by Kreative Software",
+        "postscript_cid_findfont_name": "QuanPxl",
+        "postscript_name": "QuanPixel8px",
+        "sample_text": "FreAkIng Red Font As a teXt. 令人毛骨悚然的红色字体作为文本。텍스트로 붉은 글꼴을 괴물. 赤いフォントをテキストとして偽造します。",
+        "subfamily_name": "8px",
+        "trademark": "Not a trademark",
+        "typographic_family_name": "QuanPixel 8px",
+        "typographic_subfamily_name": "8px",
+        "unique_identifier": "BitsNPicas: QuanPxl: 2022",
+        "vendor_url": "http://www.kreativekorp.com/software/bitsnpicas/",
+        "version": "Version 1.910",
+        "wws_family_name": "QuanPixel 8px",
+        "wws_subfamily_name": "8px"
+    },
+    "source_url": "https://diaowinner.itch.io/galmuri-extended",
+    "title": "全小素",
+    "vendor_url": "http://www.kreativekorp.com/software/bitsnpicas/",
+    "version": "Version 1.910"
+}

@@ -1,0 +1,34 @@
+{
+    "copyright": "",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "FlowerFangSong",
+    "file_list": [
+        {
+            "file_name": "FlowerFangSong.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/花仿宋",
+    "id": "flowerfangsong",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "family_name": "FlowerFangSong",
+        "full_name": "FlowerFangSong 標準體",
+        "postscript_name": "FlowerFangSong-",
+        "subfamily_name": "Regular",
+        "typographic_family_name": "FlowerFangSong",
+        "typographic_subfamily_name": "標準體",
+        "unique_identifier": "FlowerFangSong 標準體:Version 1.50",
+        "version": "Version 1.50;August 5, 2021;FontCreator 13.0.0.2613 64-bit"
+    },
+    "source_url": "",
+    "title": "花仿宋",
+    "vendor_url": "",
+    "version": "Version 1.50;August 5, 2021;FontCreator 13.0.0.2613 64-bit"
+}

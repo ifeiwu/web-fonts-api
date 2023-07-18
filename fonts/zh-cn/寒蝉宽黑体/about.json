@@ -1,0 +1,39 @@
+{
+    "copyright": "Glow Sans (c) 2020 Project Welai. Source Han Sans (c) 2014-2019 Adobe (http://www.adobe.com/). Copyright 2011 The Montserrat Project Authors. ",
+    "description": "",
+    "designer": "Ryoko NISHIZUKA (kana, bopomofo & ideographs);Montserrat by Julieta Ulanovsky; Glow Sans is built by Celestial Phineas.",
+    "designer_url": "",
+    "family": "ChillKSans",
+    "file_list": [
+        {
+            "file_name": "ChillKSans.otf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": 500
+        }
+    ],
+    "file_path": "fonts/zh-cn/寒蝉宽黑体",
+    "id": "chillksans",
+    "language": "zh-cn",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Glow Sans (c) 2020 Project Welai. Source Han Sans (c) 2014-2019 Adobe (http://www.adobe.com/). Copyright 2011 The Montserrat Project Authors. ",
+        "designer": "Ryoko NISHIZUKA (kana, bopomofo & ideographs);Montserrat by Julieta Ulanovsky; Glow Sans is built by Celestial Phineas.",
+        "family_name": "Chill K Sans Medium",
+        "full_name": "Chill K Sans",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "postscript_name": "Chill-K-Sans",
+        "sample_text": "青青园中葵，朝露待日晞。\n阳春布德泽，万物生光辉。\n常恐秋节至，焜黄华叶衰。\n百川东到海，何时复西归？\n少壮不努力，老大徒伤悲！",
+        "subfamily_name": "Bold",
+        "typographic_family_name": "寒蝉宽黑体",
+        "typographic_subfamily_name": "Medium",
+        "unique_identifier": "1.000;;Chill-K-Sans",
+        "version": "Version 1.000;FEAKit 1.0"
+    },
+    "source_url": "https://github.com/Warren2060/Chill-K-Sans",
+    "title": "寒蝉宽黑体",
+    "vendor_url": "",
+    "version": "Version 1.000;FEAKit 1.0"
+}

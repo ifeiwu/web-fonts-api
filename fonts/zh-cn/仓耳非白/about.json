@@ -1,0 +1,64 @@
+{
+    "copyright": "Copyright © Beijing Tsanger Character Technology Co., Ltd.. All rights reserved.",
+    "description": "",
+    "designer": "Beijing Tsanger Character Technology Co., Ltd.",
+    "designer_url": "rodger.liu@outlook.com",
+    "family": "TsangerFeiBai",
+    "file_list": [
+        {
+            "file_name": "TsangerFeiBai-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "TsangerFeiBai-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "TsangerFeiBai-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "TsangerFeiBai-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "TsangerFeiBai-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "SemiBold",
+            "font_weight_value": "600"
+        }
+    ],
+    "file_path": "fonts/zh-cn/仓耳非白",
+    "id": "tsangerfeibai",
+    "language": "zh-cn",
+    "license_description": "无论您以何种方式使用该字体，您必须事先获得北京仓耳文字技术有限公司的正式书面许可。",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "Copyright © Beijing Tsanger Character Technology Co., Ltd.. All rights reserved.",
+        "designer": "Beijing Tsanger Character Technology Co., Ltd.",
+        "designer_url": "rodger.liu@outlook.com",
+        "family_name": "TsangerFeiBai W05",
+        "full_name": "???? W05",
+        "license_description": "无论您以何种方式使用该字体，您必须事先获得北京仓耳文字技术有限公司的正式书面许可。",
+        "manufacturer_name": "Beijing Tsanger Character Technology Co., Ltd.",
+        "postscript_name": "TsangerFeiBai-W05",
+        "subfamily_name": "Regular",
+        "typographic_family_name": "TsangerFeiBai",
+        "typographic_subfamily_name": "W05",
+        "unique_identifier": "1.000;TSAN;TsangerFeiBai-W05",
+        "vendor_url": "rodger.liu@outlook.com",
+        "version": "Version 1.000"
+    },
+    "source_url": "",
+    "title": "仓耳非白",
+    "vendor_url": "rodger.liu@outlook.com",
+    "version": "Version 1.000"
+}

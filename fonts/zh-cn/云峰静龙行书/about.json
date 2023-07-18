@@ -1,0 +1,43 @@
+{
+    "copyright": "云峰字库",
+    "description": "云峰字库",
+    "designer": "云峰字库",
+    "designer_url": "云峰字库",
+    "family": "YunfengJinglongxingshu",
+    "file_list": [
+        {
+            "file_name": "YunfengJinglongxingshu.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/云峰静龙行书",
+    "id": "yunfengjinglongxingshu",
+    "language": "zh-cn",
+    "license_description": "云峰字库",
+    "license_url": "云峰字库",
+    "names": {
+        "copyright_notice": "云峰字库",
+        "description": "云峰字库",
+        "designer": "云峰字库",
+        "designer_url": "云峰字库",
+        "family_name": "云峰静龙行书 常规",
+        "full_name": "云峰静龙行书 常规",
+        "license_description": "云峰字库",
+        "license_info_url": "云峰字库",
+        "manufacturer_name": "云峰字库",
+        "postscript_name": "YUNFENGJINGLONGXINGSHU-",
+        "subfamily_name": "Regular",
+        "trademark": "云峰字库",
+        "typographic_family_name": "云峰静龙行书",
+        "typographic_subfamily_name": "常规",
+        "unique_identifier": "云峰静龙行书 常规:Version 1.000",
+        "vendor_url": "云峰字库",
+        "version": "Version 1.000;June 9, 2022;FontCreator 14.0.0.2814 64-bit"
+    },
+    "source_url": "https://www.zcool.com.cn/work/ZNjAyNDI2MjQ=.html#kuak",
+    "title": "云峰静龙行书",
+    "vendor_url": "云峰字库",
+    "version": "Version 1.000;June 9, 2022;FontCreator 14.0.0.2814 64-bit"
+}

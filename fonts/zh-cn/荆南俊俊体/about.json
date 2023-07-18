@@ -1,0 +1,34 @@
+{
+    "copyright": "(c) 2020 武汉光谷字造创意有限公司 版权所有",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "KingnamJunjun",
+    "file_list": [
+        {
+            "file_name": "KingnamJunjun.otf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/荆南俊俊体",
+    "id": "kingnamjunjun",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "(c) 2020 武汉光谷字造创意有限公司 版权所有",
+        "family_name": "荆南俊俊体",
+        "full_name": "荆南俊俊体",
+        "postscript_name": "荆南俊俊体-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "trademark of OType Wuhan",
+        "unique_identifier": "荆南俊俊体 Bold:Version 1.20",
+        "version": "Version 1.20;December 22, 2022;FontCreator 11.0.0.2407 32-bit"
+    },
+    "source_url": "https://www.maoken.com/freefonts/17414.html",
+    "title": "荆南俊俊体",
+    "vendor_url": "",
+    "version": "Version 1.20;December 22, 2022;FontCreator 11.0.0.2407 32-bit"
+}

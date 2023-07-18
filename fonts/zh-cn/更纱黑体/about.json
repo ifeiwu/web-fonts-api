@@ -1,0 +1,59 @@
+{
+    "copyright": "Copyright 2015-2021 Renzhi Li (aka. Belleve Invis, belleve@typeof.net). Portions Copyright © 2014-2019 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. Portions Copyright 2017-2020 Rasmus Andersson. Portions Copyright 2017, 2018 MoneMizuno.",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "SarasaGothicSC",
+    "file_list": [
+        {
+            "file_name": "SarasaGothicSC-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "SarasaGothicSC-ExtraLight.ttf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraLight",
+            "font_weight_value": "200"
+        },
+        {
+            "file_name": "SarasaGothicSC-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "SarasaGothicSC-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "SarasaGothicSC-SemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "SemiBold",
+            "font_weight_value": "600"
+        }
+    ],
+    "file_path": "fonts/zh-cn/更纱黑体",
+    "id": "sarasagothicsc",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "Copyright 2015-2021 Renzhi Li (aka. Belleve Invis, belleve@typeof.net). Portions Copyright © 2014-2019 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. Portions Copyright 2017-2020 Rasmus Andersson. Portions Copyright 2017, 2018 MoneMizuno.",
+        "family_name": "更纱黑体 SC",
+        "full_name": "更纱黑体 SC Bold",
+        "postscript_name": "Sarasa-Gothic-SC-Bold",
+        "subfamily_name": "Bold",
+        "typographic_family_name": "更纱黑体 SC",
+        "typographic_subfamily_name": "Bold",
+        "unique_identifier": "更纱黑体 SC Bold",
+        "version": "Version 0.32.11; ttfautohint (v1.8.3)"
+    },
+    "source_url": "",
+    "title": "更纱黑体",
+    "vendor_url": "",
+    "version": "Version 0.32.11; ttfautohint (v1.8.3)"
+}

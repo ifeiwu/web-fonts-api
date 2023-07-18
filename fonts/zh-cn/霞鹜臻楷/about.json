@@ -1,0 +1,38 @@
+{
+    "copyright": "Copyright 2022 LXGW (https://github.com/lxgw/LxgwZhenKai)\r\nCopyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)",
+    "description": "",
+    "designer": "Fontworks Inc.",
+    "designer_url": "http://fontworks.co.jp/",
+    "family": "LXGWZhenkai",
+    "file_list": [
+        {
+            "file_name": "LXGWZhenkai.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/霞鹜臻楷",
+    "id": "lxgwzhenkai",
+    "language": "zh-cn",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2022 LXGW (https://github.com/lxgw/LxgwZhenKai)\r\nCopyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)",
+        "designer": "Fontworks Inc.",
+        "designer_url": "http://fontworks.co.jp/",
+        "family_name": "霞鹜臻楷",
+        "full_name": "LXGW ZhenKai",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "postscript_name": "LXGWZhenKai",
+        "subfamily_name": "Regular",
+        "trademark": "Klee is a trademark of Fontworks Inc.",
+        "unique_identifier": "LXGW ZhenKai:Version 0.60",
+        "version": "Version 0.60;May 7, 2022"
+    },
+    "source_url": "https://github.com/lxgw/LxgwZhenKai",
+    "title": "霞鹜臻楷",
+    "vendor_url": "",
+    "version": "Version 0.60;May 7, 2022"
+}

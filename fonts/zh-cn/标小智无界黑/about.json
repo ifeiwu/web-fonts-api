@@ -1,0 +1,43 @@
+{
+    "copyright": "版权 2022-2023 无界黑补字计划作者（https://github.com/NightFurySL2001/unbounded-sans）。标小智是上海婷平网络科技有限公司所注册的商标。\n版权 2020 Dela Sans 计划作者（https://github.com/syakuzen/DelaGothic）",
+    "description": "",
+    "designer": "aratakana, 无界黑补字计划小组",
+    "designer_url": "https://github.com/NightFurySL2001/unbounded-sans",
+    "family": "LogoSCUnboundedSans",
+    "file_list": [
+        {
+            "file_name": "LogoSCUnboundedSans.otf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/标小智无界黑",
+    "id": "logoscunboundedsans",
+    "language": "zh-cn",
+    "license_description": "本字型软件以 SIL 开源字型授权（SIL OFL）1.1 版授权。本授权全文及常见问题解答（FAQ）可在 http://scripts.sil.org/OFL 查阅。",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "版权 2022-2023 无界黑补字计划作者（https://github.com/NightFurySL2001/unbounded-sans）。标小智是上海婷平网络科技有限公司所注册的商标。\n版权 2020 Dela Sans 计划作者（https://github.com/syakuzen/DelaGothic）",
+        "designer": "aratakana, 无界黑补字计划小组",
+        "designer_url": "https://github.com/NightFurySL2001/unbounded-sans",
+        "family_name": "标小智无界黑",
+        "full_name": "标小智无界黑 Regular",
+        "license_description": "本字型软件以 SIL 开源字型授权（SIL OFL）1.1 版授权。本授权全文及常见问题解答（FAQ）可在 http://scripts.sil.org/OFL 查阅。",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "标小智",
+        "postscript_name": "LogoSCUnboundedSans-Regular",
+        "sample_text": "字体无界，开源无界",
+        "subfamily_name": "Regular",
+        "trademark": "标小智是上海婷平网络科技有限公司所注册的商标。",
+        "typographic_family_name": "标小智无界黑",
+        "typographic_subfamily_name": "Regular",
+        "unique_identifier": "Version 1.002;20230101;NFSL;LogoSCUnboundedSans-Regular;2022",
+        "vendor_url": "https://www.logosc.cn/",
+        "version": "版本 1.002；20230101"
+    },
+    "source_url": "https://www.maoken.com/freefonts/16766.html",
+    "title": "标小智无界黑",
+    "vendor_url": "https://www.logosc.cn/",
+    "version": "版本 1.002；20230101"
+}

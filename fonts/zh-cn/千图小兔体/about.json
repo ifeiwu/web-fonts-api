@@ -1,0 +1,35 @@
+{
+    "copyright": "上海品图网络科技有限公司",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "QTxiaotu",
+    "file_list": [
+        {
+            "file_name": "QTxiaotu.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/zh-cn/千图小兔体",
+    "id": "qtxiaotu",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "上海品图网络科技有限公司",
+        "family_name": "千图小兔体",
+        "full_name": "QTxiaotu",
+        "manufacturer_name": "千图网",
+        "postscript_name": "QTxiaotu",
+        "subfamily_name": "Regular",
+        "unique_identifier": "1.000;UKWN;QTxiaotu",
+        "vendor_url": "https://www.58pic.com/",
+        "version": "Version 1.000"
+    },
+    "source_url": "",
+    "title": "千图小兔体",
+    "vendor_url": "https://www.58pic.com/",
+    "version": "Version 1.000"
+}

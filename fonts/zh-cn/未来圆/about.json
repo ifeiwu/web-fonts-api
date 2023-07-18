@@ -1,0 +1,64 @@
+{
+    "copyright": "微信公众号-拾陆字",
+    "description": "",
+    "designer": "shiluwords",
+    "designer_url": "",
+    "family": "ShiluwordsWeilaiyuan",
+    "file_list": [
+        {
+            "file_name": "ShiluwordsWeilaiyuan-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "ShiluwordsWeilaiyuan-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "ShiluwordsWeilaiyuan-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "ShiluwordsWeilaiyuan-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "ShiluwordsWeilaiyuan-Thin.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Thin",
+            "font_weight_value": "100"
+        },
+        {
+            "file_name": "ShiluwordsWeilaiyuan-Ultralight.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Ultralight",
+            "font_weight_value": "200"
+        }
+    ],
+    "file_path": "fonts/zh-cn/未来圆",
+    "id": "shiluwordsweilaiyuan",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "微信公众号-拾陆字",
+        "designer": "shiluwords",
+        "family_name": "未来圆SC",
+        "full_name": "未来圆SC Bold",
+        "postscript_name": "SC-Bold",
+        "subfamily_name": "Bold",
+        "unique_identifier": "未来圆SC Bold:Version 1.00",
+        "version": "Version 1.00;September 13, 2020;FontCreator 11.5.0.2422 32-bit"
+    },
+    "source_url": "",
+    "title": "未来圆",
+    "vendor_url": "",
+    "version": "Version 1.00;September 13, 2020;FontCreator 11.5.0.2422 32-bit"
+}

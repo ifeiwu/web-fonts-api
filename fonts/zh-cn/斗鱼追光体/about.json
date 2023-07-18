@@ -1,0 +1,46 @@
+{
+    "copyright": "斗鱼追光体",
+    "description": "DOUYUFont",
+    "designer": "DOUYU",
+    "designer_url": "DOUYUFont",
+    "family": "DOUYUFont",
+    "file_list": [
+        {
+            "file_name": "DOUYUFont.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/斗鱼追光体",
+    "id": "douyufont",
+    "language": "zh-cn",
+    "license_description": "DOUYUFont",
+    "license_url": "DOUYUFont",
+    "names": {
+        "copyright_notice": "斗鱼追光体",
+        "description": "DOUYUFont",
+        "designer": "DOUYU",
+        "designer_url": "DOUYUFont",
+        "family_name": "DOUYUFont2.0",
+        "full_name": "DOUYUFont",
+        "license_description": "DOUYUFont",
+        "license_info_url": "DOUYUFont",
+        "manufacturer_name": "DOUYUFont",
+        "postscript_name": "DOUYUFont",
+        "sample_text": "DOUYUFont",
+        "subfamily_name": "Regular",
+        "trademark": "DOUYUFont",
+        "typographic_family_name": "DOUYU",
+        "typographic_subfamily_name": "常规体",
+        "unique_identifier": "DOUYUFont",
+        "vendor_url": "DOUYUFont",
+        "version": "DOUYUFont",
+        "wws_family_name": "DOUYUFont",
+        "wws_subfamily_name": "DOUYUFont"
+    },
+    "source_url": "",
+    "title": "斗鱼追光体",
+    "vendor_url": "DOUYUFont",
+    "version": "DOUYUFont"
+}

@@ -1,0 +1,90 @@
+{
+    "copyright": "Copyright(c)荣耀终端有限公司Honor Device Co.,Ltd",
+    "description": "For further details please go to: http://www.foundertype.com/",
+    "designer": "北京北大方正电子有限公司",
+    "designer_url": "www.foundertype.com",
+    "family": "HONORSansCN",
+    "file_list": [
+        {
+            "file_name": "HONORSansCN-Bold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": 700
+        },
+        {
+            "file_name": "HONORSansCN-DemiBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Semi-bold",
+            "font_weight_value": 600
+        },
+        {
+            "file_name": "HONORSansCN-ExtraBold.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Extra-bold",
+            "font_weight_value": 800
+        },
+        {
+            "file_name": "HONORSansCN-ExtraLight.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Extra-light",
+            "font_weight_value": 200
+        },
+        {
+            "file_name": "HONORSansCN-Heavy.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Black",
+            "font_weight_value": 900
+        },
+        {
+            "file_name": "HONORSansCN-Light.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": 300
+        },
+        {
+            "file_name": "HONORSansCN-Medium.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": 500
+        },
+        {
+            "file_name": "HONORSansCN-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        },
+        {
+            "file_name": "HONORSansCN-Thin.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Thin",
+            "font_weight_value": 100
+        }
+    ],
+    "file_path": "fonts/zh-cn/荣耀字体",
+    "id": "honorsanscn",
+    "language": "zh-cn",
+    "license_description": "For further details please go to: http://www.foundertype.com/index.php/About/bookAuth/key/my_grfs.html",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "Copyright(c)荣耀终端有限公司Honor Device Co.,Ltd",
+        "description": "For further details please go to: http://www.foundertype.com/",
+        "designer": "北京北大方正电子有限公司",
+        "designer_url": "www.foundertype.com",
+        "family_name": "HONOR Sans CN Bold",
+        "full_name": "HONOR Sans CN Bold",
+        "license_description": "For further details please go to: http://www.foundertype.com/index.php/About/bookAuth/key/my_grfs.html",
+        "manufacturer_name": "北京北大方正电子有限公司",
+        "postscript_name": "HONORSansCN-Bold",
+        "subfamily_name": "Regular",
+        "trademark": "By Beijing Founder Electronics Co.,Ltd. 北京北大方正电子有限公司",
+        "typographic_family_name": "HONOR Sans CN",
+        "typographic_subfamily_name": "Bold",
+        "unique_identifier": "Founder:HONOR Sans CN_Bold",
+        "vendor_url": "www.foundertype.com",
+        "version": "Version 1.02"
+    },
+    "source_url": "https://www.maoken.com/freefonts/17391.html",
+    "title": "荣耀字体",
+    "vendor_url": "www.foundertype.com",
+    "version": "Version 1.02"
+}

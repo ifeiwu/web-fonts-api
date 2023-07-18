@@ -1,0 +1,41 @@
+{
+    "copyright": "Copyright © 2022 Buernia (https://github.com/Buernia).",
+    "description": "",
+    "designer": "奈白不弍",
+    "designer_url": "https://github.com/Buernia",
+    "family": "TiejiliSC",
+    "file_list": [
+        {
+            "file_name": "TiejiliSC-Regular.otf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/铁蒺藜体",
+    "id": "tiejilisc",
+    "language": "zh-cn",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "license_url": "https://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright © 2022 Buernia (https://github.com/Buernia).",
+        "designer": "奈白不弍",
+        "designer_url": "https://github.com/Buernia",
+        "family_name": "Tiejili SC",
+        "full_name": "Tiejili SC Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "license_info_url": "https://scripts.sil.org/OFL",
+        "manufacturer_name": "弍手消息社",
+        "postscript_name": "TiejiliSC-Regular",
+        "subfamily_name": "Regular",
+        "typographic_family_name": "铁蒺藜体 简",
+        "typographic_subfamily_name": "Regular",
+        "unique_identifier": "1.100;Buer;TiejiliSC-Regular",
+        "vendor_url": "https://github.com/Buernia",
+        "version": "Version 1.100;Glyphs 3.1.1 (3146)"
+    },
+    "source_url": "https://github.com/Buernia/Tiejili",
+    "title": "铁蒺藜体",
+    "vendor_url": "https://github.com/Buernia",
+    "version": "Version 1.100;Glyphs 3.1.1 (3146)"
+}

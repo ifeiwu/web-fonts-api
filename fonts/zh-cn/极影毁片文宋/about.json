@@ -1,0 +1,38 @@
+{
+    "copyright": "極影毀片文宋 Medium",
+    "description": "",
+    "designer": "",
+    "designer_url": "",
+    "family": "KTXPBookingSerif",
+    "file_list": [
+        {
+            "file_name": "KTXPBookingSerif.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": 500
+        }
+    ],
+    "file_path": "fonts/zh-cn/极影毁片文宋",
+    "id": "ktxpbookingserif",
+    "language": "zh-cn",
+    "license_description": "http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE",
+    "license_url": "http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE",
+    "names": {
+        "copyright_notice": "極影毀片文宋 Medium",
+        "family_name": "极影毁片文宋 Medium",
+        "full_name": "极影毁片文宋 Medium",
+        "license_description": "http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE",
+        "license_info_url": "http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE",
+        "manufacturer_name": "Free Software Foundation",
+        "postscript_name": "KTXP Booking Serif Medium",
+        "subfamily_name": "Medium",
+        "typographic_family_name": "极影毁片文宋",
+        "typographic_subfamily_name": "Medium",
+        "unique_identifier": "极影毁片文宋 Medium",
+        "version": "Version 1.00"
+    },
+    "source_url": "",
+    "title": "极影毁片文宋",
+    "vendor_url": "",
+    "version": "Version 1.00"
+}

@@ -1,0 +1,41 @@
+{
+    "copyright": "© 2022 猫啃网，夜煞之乐 2001 。猫啃网故障宋由猫啃网以《SIL开源字型授权》下重新发布。 \n © 2014-2022 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.",
+    "description": "修改自思源宋体 CN Heavy。",
+    "designer": "夜煞之乐2001 （修改自思源宋体 CN Heavy）",
+    "designer_url": "http://www.github.com/nightfurysl2001",
+    "family": "MaokenGlitchSerif",
+    "file_list": [
+        {
+            "file_name": "MaokenGlitchSerif-Regular.otf",
+            "font_style": "normal",
+            "font_weight_name": "Black",
+            "font_weight_value": 900
+        }
+    ],
+    "file_path": "fonts/zh-cn/猫啃网故障宋",
+    "id": "maokenglitchserif",
+    "language": "zh-cn",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "© 2022 猫啃网，夜煞之乐 2001 。猫啃网故障宋由猫啃网以《SIL开源字型授权》下重新发布。 \n © 2014-2022 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.",
+        "description": "修改自思源宋体 CN Heavy。",
+        "designer": "夜煞之乐2001 （修改自思源宋体 CN Heavy）",
+        "designer_url": "http://www.github.com/nightfurysl2001",
+        "family_name": "猫啃网故障宋",
+        "full_name": "猫啃网故障宋",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "猫啃网",
+        "postscript_name": "MaokenGlitchSerif-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Source is a trademark of Adobe in the United States and/or other countries.",
+        "unique_identifier": "1.000;ADBO;MaokenGlitchSerif-Regular;ADOBE",
+        "vendor_url": "http://www.maoken.com",
+        "version": "Version 1.000;hotconv 1.1.0;makeotfexe 2.6.0"
+    },
+    "source_url": "https://www.maoken.com/freefonts/15861.html",
+    "title": "猫啃网故障宋",
+    "vendor_url": "http://www.maoken.com",
+    "version": "Version 1.000;hotconv 1.1.0;makeotfexe 2.6.0"
+}

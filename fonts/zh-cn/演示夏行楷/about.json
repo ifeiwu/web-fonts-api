@@ -1,0 +1,35 @@
+{
+    "copyright": "Copyright © 2020 by keynoteart. All rights reserved.",
+    "description": "",
+    "designer": "人生哥据刘锡栋先生手稿制",
+    "designer_url": "",
+    "family": "Slidexiaxing",
+    "file_list": [
+        {
+            "file_name": "Slidexiaxing-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/zh-cn/演示夏行楷",
+    "id": "slidexiaxing",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "Copyright © 2020 by keynoteart. All rights reserved.",
+        "designer": "人生哥据刘锡栋先生手稿制",
+        "family_name": "演示夏行楷",
+        "full_name": "Slidexiaxing Regular",
+        "manufacturer_name": "keynoteart",
+        "postscript_name": "Slidexiaxing-Regular",
+        "subfamily_name": "Regular",
+        "unique_identifier": "1.000;UKWN;Slidexiaxing-Regular",
+        "version": "Version 1.000"
+    },
+    "source_url": "",
+    "title": "演示夏行楷",
+    "vendor_url": "",
+    "version": "Version 1.000"
+}

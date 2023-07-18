@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright 2018 The LongCang Project Authors (https://github.com/googlefonts/longcang)",
+    "description": "",
+    "designer": "ZhongQi",
+    "designer_url": "http://www.zhongqifont.com/",
+    "family": "LongCang",
+    "file_list": [
+        {
+            "file_name": "LongCang-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": 400
+        }
+    ],
+    "file_path": "fonts/zh-cn/有字库龙藏体",
+    "id": "longcang",
+    "language": "zh-cn",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2018 The LongCang Project Authors (https://github.com/googlefonts/longcang)",
+        "designer": "ZhongQi",
+        "designer_url": "http://www.zhongqifont.com/",
+        "family_name": "有字库龙藏体",
+        "full_name": "Long Cang Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "ZhongQi",
+        "postscript_name": "LongCang-Regular",
+        "subfamily_name": "Regular",
+        "trademark": "Trademark of ZHONGQI Electronic Co., ShangHai",
+        "unique_identifier": "2.001;ZYEC;LongCang-Regular",
+        "vendor_url": "http://www.zhongqifont.com/",
+        "version": "Version 2.001"
+    },
+    "source_url": "",
+    "title": "有字库龙藏体",
+    "vendor_url": "http://www.zhongqifont.com/",
+    "version": "Version 2.001"
+}
