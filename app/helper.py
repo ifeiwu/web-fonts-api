@@ -192,6 +192,10 @@ def font_list(type = None, lang = None, keyword = None, orderby = None, offset =
         rows = db['fonts'].rows_where('language = ?', [lang], select=select, order_by=orderby, offset=offset, limit=limit)
         count = db['fonts'].count_where('language = ?', [lang])
     # 搜索指定语言和关键词的字体
+    elif lang != None and keyword != None:
+        rows = db['fonts'].rows_where('language = ? and (title like ? or family like ?)', [lang, '%' + keyword + '%', '%' + keyword + '%'], select=select, order_by=orderby, offset=offset, limit=limit)
+        count = db['fonts'].count_where('language = ? and (title like ? or family like ?)', [lang, '%' + keyword + '%', '%' + keyword + '%'])
+    # 搜索所有关键词的字体
     elif keyword != None:
         rows = db['fonts'].rows_where('title like ? or family like ?', ['%' + keyword + '%', '%' + keyword + '%'], select=select, order_by=orderby, offset=offset, limit=limit)
         count = db['fonts'].count_where('title like ? or family like ?', ['%' + keyword + '%', '%' + keyword + '%'])
