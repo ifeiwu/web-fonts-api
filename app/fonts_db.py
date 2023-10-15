@@ -53,7 +53,7 @@ def fonts_db():
             if not about_data.__contains__('family'):
                 about_data['family'] = font_names['family_name'] if font_names.__contains__('family_name') else font_names['full_name']
 
-            font_id = about_data['family'].replace(' ', '-').lower()
+            font_id = about_data['family'].strip().replace(' ', '-').lower()
 
             about_data['id'] = font_id
             about_data['file_path'] = font_path

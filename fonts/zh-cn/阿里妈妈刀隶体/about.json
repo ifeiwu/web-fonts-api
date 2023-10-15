@@ -1,0 +1,38 @@
+{
+    "copyright": "(c) 2023 阿里巴巴（中国）有限公司，版权所有",
+    "description": "",
+    "designer": "洪良奋、刘川、韩小明、陈养剑、龚巍、壹丝、李穆",
+    "designer_url": "",
+    "family": "AlimamaDaoLiTi",
+    "file_list": [
+        {
+            "file_name": "AlimamaDaoLiTi.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/zh-cn/阿里妈妈刀隶体",
+    "id": "alimamadaoliti",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "(c) 2023 阿里巴巴（中国）有限公司，版权所有",
+        "designer": "洪良奋、刘川、韩小明、陈养剑、龚巍、壹丝、李穆",
+        "family_name": "阿里妈妈刀隶体",
+        "full_name": "阿里妈妈刀隶体",
+        "manufacturer_name": "Alibaba Design",
+        "postscript_name": "AlimamaDaoLiTi",
+        "subfamily_name": "Regular",
+        "trademark": "阿里巴巴、Alibaba是阿里巴巴集团在中国及其他国家或地区的商标或注册商标",
+        "typographic_family_name": "阿里妈妈刀隶体",
+        "typographic_subfamily_name": "Regular",
+        "unique_identifier": "1.000;MAMA;AlimamaDaoLiTi",
+        "version": "Version 1.000;beta"
+    },
+    "source_url": "",
+    "title": "阿里妈妈刀隶体",
+    "vendor_url": "",
+    "version": "Version 1.000;beta"
+}

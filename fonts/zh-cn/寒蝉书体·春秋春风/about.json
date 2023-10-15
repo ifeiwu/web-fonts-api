@@ -1,0 +1,41 @@
+{
+    "copyright": "Copyright © 2020 by keynoteart. All rights reserved.（https://github.com/maoken-fonts/slidefont）",
+    "description": "",
+    "designer": "keynoteart&徐占海",
+    "designer_url": "https://github.com/Warren2060",
+    "family": "ChillCalligraphyChunQiuChenFeng",
+    "file_list": [
+        {
+            "file_name": "ChillCalligraphyChunQiu_ChenFeng.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/zh-cn/寒蝉书体·春秋春风",
+    "id": "chillcalligraphychunqiuchenfeng",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "compatible_full": "寒蝉书体 春秋_春风",
+        "copyright_notice": "Copyright © 2020 by keynoteart. All rights reserved.（https://github.com/maoken-fonts/slidefont）",
+        "designer": "keynoteart&徐占海",
+        "designer_url": "https://github.com/Warren2060",
+        "family_name": "ChillCalligraphyChunQiu",
+        "full_name": "寒蝉书体 春秋_春风",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "keynoteart",
+        "postscript_name": "ChillCalligraphyChunQiu_ChenFeng",
+        "sample_text": "野田春水碧于镜。",
+        "subfamily_name": "Regular",
+        "typographic_family_name": "寒蝉书体 春秋",
+        "typographic_subfamily_name": "春风",
+        "unique_identifier": "1.650;CTST;ChillCalligraphyChunQiu_ChenFeng",
+        "version": "Version 1.650;Glyphs 3.1.1 (3135)"
+    },
+    "source_url": "",
+    "title": "寒蝉书体·春秋春风",
+    "vendor_url": "",
+    "version": "Version 1.650;Glyphs 3.1.1 (3135)"
+}

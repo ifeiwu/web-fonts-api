@@ -1,6 +1,6 @@
 uvicorn[standard]==0.20.0
 gunicorn==20.1.0
 fastapi[all]==0.88.0
-python-fontbro==0.14.14
+python-fontbro==0.16.0
 sqlite-utils==3.30
 requests==2.31.0

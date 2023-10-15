@@ -17,14 +17,17 @@ def font_to_woff2(text: str, font_path: str, save_path: str):
 
     try:
         font = Font(font_path)
-
         if text:
             font.subset(text=text)
+        #else:
+            # 常用 unicode 编码表：https://www.shubang.net/unicode/
+            # 常用汉字区（4E00-62FF），次常用汉字区（6300-77FF），非常用汉字区（7800-8CFF），未分类汉字区（8D00-9FFF）。中文繁体字符集（3400-4DBF）
+            # 中日韩统一表意文字字符 4E00-9FFF：https://www.unicode.org/charts/PDF/U4E00.pdf
+            #font.subset(unicodes="4E00-9FFF 1D400−1D7FF 2190−21FF 2200−22FF 2460−24FF 2500−257F 2580−259F 25A0−25FF 2000−206F AC00−D7AF 20A0−20CF 0E00−0E7F 3000−303F 3200−32FF")
 
         saved_path = font.save_as_woff2(filepath=save_path, overwrite=True)
-
     except Exception as err:
-        print(f"{text} => {save_path} => {save_path}, Error {err=}")
+        print(f"{font_path} => {save_path}, Error {err=}")
     else:
         font.close()
 

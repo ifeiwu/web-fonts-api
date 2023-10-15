@@ -1,0 +1,76 @@
+{
+    "copyright": "© 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.",
+    "description": "Dr. Ken Lunde (project architect, glyph set definition & overall production); Masataka HATTORI 服部正貴 (production & ideograph elements)",
+    "designer": "Ryoko NISHIZUKA 西塚涼子 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications 산돌커뮤니케이션, Soo-young JANG 장수영 & Joo-yeon KANG 강주연 (hangul elements, letters & syllables)",
+    "designer_url": "",
+    "family": "SourceHanSansSC",
+    "file_list": [
+        {
+            "file_name": "SourceHanSansSC-Bold.otf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "SourceHanSansSC-ExtraLight.otf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraLight",
+            "font_weight_value": "200"
+        },
+        {
+            "file_name": "SourceHanSansSC-Heavy.otf",
+            "font_style": "normal",
+            "font_weight_name": "Heavy",
+            "font_weight_value": "900"
+        },
+        {
+            "file_name": "SourceHanSansSC-Light.otf",
+            "font_style": "normal",
+            "font_weight_name": "Light",
+            "font_weight_value": "300"
+        },
+        {
+            "file_name": "SourceHanSansSC-Medium.otf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "SourceHanSansSC-Normal.otf",
+            "font_style": "normal",
+            "font_weight_name": "Normal",
+            "font_weight_value": "400"
+        },
+        {
+            "file_name": "SourceHanSansSC-Regular.otf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/zh-cn/思源黑体",
+    "id": "sourcehansanssc",
+    "language": "zh-cn",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "© 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.",
+        "description": "Dr. Ken Lunde (project architect, glyph set definition & overall production); Masataka HATTORI 服部正貴 (production & ideograph elements)",
+        "designer": "Ryoko NISHIZUKA 西塚涼子 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications 산돌커뮤니케이션, Soo-young JANG 장수영 & Joo-yeon KANG 강주연 (hangul elements, letters & syllables)",
+        "family_name": "思源黑体",
+        "full_name": "思源黑体 Bold",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "Adobe",
+        "postscript_name": "SourceHanSansSC-Bold",
+        "subfamily_name": "Bold",
+        "trademark": "Source is a trademark of Adobe in the United States and/or other countries.",
+        "unique_identifier": "2.004;ADBO;SourceHanSansSC-Bold;ADOBE",
+        "vendor_url": "http://www.adobe.com/type/",
+        "version": "Version 2.004;hotconv 1.0.118;makeotfexe 2.5.65603"
+    },
+    "source_url": "",
+    "title": "思源黑体",
+    "vendor_url": "http://www.adobe.com/type/",
+    "version": "Version 2.004;hotconv 1.0.118;makeotfexe 2.5.65603"
+}

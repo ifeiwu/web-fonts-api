@@ -1,0 +1,43 @@
+{
+    "copyright": "{Kosugi Maru}{Justfont}{Maoken}{ChillType}\nCopyright(C)2010 MOTOYA CO.,LTD.",
+    "description": "基于 Kosugi Maru（小杉圆体）、jf open 粉圆、猫啃糖圆体改作。西文为开源字体 Varela Round，由justfont调整时添加。 调整优化补充为适合国内的排版字体，可由GitHub下载最新版。",
+    "designer": "Warren2060\n      Designed by Motoya company      \n\n      [Varela Round]\n      Joe Prince(Latin component); Avraham Cornfeld(Hebrew component)     \n\n      [jf open huninn]\n      Chiaki.C, Bold, GoRong, Rose, Yunshan(Traditional chinese characters); GoRong(Diacritics); Chiaki.C, Bold(bopomofo); Michael(Programming)",
+    "designer_url": "https://github.com/Warren2060",
+    "family": "ChillRoundF",
+    "file_list": [
+        {
+            "file_name": "ChillRoundF.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/zh-cn/寒蝉全圆体",
+    "id": "chillroundf",
+    "language": "zh-cn",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "{Kosugi Maru}{Justfont}{Maoken}{ChillType}\nCopyright(C)2010 MOTOYA CO.,LTD.",
+        "description": "基于 Kosugi Maru（小杉圆体）、jf open 粉圆、猫啃糖圆体改作。西文为开源字体 Varela Round，由justfont调整时添加。 调整优化补充为适合国内的排版字体，可由GitHub下载最新版。",
+        "designer": "Warren2060\n      Designed by Motoya company      \n\n      [Varela Round]\n      Joe Prince(Latin component); Avraham Cornfeld(Hebrew component)     \n\n      [jf open huninn]\n      Chiaki.C, Bold, GoRong, Rose, Yunshan(Traditional chinese characters); GoRong(Diacritics); Chiaki.C, Bold(bopomofo); Michael(Programming)",
+        "designer_url": "https://github.com/Warren2060",
+        "family_name": "寒蝉全圆体",
+        "full_name": "寒蝉全圆体",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "ChillType",
+        "postscript_name": "ChillRoundF",
+        "sample_text": "野田春水碧於鏡。",
+        "subfamily_name": "Regular",
+        "trademark": "Justfont&Maoken&ChillType",
+        "typographic_family_name": "寒蝉全圆体",
+        "typographic_subfamily_name": "Regular",
+        "unique_identifier": "3.000;CTQY;ChillRoundF",
+        "version": "Version 3.000"
+    },
+    "source_url": "",
+    "title": "寒蝉全圆体",
+    "vendor_url": "",
+    "version": "Version 3.000"
+}

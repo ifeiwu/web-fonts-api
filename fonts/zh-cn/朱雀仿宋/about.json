@@ -1,0 +1,41 @@
+{
+    "copyright": "Copyright 2023 JadeFoci",
+    "description": "",
+    "designer": "余俊益、韩泳思、殷叶航",
+    "designer_url": "http://www.trionestype.com/",
+    "family": "ZhuqueFangsong",
+    "file_list": [
+        {
+            "file_name": "ZhuqueFangsong-Regular.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/zh-cn/朱雀仿宋",
+    "id": "zhuquefangsong",
+    "language": "zh-cn",
+    "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2023 JadeFoci",
+        "designer": "余俊益、韩泳思、殷叶航",
+        "designer_url": "http://www.trionestype.com/",
+        "family_name": "朱雀仿宋（预览测试版）",
+        "full_name": "Zhuque Fangsong (technical preview) Regular",
+        "license_description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "manufacturer_name": "璇玑造字",
+        "postscript_name": "ZhuqueFangsong-Regular",
+        "subfamily_name": "Regular",
+        "typographic_family_name": "朱雀仿宋（预览测试版）",
+        "typographic_subfamily_name": "Regular",
+        "unique_identifier": "0.107;TRIO;ZhuqueFangsong-Regular",
+        "vendor_url": "http://www.trionestype.com/",
+        "version": "Version 0.107"
+    },
+    "source_url": "",
+    "title": "朱雀仿宋",
+    "vendor_url": "http://www.trionestype.com/",
+    "version": "Version 0.107"
+}

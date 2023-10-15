@@ -1,0 +1,38 @@
+{
+    "copyright": "(c) 2023 阿里巴巴（中国）有限公司，版权所有",
+    "description": "",
+    "designer": "刘川、洪良奋、韩小明、陈养剑、龚巍、壹丝、李穆",
+    "designer_url": "",
+    "family": "AlimamaFangYuanTiVF",
+    "file_list": [
+        {
+            "file_name": "AlimamaFangYuanTiVF-Thin.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Thin",
+            "font_weight_value": "100"
+        }
+    ],
+    "file_path": "fonts/zh-cn/阿里妈妈方圆体",
+    "id": "alimamafangyuantivf",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "(c) 2023 阿里巴巴（中国）有限公司，版权所有",
+        "designer": "刘川、洪良奋、韩小明、陈养剑、龚巍、壹丝、李穆",
+        "family_name": "阿里妈妈方圆体 VF",
+        "full_name": "阿里妈妈方圆体 VF",
+        "manufacturer_name": "Alibaba Design",
+        "postscript_name": "AlimamaFangYuanTiVF-Thin",
+        "subfamily_name": "Regular",
+        "trademark": "阿里巴巴、Alibaba是阿里巴巴集团在中国及其他国家或地区的商标或注册商标",
+        "typographic_subfamily_name": "Thin",
+        "unique_identifier": "1.002;MAMA;AlimamaFangYuanTiVF-Thin",
+        "variations_postscript_name_prefix": "AlimamaFangYuanTiVF",
+        "version": "Version 1.002;beta"
+    },
+    "source_url": "",
+    "title": "阿里妈妈方圆体",
+    "vendor_url": "",
+    "version": "Version 1.002;beta"
+}

@@ -1,0 +1,40 @@
+{
+    "copyright": "Copyright 上海字魂网络科技有限公司",
+    "description": "",
+    "designer": "字魂网",
+    "designer_url": "https://izihun.com/",
+    "family": "ZiHunBianTaoTi",
+    "file_list": [
+        {
+            "file_name": "ZiHunBianTaoTi.ttf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/zh-cn/字魂扁桃体",
+    "id": "zihunbiantaoti",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "",
+    "names": {
+        "copyright_notice": "Copyright 上海字魂网络科技有限公司",
+        "designer": "字魂网",
+        "designer_url": "https://izihun.com/",
+        "family_name": "字魂扁桃体",
+        "full_name": "字魂扁桃体",
+        "manufacturer_name": "上海字魂网络科技有限公司",
+        "postscript_name": "zihunbiantaoti",
+        "subfamily_name": "Regular",
+        "trademark": "字魂 (R)",
+        "typographic_family_name": "字魂扁桃体",
+        "typographic_subfamily_name": "常规体",
+        "unique_identifier": "zihunbiantaoti",
+        "vendor_url": "https://izihun.com/",
+        "version": "Version 1.00"
+    },
+    "source_url": "",
+    "title": "字魂扁桃体",
+    "vendor_url": "https://izihun.com/",
+    "version": "Version 1.00"
+}

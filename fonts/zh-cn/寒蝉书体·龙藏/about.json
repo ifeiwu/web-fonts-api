@@ -1,0 +1,56 @@
+{
+    "copyright": "Copyright 2018 The LongCang Project Authors (https://github.com/googlefonts/longcang)",
+    "description": "",
+    "designer": "",
+    "designer_url": "https://github.com/Warren2060",
+    "family": "ChillCalligraphyLongcang",
+    "file_list": [
+        {
+            "file_name": "ChillCalligraphyLongcang-Bold.otf",
+            "font_style": "normal",
+            "font_weight_name": "Bold",
+            "font_weight_value": "700"
+        },
+        {
+            "file_name": "ChillCalligraphyLongcang-ExtraBold.otf",
+            "font_style": "normal",
+            "font_weight_name": "ExtraBold",
+            "font_weight_value": "800"
+        },
+        {
+            "file_name": "ChillCalligraphyLongcang-Medium.otf",
+            "font_style": "normal",
+            "font_weight_name": "Medium",
+            "font_weight_value": "500"
+        },
+        {
+            "file_name": "ChillCalligraphyLongcang-Regular.otf",
+            "font_style": "normal",
+            "font_weight_name": "Regular",
+            "font_weight_value": "400"
+        }
+    ],
+    "file_path": "fonts/zh-cn/寒蝉书体·龙藏",
+    "id": "chillcalligraphylongcang",
+    "language": "zh-cn",
+    "license_description": "",
+    "license_url": "http://scripts.sil.org/OFL",
+    "names": {
+        "copyright_notice": "Copyright 2018 The LongCang Project Authors (https://github.com/googlefonts/longcang)",
+        "designer_url": "https://github.com/Warren2060",
+        "family_name": "ChillCalligraphy Medium",
+        "full_name": "寒蝉书体_龙藏B",
+        "license_info_url": "http://scripts.sil.org/OFL",
+        "postscript_name": "ChillCalligraphy_LongcangB",
+        "sample_text": "野田春水碧于镜。",
+        "subfamily_name": "Bold",
+        "typographic_family_name": "寒蝉书体",
+        "typographic_subfamily_name": "龙藏B",
+        "unique_identifier": "3.410;CTST;ChillCalligraphy_LongcangB",
+        "version": "Version 3.410;Glyphs 3.1.1 (3135)"
+    },
+    "source_url": "",
+    "title": "寒蝉书体·龙藏",
+    "vendor_url": "",
+    "version": "Version 3.410;Glyphs 3.1.1 (3135)"
+}
